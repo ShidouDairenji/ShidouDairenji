@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi i am Anonymous-WeeB</h1>
+<h1 align="center">Hi I am Shidou</h1>
 
 <h3 align="center">A noob who is learning 👀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous-weeb&label=Profile%20views&color=0e75b6&style=plastic" alt="anonymous-weeb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShidouDairenji&label=Profile%20views&color=0e75b6&style=plastic" alt="ShidouDairenji" /> </p>
 
 - 🔭 I’m currently working on [NekoBot](https://github.com/Anonymous-Weeb/NekoBot)
 
