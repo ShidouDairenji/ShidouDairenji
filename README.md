@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shidou</h1>
+<h1 align="center">Hi there, I'm Shidou</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shidoudairenji&label=Profile%20views&color=f40101&style=flat" alt="shidoudairenji" /> </p>
 
 - 🔭 I’m currently working on [Vanilla Bot X](https://github.com/ShidouDairenji/VanillaBotX)
