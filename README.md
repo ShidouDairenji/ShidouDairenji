@@ -29,5 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shidoudairenji&show_icons=true&theme=tokyonight&locale=en" alt="shidoudairenji" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /></p>
-
+## 🎵 **Crap I listen to, on Spotify.**
+![OwO](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count={3})
 <img src = https://media.tenor.com/images/d1b53d8835e48385117d86281d4681cc/tenor.gif width = 150 align = "right">
+
