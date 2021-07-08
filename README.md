@@ -15,7 +15,7 @@
 - ⚡ Fun Fact - **Learning and Growing Everyday**
 
 <h3 align="left">Connect with me:</h3> <p align="left">
-<a href="https://stackoverflow.com/users/16135246/shidou-dairenji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shidou-dairenji" height="30" width="40" / <a href="https://t.me/Hum0ur_Being" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATelegram_2019_Logo.svg&psig=AOvVaw3niTNVkuYgdAJSL0DHjmQd&ust=1625820730081000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNjV0auM0_ECFQAAAAAdAAAAABAD" alt="shidou-dairenji" height="30" width="40"</a>
+<a href="https://stackoverflow.com/users/16135246/shidou-dairenji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shidou-dairenji" height="30" width="40" / <a href="https://t.me/Hum0ur_Being" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="shidou-dairenji" height="30" width="40"</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
