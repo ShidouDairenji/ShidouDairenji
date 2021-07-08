@@ -15,6 +15,7 @@
 - ⚡ Fun Fact - **Learning and Growing Everyday**
 
 <h3 align="left">Connect with me:</h3> <p align="left">
+[Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/starryboi)
 <a href="https://stackoverflow.com/users/16135246/shidou-dairenji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shidou-dairenji" height="30" width="40" /></a>
 </p>
 
