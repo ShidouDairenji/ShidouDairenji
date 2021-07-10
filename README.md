@@ -25,7 +25,7 @@
 <p><a href="https://ko-fi.com/shidou"> <img align="left" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbed8a4ae2b88347c06c923_BuyMeACoffee_blue-p-500.png" height="50" width="180" alt="https://ko-fi.com/shidou" /></a></p>
 <p><a href="https://www.buymeacoffee.com/AnonymousWeeB"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/AnonymousWeeB" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shidoudairenji&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="shidoudairenji" /></p>
+<p>&nbsp;<img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1username=shidoudairenji&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="shidoudairenji" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /></p>
 
