@@ -15,7 +15,7 @@
 - ⚡ Fun Fact - **Learning and Growing Everyday**
 
 ##
-<h3 align="left">Connect with me:</h3> <p align="left">
+
 <a href="https://stackoverflow.com/users/16135246/shidou-dairenji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shidou-dairenji" height="40" width="50" / <a href="https://t.me/Hum0ur_Being" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Hum0ur_Being" height="50" width="60"</a>
 </p>
 
