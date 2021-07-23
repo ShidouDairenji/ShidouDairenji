@@ -23,7 +23,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/shidou"> <img align="left" src="https://www.pngitem.com/pimgs/b/93-934578_barney-stinson-png.png" height="50" width="180" alt="https://ko-fi.com/shidou" /></a></p>
-<p><a href="https://www.buymeacoffee.com/AnonymousWeeB"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/AnonymousWeeB" /></a></p><br><br>
+<br><br>
 .
 <p>&nbsp;<img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" alt="shidoudairenji" /></p>
 
