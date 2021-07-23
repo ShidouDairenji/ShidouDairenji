@@ -24,7 +24,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/shidou"> <img align="left" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbed8a4ae2b88347c06c923_BuyMeACoffee_blue-p-500.png" height="50" width="180" alt="https://ko-fi.com/shidou" /></a></p>
 <br><br>
-.
+
+## 🎵 **Vibing to songs on Spotify**
 <p>&nbsp;<img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" alt="shidoudairenji" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /></p>
