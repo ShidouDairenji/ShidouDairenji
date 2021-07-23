@@ -31,7 +31,7 @@
 ## 
 <p>&nbsp;<img align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" alt="shidoudairenji" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /></p>
 
 ## 🎵 **Vibing to songs on Spotify**
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
