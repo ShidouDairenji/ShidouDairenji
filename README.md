@@ -26,7 +26,6 @@
 ## **Support Me**
 
 <p><a href='https://ko-fi.com/N4N54Z6H7' target='_blank'><img height='50' style='border:0px;height:0px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee' /></a></p>
-<br>
 
 ## 
 <p>&nbsp;<img align="centre" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" alt="shidoudairenji" /></p>
