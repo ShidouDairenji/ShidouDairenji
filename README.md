@@ -25,7 +25,7 @@
 
 ## **Suppoet Me**
 
-<p><a href="https://ko-fi.com/shidou"> <img align="left" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbed8a4ae2b88347c06c923_BuyMeACoffee_blue-p-500.png" height="50" width="180" alt="https://ko-fi.com/shidou" /></a></p>
+<p><a href='https://ko-fi.com/N4N54Z6H7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee' /></a></p>
 <br><br>
 
 ## 
