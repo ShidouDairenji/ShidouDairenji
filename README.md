@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Shidou <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Bold&color=5922F7&size=25&center=true&lines=As+a+Weeb;As+a+learner;As+a+music+addict)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Bold&color=5922F7&size=25&right=true&lines=As+a+Weeb;As+a+learner;As+a+music+addict)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shidoudairenji&label=Profile%20views&color=f40101&style=flat" alt="shidoudairenji" /> </p>
 
