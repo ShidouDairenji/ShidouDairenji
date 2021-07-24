@@ -25,7 +25,7 @@
 
 ## **Suppoet Me**
 
-<p><a href='https://ko-fi.com/N4N54Z6H7' target='_blank'><img height='20' style='border:0px;height:10px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee' /></a></p>
+<p><a href='https://ko-fi.com/N4N54Z6H7' target='_blank'><img height='50' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee' /></a></p>
 <br><br>
 
 ## 
