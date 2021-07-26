@@ -37,7 +37,7 @@
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" height="192px"/></a>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /> height="192px"</p>
 </details>
 
   ## 🎵 **Vibing to songs on Spotify**
