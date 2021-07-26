@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Shidou <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> </h1>
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJZega_mLhOi3PnaWwcz2Sw?label=Youtube%20Views&style=plastic)
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJZega_mLhOi3PnaWwcz2Sw?label=YouTube%20Views&style=flat-square">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shidoudairenji&label=Profile%20views&color=f40101&style=flat" alt="shidoudairenji" /> </p> 
