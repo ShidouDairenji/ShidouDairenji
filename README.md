@@ -39,8 +39,8 @@
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /></p>
 
-## 🎵 **Vibing to songs on Spotify**
-![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
+<p>## 🎵 **Vibing to songs on Spotify**
+![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5) </p>
 
 <img src = https://media.tenor.com/images/d1b53d8835e48385117d86281d4681cc/tenor.gif width = 150 align = "right">
 
