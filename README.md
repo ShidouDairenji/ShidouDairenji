@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi there, I'm Shidou <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> </h1>
 
-<a href="https://www.youtube.com/channel/[UCJZega_mLhOi3PnaWwcz2Sw]">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[UCJZega_mLhOi3PnaWwcz2Sw]&key=[AIzaSyCscowpgBqTBhd3hr-22tA76VWFjboMzcg]"/>
+<a href="https://www.youtube.com/channel/UCJZega_mLhOi3PnaWwcz2Sw">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCJZega_mLhOi3PnaWwcz2Sw&key=AIzaSyCscowpgBqTBhd3hr-22tA76VWFjboMzcg"/>
 </a>
 
 
