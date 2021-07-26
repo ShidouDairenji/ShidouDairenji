@@ -35,7 +35,7 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" height="192px"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Shidou's Github Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" height="192px"/>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /> </a>
 </details>
 
