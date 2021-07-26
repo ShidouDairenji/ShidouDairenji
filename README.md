@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi there, I'm Shidou <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> </h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=621AF7&size=30&center=true&lines=as+a+Learner;as+a+Self+Taught+Developer;as+a+Weeb"></a>
+</p>
+
 <p align="center"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJZega_mLhOi3PnaWwcz2Sw?label=YouTube%20Views&style=flat-square">
 <img src="https://komarev.com/ghpvc/?username=shidoudairenji&label=Github%20Profile%20views&color=f40101&style=flat" alt="shidoudairenji" /> </p> 
 
@@ -29,10 +33,19 @@
 
 <p><a href='https://ko-fi.com/N4N54Z6H7' target='_blank'><img height='50' style='border:0px;height:0px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee' /></a></p>
 
-## 
-<p>&nbsp;<img align="centre" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" alt="shidoudairenji" /></p>
+## 📊 Github stats
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /></p>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shidou's Github Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" height="192px"/> </a>
+<a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /> </a>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShidouDairenji&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
 
 ## 🎵 **Vibing to songs on Spotify**
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
