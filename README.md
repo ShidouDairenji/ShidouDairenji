@@ -49,7 +49,8 @@
   <summary>GitHub Karma</summary>
   <br/>
  [![Source Karma badge for @ShidouDairenji](https://sourcekarma-og.vercel.app/api/ShidouDairenji/github)](https://sourcekarma.vercel.app/ShidouDairenji)
-  </details>
+  
+</details>
 
 ## 🎵 **Vibing to songs on Spotify**
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
