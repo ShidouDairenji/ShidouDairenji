@@ -33,7 +33,7 @@
 
 <p><a href='https://ko-fi.com/N4N54Z6H7' target='_blank'><img height='50' style='border:0px;height:0px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee' /></a></p>
 
-## 📊 Github stats
+## 📊 My stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
@@ -45,7 +45,11 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShidouDairenji&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
-
+<details> 
+  <summary>GitHub Karma</summary>
+  <br/>
+  [![Source Karma badge for @ShidouDairenji](https://sourcekarma-og.vercel.app/api/ShidouDairenji/github)](https://sourcekarma.vercel.app/ShidouDairenji)
+  </details>
 
 ## 🎵 **Vibing to songs on Spotify**
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
