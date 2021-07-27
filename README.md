@@ -56,6 +56,13 @@
   <summary>My Anilist Activity</summary>
 
 <!-- ANILIST_ACTIVITY:start -->
+
+-   📺 Completed [Your Lie in April](https://anilist.co/anime/20665) (10:30, 27 July 2021)
+-   📺 Completed [One-Punch Man](https://anilist.co/anime/21087) (10:30, 27 July 2021)
+-   📺 Completed [Nisekoi:](https://anilist.co/anime/20876) (10:28, 27 July 2021)
+-   📺 Completed [Nisekoi](https://anilist.co/anime/18897) (10:28, 27 July 2021)
+-   📺 Watched episode 4 of [Girlfriend, Girlfriend](https://anilist.co/anime/126192) (10:27, 27 July 2021)
+
 <!-- ANILIST_ACTIVITY:end -->
 
 </details>
