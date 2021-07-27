@@ -43,12 +43,17 @@
 <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /> </a>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShidouDairenji&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-<!-- ANILIST_ACTIVITY:start -->
+</details>
 
+<details> 
+  <summary>My Anilist Activity</summary>
+
+<!-- ANILIST_ACTIVITY:start -->
 <!-- ANILIST_ACTIVITY:end -->
 
-## 🎵 **Vibing to songs on Spotify**
+</details>
+
+ ## 🎵 **Vibing to songs on Spotify**
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
 
 <img src = https://media.tenor.com/images/d1b53d8835e48385117d86281d4681cc/tenor.gif width = 150 align = "right">
