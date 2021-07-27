@@ -46,7 +46,8 @@
 
 </details>
 
-# 🌸 My recent AniList activity
+<details>
+  <summary>🌸 My recent AniList activity</summary>
 
 <!-- ANILIST_ACTIVITY:start -->
 
@@ -55,8 +56,10 @@
 
 
 
+
 <!-- ANILIST_ACTIVITY:end -->
 
+</details>
 
 ## 🎵 **Vibing to songs on Spotify**
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
