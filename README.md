@@ -59,6 +59,7 @@
 <!-- ANILIST_ACTIVITY:end -->
 
 </details>
+
 ## 🎵 **Vibing to songs on Spotify**
 
 
