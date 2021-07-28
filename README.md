@@ -56,11 +56,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Kasane](https://anilist.co/manga/85198) (07:46, 28 July 2021)
--   📖 Completed [Sweet Home](https://anilist.co/manga/100954) (07:46, 28 July 2021)
--   📖 Completed [Bastard](https://anilist.co/manga/86964) (07:45, 28 July 2021)
--   📖 Completed [Konya wa Tsuki ga Kirei desu ga, Toriaezu Shine: Last](https://anilist.co/manga/108841) (07:45, 28 July 2021)
--   📖 Completed [Can You Just Die, My Darling?](https://anilist.co/manga/86797) (04:30, 28 July 2021)
+-   📺 Completed [The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301) (10:52, 28 July 2021)
+-   📺 Completed [Seitokai Yakuindomo OVA](https://anilist.co/anime/20826) (10:43, 28 July 2021)
+-   📺 Completed [Seitokai Yakuindomo Season 2](https://anilist.co/anime/20448) (10:43, 28 July 2021)
+-   📺 Completed [Seitokai Yakuindomo OVA](https://anilist.co/anime/10119) (10:43, 28 July 2021)
+-   📺 Completed [Seitokai Yakuindomo](https://anilist.co/anime/8675) (10:43, 28 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
