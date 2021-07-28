@@ -53,7 +53,7 @@
 
 </details>
 
- ## <img src = https://tenor.com/bb5lX.gif width = 20>🎵 **Vibing to songs on Spotify**
+ ## <img src = https://media.tenor.com/images/0f612ae2d53fb4a2eb00e74656349f92/tenor.gif width = 20>🎵 **Vibing to songs on Spotify**
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
 
 <img src = https://media.tenor.com/images/d1b53d8835e48385117d86281d4681cc/tenor.gif width = 150 align = "right">
