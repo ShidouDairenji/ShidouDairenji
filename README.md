@@ -57,11 +57,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Kasane](https://anilist.co/manga/85198) (07:46, 28 July 2021)
+-   📖 Completed [Sweet Home](https://anilist.co/manga/100954) (07:46, 28 July 2021)
+-   📖 Completed [Bastard](https://anilist.co/manga/86964) (07:45, 28 July 2021)
+-   📖 Completed [Konya wa Tsuki ga Kirei desu ga, Toriaezu Shine: Last](https://anilist.co/manga/108841) (07:45, 28 July 2021)
 -   📖 Completed [Can You Just Die, My Darling?](https://anilist.co/manga/86797) (04:30, 28 July 2021)
--   📺 Completed [Your Lie in April](https://anilist.co/anime/20665) (10:30, 27 July 2021)
--   📺 Completed [One-Punch Man](https://anilist.co/anime/21087) (10:30, 27 July 2021)
--   📺 Completed [Nisekoi:](https://anilist.co/anime/20876) (10:28, 27 July 2021)
--   📺 Completed [Nisekoi](https://anilist.co/anime/18897) (10:28, 27 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
