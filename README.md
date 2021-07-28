@@ -37,7 +37,7 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 GitHub Profile</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shidou's Github Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" height="192px"/> </a>
 <a> <img height="192px" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /> </a>
@@ -52,7 +52,7 @@
 </details>
 
 <details> 
-  <summary>My Anilist Activity</summary>
+  <summary>My Anilist</summary>
 
 <!-- ANILIST_ACTIVITY:start -->
 
@@ -65,7 +65,6 @@
 <!-- ANILIST_ACTIVITY:end -->
 
 </details>
-
 
  ## <img src = https://media.tenor.com/images/48ea3cc3a4365e637c37b5fe4f312de7/tenor.gif width = 50> **Vibing to songs on Spotify**
 
