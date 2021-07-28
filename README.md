@@ -33,27 +33,42 @@
 
 <p><a href='https://ko-fi.com/N4N54Z6H7' target='_blank'><img height='50' style='border:0px;height:0px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee' /></a></p>
 
-## 📊 Github stats
+## 📊 My stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shidou's Github Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" height="192px"/> </a>
-<a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /> </a>
+<a> <img height="192px" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /> </a>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShidouDairenji&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
+<details> 
+  <summary>GitHub Karma</summary>
+
+[![Source Karma badge for @ShidouDairenji](https://sourcekarma-og.vercel.app/api/ShidouDairenji/github)](https://sourcekarma.vercel.app/ShidouDairenji)
+
 </details>
 
 <details> 
   <summary>My Anilist Activity</summary>
 
 <!-- ANILIST_ACTIVITY:start -->
+
+-   📖 Plans to read [Kasane](https://anilist.co/manga/85198) (07:46, 28 July 2021)
+-   📖 Completed [Sweet Home](https://anilist.co/manga/100954) (07:46, 28 July 2021)
+-   📖 Completed [Bastard](https://anilist.co/manga/86964) (07:45, 28 July 2021)
+-   📖 Completed [Konya wa Tsuki ga Kirei desu ga, Toriaezu Shine: Last](https://anilist.co/manga/108841) (07:45, 28 July 2021)
+-   📖 Completed [Can You Just Die, My Darling?](https://anilist.co/manga/86797) (04:30, 28 July 2021)
+
 <!-- ANILIST_ACTIVITY:end -->
 
 </details>
 
+
  ## <img src = https://media.tenor.com/images/48ea3cc3a4365e637c37b5fe4f312de7/tenor.gif width = 50> **Vibing to songs on Spotify**
+
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
 
 <img src = https://media.tenor.com/images/d1b53d8835e48385117d86281d4681cc/tenor.gif width = 150 align = "right">
