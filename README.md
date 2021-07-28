@@ -33,7 +33,7 @@
 
 <p><a href='https://ko-fi.com/N4N54Z6H7' target='_blank'><img height='50' style='border:0px;height:0px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee' /></a></p>
 
-## 📊 My stats
+## <img src = https://i.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.webp width = 30> My stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
@@ -43,7 +43,6 @@
 <a> <img height="192px" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /> </a>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShidouDairenji&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </details>
 <details> 
   <summary>GitHub Karma</summary>
