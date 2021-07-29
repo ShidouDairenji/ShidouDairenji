@@ -56,11 +56,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Darwin's Game](https://anilist.co/anime/105190) (07:03, 29 July 2021)
 -   📺 Completed [Gurren Lagann](https://anilist.co/anime/2001) (11:49, 28 July 2021)
 -   📺 Completed [Touken Ranbu - Hanamaru](https://anilist.co/anime/21741) (11:47, 28 July 2021)
 -   📺 Completed [God Eater](https://anilist.co/anime/20849) (11:47, 28 July 2021)
 -   📺 Completed [Hunter x Hunter (2011)](https://anilist.co/anime/11061) (11:29, 28 July 2021)
--   📺 Completed [The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301) (10:52, 28 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
