@@ -56,11 +56,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Darwin's Game](https://anilist.co/anime/105190) (07:03, 29 July 2021)
--   📺 Completed [Gurren Lagann](https://anilist.co/anime/2001) (11:49, 28 July 2021)
--   📺 Completed [Touken Ranbu - Hanamaru](https://anilist.co/anime/21741) (11:47, 28 July 2021)
--   📺 Completed [God Eater](https://anilist.co/anime/20849) (11:47, 28 July 2021)
--   📺 Completed [Hunter x Hunter (2011)](https://anilist.co/anime/11061) (11:29, 28 July 2021)
+-   📺 Completed [Love, Chunibyo & Other Delusions](https://anilist.co/anime/14741) (07:46, 29 July 2021)
+-   📺 Completed [Princess Connect! Re: Dive](https://anilist.co/anime/107871) (07:37, 29 July 2021)
+-   📺 Completed [Saekano the Movie: Finale](https://anilist.co/anime/100675) (07:22, 29 July 2021)
+-   📺 Completed [Saekano: How to Raise a Boring Girlfriend ♭](https://anilist.co/anime/21180) (07:22, 29 July 2021)
+-   📺 Completed [Saekano: How to Raise a Boring Girlfriend](https://anilist.co/anime/20657) (07:22, 29 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
