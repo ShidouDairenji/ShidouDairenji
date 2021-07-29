@@ -56,11 +56,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Say "I Love You".](https://anilist.co/anime/14289) (11:07, 29 July 2021)
--   📺 Completed [ORESUKI: Are you the only one who loves me?](https://anilist.co/anime/104464) (09:02, 29 July 2021)
--   📺 Completed [Love, Chunibyo & Other Delusions](https://anilist.co/anime/14741) (07:46, 29 July 2021)
--   📺 Completed [Princess Connect! Re: Dive](https://anilist.co/anime/107871) (07:37, 29 July 2021)
--   📺 Completed [Saekano the Movie: Finale](https://anilist.co/anime/100675) (07:22, 29 July 2021)
+-   📺 Completed [Noragami Aragoto](https://anilist.co/anime/21128) (12:14, 29 July 2021)
+-   📺 Completed [Noragami](https://anilist.co/anime/20447) (12:12, 29 July 2021)
+-   📺 Completed [Haikyu!! The Movie: Battle of Concepts](https://anilist.co/anime/98885) (11:52, 29 July 2021)
+-   📺 Completed [HAIKYU‼ TO THE TOP Part 2](https://anilist.co/anime/113538) (11:51, 29 July 2021)
+-   📺 Completed [HAIKYU‼ TO THE TOP](https://anilist.co/anime/106625) (11:50, 29 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
