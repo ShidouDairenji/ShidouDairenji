@@ -56,11 +56,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [ORESUKI: Are you the only one who loves me?](https://anilist.co/anime/104464) (09:02, 29 July 2021)
 -   📺 Completed [Love, Chunibyo & Other Delusions](https://anilist.co/anime/14741) (07:46, 29 July 2021)
 -   📺 Completed [Princess Connect! Re: Dive](https://anilist.co/anime/107871) (07:37, 29 July 2021)
 -   📺 Completed [Saekano the Movie: Finale](https://anilist.co/anime/100675) (07:22, 29 July 2021)
 -   📺 Completed [Saekano: How to Raise a Boring Girlfriend ♭](https://anilist.co/anime/21180) (07:22, 29 July 2021)
--   📺 Completed [Saekano: How to Raise a Boring Girlfriend](https://anilist.co/anime/20657) (07:22, 29 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
