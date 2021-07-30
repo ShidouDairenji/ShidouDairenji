@@ -35,7 +35,7 @@
 
 ## <img src = https://i.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.webp width = 30> My stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 <details> 
   <summary>💻 GitHub Profile</summary>
   <br/>
@@ -46,14 +46,26 @@
 </details>
 <details> 
   <summary>GitHub Karma</summary>
-
+  <br/>
+  
 [![Source Karma badge for @ShidouDairenji](https://sourcekarma-og.vercel.app/api/ShidouDairenji/github)](https://sourcekarma.vercel.app/ShidouDairenji)
 
 </details>
 
+
+
+<details> 
+  <summary>My Trophies</summary>
+ <br/>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ShidouDairenji&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&theme=onedark&no-frame=true
+)
+</details>
+
+
 <details> 
   <summary>My Anilist</summary>
-
+  <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
 -   📖 Read chapter 4 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (07:29, 30 July 2021)
@@ -66,9 +78,16 @@
 
 </details>
 
+
  ## <img src = https://media.tenor.com/images/48ea3cc3a4365e637c37b5fe4f312de7/tenor.gif width = 40> **Vibing to songs on Spotify**
 
+
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
+
+
+
+
+
 
 <img src = https://media.tenor.com/images/d1b53d8835e48385117d86281d4681cc/tenor.gif width = 150 align = "right">
 
