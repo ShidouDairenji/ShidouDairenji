@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Shidou <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=621AF7&size=30&center=true&lines=as+a+Learner;as+a+Self+Taught+Developer;as+a+Weeb"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=621AF7&size=30&center=true&lines=as+a+Learner;as+a+Self+Taught+Coder;as+a+Weeb"></a>
 </p>
 
 <p align="center"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJZega_mLhOi3PnaWwcz2Sw?label=YouTube%20Views&style=flat-square">
@@ -68,19 +68,19 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Kasane](https://anilist.co/manga/85198) (07:46, 28 July 2021)
--   📖 Completed [Sweet Home](https://anilist.co/manga/100954) (07:46, 28 July 2021)
--   📖 Completed [Bastard](https://anilist.co/manga/86964) (07:45, 28 July 2021)
--   📖 Completed [Konya wa Tsuki ga Kirei desu ga, Toriaezu Shine: Last](https://anilist.co/manga/108841) (07:45, 28 July 2021)
--   📖 Completed [Can You Just Die, My Darling?](https://anilist.co/manga/86797) (04:30, 28 July 2021)
+-   📖 Read chapter 4 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (07:29, 30 July 2021)
+-   📺 Completed [Boarding School Juliet](https://anilist.co/anime/101310) (03:26, 30 July 2021)
+-   📺 Completed [Noragami Aragoto](https://anilist.co/anime/21128) (12:14, 29 July 2021)
+-   📺 Completed [Noragami](https://anilist.co/anime/20447) (12:12, 29 July 2021)
+-   📺 Completed [Haikyu!! The Movie: Battle of Concepts](https://anilist.co/anime/98885) (11:52, 29 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
 </details>
 
 
+ ## <img src = https://media.tenor.com/images/48ea3cc3a4365e637c37b5fe4f312de7/tenor.gif width = 40> **Vibing to songs on Spotify**
 
-## <img src = https://media.tenor.com/images/48ea3cc3a4365e637c37b5fe4f312de7/tenor.gif width = 50> **Vibing to songs on Spotify**
 
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
 
