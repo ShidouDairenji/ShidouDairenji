@@ -47,7 +47,7 @@
 <details> 
   <summary>GitHub Karma</summary>
   <br/>
-[![Source Karma badge for @ShidouDairenji](https://sourcekarma-og.vercel.app/api/ShidouDairenji/github)](https://sourcekarma.vercel.app/ShidouDairenji)
+  [![Source Karma badge for @ShidouDairenji](https://sourcekarma-og.vercel.app/api/ShidouDairenji/github)](https://sourcekarma.vercel.app/ShidouDairenji)
 
 </details>
 
