@@ -56,11 +56,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (07:29, 30 July 2021)
 -   📺 Completed [Boarding School Juliet](https://anilist.co/anime/101310) (03:26, 30 July 2021)
 -   📺 Completed [Noragami Aragoto](https://anilist.co/anime/21128) (12:14, 29 July 2021)
 -   📺 Completed [Noragami](https://anilist.co/anime/20447) (12:12, 29 July 2021)
 -   📺 Completed [Haikyu!! The Movie: Battle of Concepts](https://anilist.co/anime/98885) (11:52, 29 July 2021)
--   📺 Completed [HAIKYU‼ TO THE TOP Part 2](https://anilist.co/anime/113538) (11:51, 29 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
