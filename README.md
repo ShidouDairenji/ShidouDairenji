@@ -55,7 +55,7 @@
 
 <details> 
   <summary>My Trophies</summary>
-  <br/>
+ <br/>
  ![trophy](https://github-profile-trophy.vercel.app/?username=ShidouDairenji&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&theme=onedark&no-frame=true
 )
 </details>
