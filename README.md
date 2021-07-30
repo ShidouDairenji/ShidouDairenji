@@ -70,7 +70,7 @@
 
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShidouDairenji&title=Stars,Followers
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShidouDairenji&title=Stars,Followers,Commit,Repositories
 )
 
 
