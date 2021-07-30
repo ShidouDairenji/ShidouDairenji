@@ -46,7 +46,7 @@
 </details>
 <details> 
   <summary>GitHub Karma</summary>
-
+  <br/>
 [![Source Karma badge for @ShidouDairenji](https://sourcekarma-og.vercel.app/api/ShidouDairenji/github)](https://sourcekarma.vercel.app/ShidouDairenji)
 
 </details>
@@ -55,7 +55,7 @@
 
 <details> 
   <summary>My Trophies</summary>
-  
+  <br/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=ShidouDairenji&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&theme=onedark&no-frame=true
 )
 </details>
@@ -63,7 +63,7 @@
 
 <details> 
   <summary>My Anilist</summary>
-
+  <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
 -   📖 Plans to read [Kasane](https://anilist.co/manga/85198) (07:46, 28 July 2021)
