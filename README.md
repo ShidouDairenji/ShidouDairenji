@@ -45,7 +45,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShidouDairenji&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 <details> 
-  <summary>GitHub Karma</summary>
+  <summary>🔖GitHub Karma</summary>
   <br/>
   
 [![Source Karma badge for @ShidouDairenji](https://sourcekarma-og.vercel.app/api/ShidouDairenji/github)](https://sourcekarma.vercel.app/ShidouDairenji)
@@ -55,7 +55,7 @@
 
 
 <details> 
-  <summary>My Trophies</summary>
+  <summary>🏆My Trophies</summary>
  <br/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ShidouDairenji&rank=SECRET,SSS,SS,S,AAA,AA,A,B&row=2&column=3&theme=onedark&no-frame=true
@@ -64,7 +64,7 @@
 
 
 <details> 
-  <summary>My Anilist</summary>
+  <summary>🎐My Anilist</summary>
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
