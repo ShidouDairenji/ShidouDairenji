@@ -35,7 +35,7 @@
 
 ## <img src = https://i.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.webp width = 30> My stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 <details> 
   <summary>💻 GitHub Profile</summary>
   <br/>
@@ -50,6 +50,15 @@
 [![Source Karma badge for @ShidouDairenji](https://sourcekarma-og.vercel.app/api/ShidouDairenji/github)](https://sourcekarma.vercel.app/ShidouDairenji)
 
 </details>
+
+
+
+<details> 
+  <summary>My Trophies</summary>
+![trophy](https://github-profile-trophy.vercel.app/?username=ShidouDairenji&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&theme=onedark&no-frame=true
+)
+</details>
+
 
 <details> 
   <summary>My Anilist</summary>
@@ -66,12 +75,13 @@
 
 </details>
 
- ## <img src = https://media.tenor.com/images/48ea3cc3a4365e637c37b5fe4f312de7/tenor.gif width = 50> **Vibing to songs on Spotify**
+
+
+## <img src = https://media.tenor.com/images/48ea3cc3a4365e637c37b5fe4f312de7/tenor.gif width = 50> **Vibing to songs on Spotify**
 
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ShidouDairenji&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&theme=onedark&no-frame=true
-)
+
 
 
 
