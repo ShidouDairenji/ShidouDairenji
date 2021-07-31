@@ -68,11 +68,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [This Art Club Has a Problem!](https://anilist.co/anime/21457) (10:41, 31 July 2021)
 -   📺 Completed [Waiting in the Summer](https://anilist.co/anime/11433) (09:33, 31 July 2021)
 -   📺 Completed [Nichijou - My Ordinary Life](https://anilist.co/anime/10165) (09:20, 31 July 2021)
 -   📺 Completed [Magi: The Labyrinth of Magic](https://anilist.co/anime/14513) (09:14, 31 July 2021)
 -   📺 Completed [Magi: The Kingdom of Magic](https://anilist.co/anime/18115) (09:13, 31 July 2021)
--   📖 Read chapter 4 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (07:29, 30 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
