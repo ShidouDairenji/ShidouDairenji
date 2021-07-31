@@ -39,8 +39,8 @@
 <details> 
   <summary>💻 GitHub Profile</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shidou's Github Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" height="150px"/>
-<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /> </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shidou's Github Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shidoudairenji&count_private=true&show_icons=true&theme=buefy&locale=en" height="190px"/>
+<img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=shidoudairenji&" alt="shidoudairenji" /> </a>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShidouDairenji&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
