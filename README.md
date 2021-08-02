@@ -68,11 +68,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Zatch Bell!](https://anilist.co/anime/250) (07:50, 02 August 2021)
+-   📺 Completed [Fullmetal Alchemist: The Movie - Conqueror of Shamballa](https://anilist.co/anime/430) (07:43, 02 August 2021)
+-   📺 Completed [Fullmetal Alchemist](https://anilist.co/anime/121) (07:42, 02 August 2021)
 -   📖 Completed [Tenkuu Shinpan Arrive](https://anilist.co/manga/111034) (10:40, 01 August 2021)
 -   📖 Completed [High-Rise Invasion](https://anilist.co/manga/85388) (10:39, 01 August 2021)
--   📺 Completed [Armed Girl's Machiavellism](https://anilist.co/anime/21851) (18:18, 31 July 2021)
--   📺 Completed [This Art Club Has a Problem!](https://anilist.co/anime/21457) (10:41, 31 July 2021)
--   📺 Completed [Waiting in the Summer](https://anilist.co/anime/11433) (09:33, 31 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
