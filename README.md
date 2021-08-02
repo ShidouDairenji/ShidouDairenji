@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=621AF7&size=30&center=true&lines=as+a+Learner;as+a+Self+Taught+Coder;as+a+Weeb"></a>
 </p>
 
-<p align="center"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJZega_mLhOi3PnaWwcz2Sw?label=YouTube%20Views&style=flat-square">
+<p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=shidoudairenji&label=Github%20Profile%20views&color=f40101&style=flat" alt="shidoudairenji" /> </p> 
 
 - 🔭 I’m currently working on [Vanilla Bot X](https://github.com/ShidouDairenji/VanillaBotX)
