@@ -68,11 +68,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Chainsaw Man](https://anilist.co/anime/127230) (08:58, 02 August 2021)
+-   📖 Completed [Chainsaw Man](https://anilist.co/manga/105778) (08:52, 02 August 2021)
+-   📖 Read chapter 5 - 117 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (08:51, 02 August 2021)
 -   📺 Completed [Zatch Bell!](https://anilist.co/anime/250) (07:50, 02 August 2021)
 -   📺 Completed [Fullmetal Alchemist: The Movie - Conqueror of Shamballa](https://anilist.co/anime/430) (07:43, 02 August 2021)
--   📺 Completed [Fullmetal Alchemist](https://anilist.co/anime/121) (07:42, 02 August 2021)
--   📖 Completed [Tenkuu Shinpan Arrive](https://anilist.co/manga/111034) (10:40, 01 August 2021)
--   📖 Completed [High-Rise Invasion](https://anilist.co/manga/85388) (10:39, 01 August 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
