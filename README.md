@@ -87,7 +87,7 @@
 [![Spotify](https://qi65z59nzvoaolvks8876vxbr.vercel.app/api)](https://open.spotify.com/user/qi65z59nzvoaolvks8876vxbr)
 
 <a href="https://open.spotify.com/user/qi65z59nzvoaolvks8876vxbr">
-  <img src="https://qi65z59nzvoaolvks8876vxbr.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+  <img src="https://ShidouDairenji.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
 
 
