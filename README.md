@@ -84,11 +84,6 @@
 
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
 
-[![Spotify](https://ShidouDairenji.vercel.app/api/spotify)](https://open.spotify.com/user/qi65z59nzvoaolvks8876vxbr)
-
-<a href="https://open.spotify.com/user/qi65z59nzvoaolvks8876vxbr">
-  <img src="https://qi65z59nzvoaolvks8876vxbr.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</a>
 
 
 <img src = https://media.tenor.com/images/d1b53d8835e48385117d86281d4681cc/tenor.gif width = 150 align = "right">
