@@ -84,7 +84,7 @@
 
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
 
-[![Spotify](https://qi65z59nzvoaolvks8876vxbr.vercel.app/api/spotify)](https://open.spotify.com/user/qi65z59nzvoaolvks8876vxbr)
+[![Spotify](https://qi65z59nzvoaolvks8876vxbr.vercel.app/api)](https://open.spotify.com/user/qi65z59nzvoaolvks8876vxbr)
 
 <a href="https://open.spotify.com/user/qi65z59nzvoaolvks8876vxbr">
   <img src="https://qi65z59nzvoaolvks8876vxbr.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
