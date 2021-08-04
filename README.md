@@ -68,11 +68,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Aho-Girl](https://anilist.co/anime/98251) (08:20, 04 August 2021)
 -   📺 Completed [Weathering With You](https://anilist.co/anime/106286) (09:22, 02 August 2021)
 -   📺 Plans to watch [Chainsaw Man](https://anilist.co/anime/127230) (08:58, 02 August 2021)
 -   📖 Completed [Chainsaw Man](https://anilist.co/manga/105778) (08:52, 02 August 2021)
 -   📖 Read chapter 5 - 117 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (08:51, 02 August 2021)
--   📺 Completed [Zatch Bell!](https://anilist.co/anime/250) (07:50, 02 August 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
