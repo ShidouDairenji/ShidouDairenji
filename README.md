@@ -8,11 +8,11 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=shidoudairenji&label=Github%20Profile%20views&color=f40101&style=flat" alt="shidoudairenji" /> </p> 
 
-- 🔭 I’m currently working on [Vanilla Bot X](https://github.com/ShidouDairenji/VanillaBotX)
+- 🔭 I’m currently working on [Utaha Bot](https://github.com/ShidouDairenji/recommended-list)
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [NekoBot](https://github.com/ShidouDairenji/NekoBot)
+- 👯 I’m looking to collaborate on [Renamer-Bot](https://github.com/ShidouDairenji/NekoBot)
 
 - 🤝 I am the part of [Shibui Sekai Network](https://t.me/ShibuiSekai)
 
