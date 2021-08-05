@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Renamer-Bot](https://github.com/ShidouDairenji/NekoBot)
+- 👯 I’m looking to collaborate on [Renamer-Bot](https://github.com/Wolfy024/Renamer-Bot)
 
 - 🤝 I am the part of [Shibui Sekai Network](https://t.me/ShibuiSekai)
 
