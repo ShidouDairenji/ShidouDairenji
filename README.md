@@ -68,11 +68,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [ORESUKI: Are you the only one who loves me?: Our Playball / Our End Run / Our Game](https://anilist.co/anime/114195) (03:33, 09 August 2021)
 -   📺 Completed [BLEND-S](https://anilist.co/anime/97994) (16:52, 08 August 2021)
 -   📺 Completed [Aho-Girl](https://anilist.co/anime/98251) (08:20, 04 August 2021)
 -   📺 Completed [Weathering With You](https://anilist.co/anime/106286) (09:22, 02 August 2021)
 -   📺 Plans to watch [Chainsaw Man](https://anilist.co/anime/127230) (08:58, 02 August 2021)
--   📖 Completed [Chainsaw Man](https://anilist.co/manga/105778) (08:52, 02 August 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
