@@ -8,7 +8,7 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=shidoudairenji&label=Github%20Profile%20views&color=f40101&style=flat" alt="shidoudairenji" /> </p> 
 
-<img src = https://telegra.ph/file/104d28da8da5e5fac764b.mp4 align="centre" width = 100>
+<img src = https://tenor.com/bHcY1.gif align="centre" width = 100>
 
 - 🔭 I’m currently working on [Utaha Bot](https://github.com/ShidouDairenji/recommended-list)
 
