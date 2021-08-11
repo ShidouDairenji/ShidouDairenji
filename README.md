@@ -8,7 +8,6 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=shidoudairenji&label=Github%20Profile%20views&color=f40101&style=flat" alt="shidoudairenji" /> </p> 
 
-<div class="tenor-gif-embed" data-postid="22652001" data-share-method="host" data-aspect-ratio="0.925" data-width="100%"><a href="https://tenor.com/view/work-gif-22652001">Work GIF</a>from <a href="https://tenor.com/search/work-gifs">Work GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🔭 I’m currently working on [Utaha Bot](https://github.com/ShidouDairenji/recommended-list)
 
