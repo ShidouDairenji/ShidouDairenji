@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Utaha Bot](https://github.com/ShidouDairenji/recommended-list)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++ **
 
 - 👯 I’m looking to collaborate on [Renamer-Bot](https://github.com/Wolfy024/Renamer-Bot)
 
