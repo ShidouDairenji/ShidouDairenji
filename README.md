@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 - 10 of [Battle Game in 5 Seconds](https://anilist.co/anime/126047) (08:30, 13 September 2021)
--   📺 Completed [Akudama Drive](https://anilist.co/anime/116566) (17:25, 12 September 2021)
--   📖 Completed [Giji Harem](https://anilist.co/manga/105577) (04:04, 04 September 2021)
--   📺 Completed [INUYASHIKI LAST HERO](https://anilist.co/anime/97922) (05:22, 27 August 2021)
--   📖 Completed [Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://anilist.co/manga/104505) (05:08, 27 August 2021)
+-   📺 Plans to watch [Overlord IV](https://anilist.co/anime/133844) (08:04, 14 September 2021)
+-   📺 Completed [Overlord III](https://anilist.co/anime/101474) (08:04, 14 September 2021)
+-   📺 Completed [Overlord II](https://anilist.co/anime/98437) (08:03, 14 September 2021)
+-   📺 Completed [Overlord](https://anilist.co/anime/20832) (08:03, 14 September 2021)
+-   📺 Plans to watch [Kono Subarashii Sekai ni Shukufuku wo! (Provisional Title)](https://anilist.co/anime/136804) (08:01, 14 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
