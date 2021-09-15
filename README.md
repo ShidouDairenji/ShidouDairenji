@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Inuyashiki](https://anilist.co/manga/85226) (17:25, 15 September 2021)
 -   📺 Completed [Date A Bullet: Dead or Bullet](https://anilist.co/anime/111852) (09:05, 14 September 2021)
 -   📺 Plans to watch [Overlord IV](https://anilist.co/anime/133844) (08:04, 14 September 2021)
 -   📺 Completed [Overlord III](https://anilist.co/anime/101474) (08:04, 14 September 2021)
 -   📺 Completed [Overlord II](https://anilist.co/anime/98437) (08:03, 14 September 2021)
--   📺 Completed [Overlord](https://anilist.co/anime/20832) (08:03, 14 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
