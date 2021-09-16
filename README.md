@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 41 - 80 of [What I Love About You](https://anilist.co/manga/106474) (17:15, 16 September 2021)
+-   📖 Read chapter 41 - 81 of [What I Love About You](https://anilist.co/manga/106474) (17:15, 16 September 2021)
 -   📖 Read chapter 46 of [How NOT to Summon a Demon Lord](https://anilist.co/manga/86338) (16:10, 16 September 2021)
 -   📖 Read chapter 150 of [Solo Leveling](https://anilist.co/manga/105398) (09:55, 16 September 2021)
 -   📖 Read chapter 20 - 30 of [SPY x FAMILY](https://anilist.co/manga/108556) (09:51, 16 September 2021)
