@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 - 23 of [SPY x FAMILY](https://anilist.co/manga/108556) (09:06, 16 September 2021)
+-   📖 Read chapter 33 of [Jishou F-Rank no Oniisama ga Game de Hyouka sareru Gakuen no Chouten ni Kunrin suru Sou desu yo?](https://anilist.co/manga/101848) (08:51, 16 September 2021)
 -   📖 Completed [Nozoki Ana](https://anilist.co/manga/51419) (07:11, 16 September 2021)
 -   📖 Completed [Pandora Hearts](https://anilist.co/manga/33031) (07:08, 16 September 2021)
 -   📖 Completed [Inuyashiki](https://anilist.co/manga/85226) (17:25, 15 September 2021)
--   📺 Completed [Date A Bullet: Dead or Bullet](https://anilist.co/anime/111852) (09:05, 14 September 2021)
--   📺 Plans to watch [Overlord IV](https://anilist.co/anime/133844) (08:04, 14 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
