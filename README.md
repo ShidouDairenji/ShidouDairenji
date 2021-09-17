@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA](https://anilist.co/anime/125368) (18:25, 17 September 2021)
+-   📖 Read chapter 66 - 67 of [Shounen no Abyss](https://anilist.co/manga/116186) (18:22, 17 September 2021)
+-   📖 Read chapter 71 of [DEAD Tube](https://anilist.co/manga/85671) (18:19, 17 September 2021)
+-   📖 Completed [Homunculus](https://anilist.co/manga/30936) (18:17, 17 September 2021)
 -   📖 Read chapter 78 of [The Rising of the Shield Hero](https://anilist.co/manga/85442) (17:47, 17 September 2021)
--   📖 Read chapter 130 of [Parallel Paradise](https://anilist.co/manga/98543) (17:46, 17 September 2021)
--   📖 Read chapter 28 of [Kimi ni Aisarete Itakatta](https://anilist.co/manga/102545) (17:46, 17 September 2021)
--   📖 Read chapter 27 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (17:45, 17 September 2021)
--   📖 Read chapter 55 of [Ayakashi Triangle](https://anilist.co/manga/119493) (17:45, 17 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
