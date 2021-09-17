@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? II](https://anilist.co/anime/101167) (08:11, 17 September 2021)
+-   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (08:10, 17 September 2021)
 -   📖 Read chapter 41 - 81 of [What I Love About You](https://anilist.co/manga/106474) (17:15, 16 September 2021)
 -   📖 Read chapter 46 of [How NOT to Summon a Demon Lord](https://anilist.co/manga/86338) (16:10, 16 September 2021)
 -   📖 Read chapter 150 of [Solo Leveling](https://anilist.co/manga/105398) (09:55, 16 September 2021)
--   📖 Read chapter 20 - 30 of [SPY x FAMILY](https://anilist.co/manga/108556) (09:51, 16 September 2021)
--   📖 Read chapter 33 of [Jishou F-Rank no Oniisama ga Game de Hyouka sareru Gakuen no Chouten ni Kunrin suru Sou desu yo?](https://anilist.co/manga/101848) (08:51, 16 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
