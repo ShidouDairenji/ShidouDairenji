@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 41 - 86 of [What I Love About You](https://anilist.co/manga/106474) (17:15, 17 September 2021)
--   📖 Read chapter 32 of [SPY x FAMILY](https://anilist.co/manga/108556) (16:53, 17 September 2021)
--   📖 Read chapter 167 - 208 of [Solo Leveling](https://anilist.co/manga/105398) (16:53, 17 September 2021)
--   📺 Completed [the Garden of sinners Chapter 2: …and nothing heart. (Murder Speculation Part A)](https://anilist.co/anime/3782) (08:13, 17 September 2021)
--   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? II](https://anilist.co/anime/101167) (08:11, 17 September 2021)
+-   📖 Read chapter 78 of [The Rising of the Shield Hero](https://anilist.co/manga/85442) (17:47, 17 September 2021)
+-   📖 Read chapter 130 of [Parallel Paradise](https://anilist.co/manga/98543) (17:46, 17 September 2021)
+-   📖 Read chapter 28 of [Kimi ni Aisarete Itakatta](https://anilist.co/manga/102545) (17:46, 17 September 2021)
+-   📖 Read chapter 27 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (17:45, 17 September 2021)
+-   📖 Read chapter 55 of [Ayakashi Triangle](https://anilist.co/manga/119493) (17:45, 17 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
