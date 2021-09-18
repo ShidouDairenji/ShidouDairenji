@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 29 - 32 of [Omniscient Reader](https://anilist.co/manga/119257) (08:34, 18 September 2021)
 -   📖 Read chapter 55 - 59 of [Ayakashi Triangle](https://anilist.co/manga/119493) (06:44, 18 September 2021)
 -   📺 Completed [Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA](https://anilist.co/anime/125368) (18:25, 17 September 2021)
 -   📖 Read chapter 66 - 67 of [Shounen no Abyss](https://anilist.co/manga/116186) (18:22, 17 September 2021)
 -   📖 Read chapter 71 of [DEAD Tube](https://anilist.co/manga/85671) (18:19, 17 September 2021)
--   📖 Completed [Homunculus](https://anilist.co/manga/30936) (18:17, 17 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
