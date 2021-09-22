@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 49 - 51 of [Horimiya](https://anilist.co/manga/72451) (09:32, 22 September 2021)
 -   📺 Completed [Seirei Gensouki: Spirit Chronicles](https://anilist.co/anime/126546) (06:44, 22 September 2021)
 -   📺 Completed [The Detective Is Already Dead](https://anilist.co/anime/128712) (06:41, 22 September 2021)
 -   📖 Read chapter 45 - 53 of [SPY x FAMILY](https://anilist.co/manga/108556) (09:14, 21 September 2021)
 -   📖 Read chapter 1 - 4 of [Flag wo Sakite de Orimakuru](https://anilist.co/manga/114954) (08:06, 21 September 2021)
--   📖 Read chapter 60 of [Ayakashi Triangle](https://anilist.co/manga/119493) (16:34, 20 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
