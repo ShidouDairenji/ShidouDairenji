@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Seirei Gensouki: Spirit Chronicles](https://anilist.co/anime/126546) (06:44, 22 September 2021)
+-   📺 Completed [The Detective Is Already Dead](https://anilist.co/anime/128712) (06:41, 22 September 2021)
 -   📖 Read chapter 45 - 53 of [SPY x FAMILY](https://anilist.co/manga/108556) (09:14, 21 September 2021)
 -   📖 Read chapter 1 - 4 of [Flag wo Sakite de Orimakuru](https://anilist.co/manga/114954) (08:06, 21 September 2021)
 -   📖 Read chapter 60 of [Ayakashi Triangle](https://anilist.co/manga/119493) (16:34, 20 September 2021)
--   📖 Read chapter 28 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (16:32, 20 September 2021)
--   📺 Completed [the Garden of sinners Chapter 4: garan-no-dou. (The Hollow Shrine)](https://anilist.co/anime/4280) (16:12, 20 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
