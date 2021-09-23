@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Case Study of Vanitas](https://anilist.co/anime/131646) (03:47, 23 September 2021)
 -   📺 Plans to watch [Tsuki ga Michibiku Isekai Douchuu 2](https://anilist.co/anime/139518) (02:40, 23 September 2021)
 -   📺 Completed [TSUKIMICHI -Moonlit Fantasy-](https://anilist.co/anime/125206) (02:39, 23 September 2021)
 -   📖 Read chapter 49 - 51 of [Horimiya](https://anilist.co/manga/72451) (09:32, 22 September 2021)
 -   📺 Completed [Seirei Gensouki: Spirit Chronicles](https://anilist.co/anime/126546) (06:44, 22 September 2021)
--   📺 Completed [The Detective Is Already Dead](https://anilist.co/anime/128712) (06:41, 22 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
