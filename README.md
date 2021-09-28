@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 60 - 70 of [Horimiya](https://anilist.co/manga/72451) (12:50, 28 September 2021)
 -   📖 Read chapter 321 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:04, 24 September 2021)
 -   📺 Completed [The Case Study of Vanitas](https://anilist.co/anime/131646) (03:47, 23 September 2021)
 -   📺 Plans to watch [Tsuki ga Michibiku Isekai Douchuu 2](https://anilist.co/anime/139518) (02:40, 23 September 2021)
 -   📺 Completed [TSUKIMICHI -Moonlit Fantasy-](https://anilist.co/anime/125206) (02:39, 23 September 2021)
--   📖 Read chapter 49 - 51 of [Horimiya](https://anilist.co/manga/72451) (09:32, 22 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
