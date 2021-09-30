@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 72 - 85 of [Horimiya](https://anilist.co/manga/72451) (06:40, 30 September 2021)
 -   📖 Completed [Boku wa Tomodachi ga Sukunai](https://anilist.co/manga/51621) (02:49, 30 September 2021)
 -   📺 Completed [Haganai NEXT](https://anilist.co/anime/14967) (02:45, 30 September 2021)
 -   📺 Completed [Haganai: Add-on Disc](https://anilist.co/anime/14027) (02:44, 30 September 2021)
 -   📺 Completed [Haganai](https://anilist.co/anime/10719) (02:42, 30 September 2021)
--   📖 Read chapter 60 - 70 of [Horimiya](https://anilist.co/manga/72451) (12:50, 28 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
