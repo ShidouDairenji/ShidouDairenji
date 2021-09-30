@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 72 - 90 of [Horimiya](https://anilist.co/manga/72451) (16:14, 30 September 2021)
--   📖 Completed [Boku wa Tomodachi ga Sukunai](https://anilist.co/manga/51621) (02:49, 30 September 2021)
--   📺 Completed [Haganai NEXT](https://anilist.co/anime/14967) (02:45, 30 September 2021)
--   📺 Completed [Haganai: Add-on Disc](https://anilist.co/anime/14027) (02:44, 30 September 2021)
--   📺 Completed [Haganai](https://anilist.co/anime/10719) (02:42, 30 September 2021)
+-   📺 Completed [Girlfriend, Girlfriend](https://anilist.co/anime/126192) (17:33, 30 September 2021)
+-   📺 Watched episode 5 - 11 of [Girlfriend, Girlfriend](https://anilist.co/anime/126192) (17:33, 30 September 2021)
+-   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? III](https://anilist.co/anime/112124) (17:33, 30 September 2021)
+-   📺 Watched episode 1 - 11 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? III](https://anilist.co/anime/112124) (17:33, 30 September 2021)
+-   📺 Completed [Battle Game in 5 Seconds](https://anilist.co/anime/126047) (17:33, 30 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
