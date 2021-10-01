@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 91 - 96 of [Horimiya](https://anilist.co/manga/72451) (18:34, 01 October 2021)
 -   📺 Completed [Black★Rock Shooter (OVA)](https://anilist.co/anime/7059) (16:07, 01 October 2021)
 -   📺 Completed [Black★Rock Shooter (TV)](https://anilist.co/anime/11285) (16:07, 01 October 2021)
 -   📺 Completed [Girlfriend, Girlfriend](https://anilist.co/anime/126192) (17:33, 30 September 2021)
 -   📺 Watched episode 5 - 11 of [Girlfriend, Girlfriend](https://anilist.co/anime/126192) (17:33, 30 September 2021)
--   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? III](https://anilist.co/anime/112124) (17:33, 30 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
