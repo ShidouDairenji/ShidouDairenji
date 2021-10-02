@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [World Trigger](https://anilist.co/anime/20729) (13:03, 02 October 2021)
 -   📖 Read chapter 41 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (04:09, 02 October 2021)
 -   📖 Read chapter 56 of [Infection](https://anilist.co/manga/86855) (03:53, 02 October 2021)
 -   📖 Read chapter 219 - 220 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (03:52, 02 October 2021)
 -   📖 Read chapter 91 - 96 of [Horimiya](https://anilist.co/manga/72451) (18:34, 01 October 2021)
--   📺 Completed [Black★Rock Shooter (OVA)](https://anilist.co/anime/7059) (16:07, 01 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
