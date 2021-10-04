@@ -69,10 +69,10 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 18 of [Call of the Night](https://anilist.co/manga/111233) (12:06, 04 October 2021)
 -   📖 Read chapter 1 of [Yugami-kun ni wa Tomodachi ga Inai](https://anilist.co/manga/85413) (09:59, 04 October 2021)
 -   📖 Read chapter 68 - 69 of [Shounen no Abyss](https://anilist.co/manga/116186) (09:53, 04 October 2021)
 -   📖 Read chapter 14 of [Flag wo Sakite de Orimakuru](https://anilist.co/manga/114954) (09:45, 04 October 2021)
--   📖 Read chapter 1 - 3 of [Call of the Night](https://anilist.co/manga/111233) (09:41, 04 October 2021)
 -   📖 Read chapter 1 - 6 of [Ashigei Shoujo Komura-san](https://anilist.co/manga/105896) (14:31, 02 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
