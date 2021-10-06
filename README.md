@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 97 - 103 of [Horimiya](https://anilist.co/manga/72451) (14:58, 06 October 2021)
+-   📺 Plans to watch [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (14:35, 06 October 2021)
 -   📖 Read chapter 4 - 7 of [Yugami-kun ni wa Tomodachi ga Inai](https://anilist.co/manga/85413) (04:01, 06 October 2021)
 -   📖 Read chapter 1 - 7 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (18:35, 05 October 2021)
 -   📺 Completed [World Trigger 2nd Season](https://anilist.co/anime/114087) (09:13, 05 October 2021)
--   📖 Read chapter 1 - 18 of [Call of the Night](https://anilist.co/manga/111233) (12:06, 04 October 2021)
--   📖 Read chapter 1 of [Yugami-kun ni wa Tomodachi ga Inai](https://anilist.co/manga/85413) (09:59, 04 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
