@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 40 - 51 of [Call of the Night](https://anilist.co/manga/111233) (07:09, 07 October 2021)
+-   📖 Read chapter 40 - 58 of [Call of the Night](https://anilist.co/manga/111233) (07:22, 07 October 2021)
 -   📖 Read chapter 97 - 103 of [Horimiya](https://anilist.co/manga/72451) (14:58, 06 October 2021)
 -   📺 Plans to watch [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (14:35, 06 October 2021)
 -   📖 Read chapter 4 - 7 of [Yugami-kun ni wa Tomodachi ga Inai](https://anilist.co/manga/85413) (04:01, 06 October 2021)
