@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [How a Realist Hero Rebuilt the Kingdom](https://anilist.co/anime/117612) (16:09, 07 October 2021)
 -   📺 Watched episode 1 of [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898) (11:50, 07 October 2021)
 -   📖 Read chapter 40 - 60 of [Call of the Night](https://anilist.co/manga/111233) (11:48, 07 October 2021)
 -   📺 Completed [Outbreak Company](https://anilist.co/anime/19369) (08:52, 07 October 2021)
 -   📺 Completed [BLACK LAGOON: Roberta's Blood Trail](https://anilist.co/anime/4901) (08:52, 07 October 2021)
--   📺 Completed [Black Lagoon: The Second Barrage](https://anilist.co/anime/1519) (08:51, 07 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
