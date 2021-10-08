@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (09:26, 08 October 2021)
+-   📺 Watched episode 1 of [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (09:22, 08 October 2021)
+-   📺 Watched episode 1 of [Mieruko-chan](https://anilist.co/anime/131083) (09:22, 08 October 2021)
+-   📺 Watched episode 1 of [Platinum End](https://anilist.co/anime/127401) (09:22, 08 October 2021)
 -   📖 Read chapter 26 - 31 of [Ashigei Shoujo Komura-san](https://anilist.co/manga/105896) (07:30, 08 October 2021)
--   📺 Completed [How a Realist Hero Rebuilt the Kingdom](https://anilist.co/anime/117612) (16:09, 07 October 2021)
--   📺 Watched episode 1 of [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898) (11:50, 07 October 2021)
--   📖 Read chapter 40 - 60 of [Call of the Night](https://anilist.co/manga/111233) (11:48, 07 October 2021)
--   📺 Completed [Outbreak Company](https://anilist.co/anime/19369) (08:52, 07 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
