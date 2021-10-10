@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Mieruko-chan](https://anilist.co/anime/131083) (17:30, 10 October 2021)
 -   📺 Watched episode 1 of [Taisho Otome Fairy Tale](https://anilist.co/anime/127412) (13:07, 10 October 2021)
 -   📺 Watched episode 1 of [The Faraway Paladin](https://anilist.co/anime/132473) (18:27, 09 October 2021)
 -   📖 Read chapter 104 - 116 of [Horimiya](https://anilist.co/manga/72451) (14:09, 09 October 2021)
 -   📺 Watched episode 1 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (09:26, 08 October 2021)
--   📺 Watched episode 1 of [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (09:22, 08 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
