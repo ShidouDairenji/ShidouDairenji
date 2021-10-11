@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 8 - 10 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:04, 11 October 2021)
+-   📖 Read chapter 8 - 16 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:30, 11 October 2021)
 -   📖 Completed [Horimiya](https://anilist.co/manga/72451) (18:49, 10 October 2021)
 -   📖 Read chapter 119 - 123 of [Horimiya](https://anilist.co/manga/72451) (18:46, 10 October 2021)
 -   📖 Read chapter 223 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (18:17, 10 October 2021)
