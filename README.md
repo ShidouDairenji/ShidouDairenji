@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Half & Half](https://anilist.co/manga/72545) (12:12, 12 October 2021)
 -   📖 Read chapter 29 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (14:33, 11 October 2021)
 -   📖 Read chapter 42 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (14:16, 11 October 2021)
 -   📖 Read chapter 8 - 23 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (14:00, 11 October 2021)
 -   📖 Completed [Horimiya](https://anilist.co/manga/72451) (18:49, 10 October 2021)
--   📖 Read chapter 119 - 123 of [Horimiya](https://anilist.co/manga/72451) (18:46, 10 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
