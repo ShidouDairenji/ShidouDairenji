@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Dropped 0 of [Boy in A Girls' School](https://anilist.co/manga/106301) (13:44, 12 October 2021)
+-   📺 Watched episode 2 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (13:43, 12 October 2021)
 -   📖 Read chapter 8 - 45 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (12:34, 12 October 2021)
 -   📖 Completed [Half & Half](https://anilist.co/manga/72545) (12:12, 12 October 2021)
 -   📖 Read chapter 29 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (14:33, 11 October 2021)
--   📖 Read chapter 42 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (14:16, 11 October 2021)
--   📖 Completed [Horimiya](https://anilist.co/manga/72451) (18:49, 10 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
