@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 8 - 55 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (02:33, 13 October 2021)
+-   📖 Read chapter 8 - 62 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (02:48, 13 October 2021)
 -   📺 Plans to watch [The Night Beyond the Tricornered Window](https://anilist.co/anime/126897) (18:16, 12 October 2021)
 -   📺 Plans to watch [World Trigger 3rd Season](https://anilist.co/anime/127400) (18:15, 12 October 2021)
 -   📺 Watched episode 1 of [My Senpai is Annoying](https://anilist.co/anime/120646) (18:06, 12 October 2021)
