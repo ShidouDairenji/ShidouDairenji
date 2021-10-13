@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [The Empty Box and Zeroth Maria](https://anilist.co/manga/85134) (12:15, 13 October 2021)
+-   📖 Completed [Classroom of the Elite](https://anilist.co/manga/94970) (12:12, 13 October 2021)
 -   📖 Read chapter 4 - 7 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (08:56, 13 October 2021)
 -   📖 Read chapter 5 of [Asahina Wakaba to ○○ na Kareshi](https://anilist.co/manga/113701) (08:50, 13 October 2021)
 -   📺 Completed [Seraph of the End: Vampire Reign - Owaranai Seraph](https://anilist.co/anime/21483) (08:33, 13 October 2021)
--   📺 Completed [Seraph of the End: Vampire Reign](https://anilist.co/anime/20829) (08:29, 13 October 2021)
--   📖 Read chapter 32 - 37 of [Ashigei Shoujo Komura-san](https://anilist.co/manga/105896) (06:40, 13 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
