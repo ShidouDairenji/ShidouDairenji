@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681) (13:04, 13 October 2021)
+-   📖 Plans to read [Meguro-san wa Hajimete Janai](https://anilist.co/manga/105004) (12:40, 13 October 2021)
+-   📖 Completed [Monogatari Series: First Season](https://anilist.co/manga/44893) (12:33, 13 October 2021)
 -   📖 Completed [The Empty Box and Zeroth Maria](https://anilist.co/manga/85134) (12:15, 13 October 2021)
 -   📖 Completed [Classroom of the Elite](https://anilist.co/manga/94970) (12:12, 13 October 2021)
--   📖 Read chapter 4 - 7 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (08:56, 13 October 2021)
--   📖 Read chapter 5 of [Asahina Wakaba to ○○ na Kareshi](https://anilist.co/manga/113701) (08:50, 13 October 2021)
--   📺 Completed [Seraph of the End: Vampire Reign - Owaranai Seraph](https://anilist.co/anime/21483) (08:33, 13 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
