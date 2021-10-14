@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Steins;Gate 0: 23β- Divide by Zero](https://anilist.co/anime/21624) (10:10, 14 October 2021)
--   📺 Completed [Steins;Gate 0](https://anilist.co/anime/21127) (10:06, 14 October 2021)
--   📖 Read chapter 5 - 6 of [The Eminence in Shadow](https://anilist.co/manga/106758) (08:11, 14 October 2021)
--   📖 Read chapter 38 - 39 of [Ashigei Shoujo Komura-san](https://anilist.co/manga/105896) (08:07, 14 October 2021)
--   📖 Read chapter 5 - 10 of [Asahina Wakaba to ○○ na Kareshi](https://anilist.co/manga/113701) (07:50, 14 October 2021)
+-   📖 Read chapter 1 of [Haji-Otsu.](https://anilist.co/manga/79809) (10:39, 14 October 2021)
+-   📺 Plans to watch [How a Realist Hero Rebuilt the Kingdom Part 2](https://anilist.co/anime/139648) (10:29, 14 October 2021)
+-   📺 Plans to watch [Vanitas no Carte Part 2](https://anilist.co/anime/135136) (10:28, 14 October 2021)
+-   📺 Plans to watch [Princess Connect! Re:Dive Season 2](https://anilist.co/anime/122808) (10:27, 14 October 2021)
+-   📺 Completed [Super Danganronpa 2.5 Komaeda Nagito to Sekai no Hakaimono](https://anilist.co/anime/98153) (10:22, 14 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
