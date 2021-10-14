@@ -69,8 +69,8 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 9 of [Haji-Otsu.](https://anilist.co/manga/79809) (18:17, 14 October 2021)
 -   📖 Read chapter 5 - 16 of [The Eminence in Shadow](https://anilist.co/manga/106758) (17:59, 14 October 2021)
--   📖 Read chapter 1 - 3 of [Haji-Otsu.](https://anilist.co/manga/79809) (15:14, 14 October 2021)
 -   📺 Plans to watch [How a Realist Hero Rebuilt the Kingdom Part 2](https://anilist.co/anime/139648) (10:29, 14 October 2021)
 -   📺 Plans to watch [Vanitas no Carte Part 2](https://anilist.co/anime/135136) (10:28, 14 October 2021)
 -   📺 Plans to watch [Princess Connect! Re:Dive Season 2](https://anilist.co/anime/122808) (10:27, 14 October 2021)
