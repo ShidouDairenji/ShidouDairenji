@@ -69,8 +69,8 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 9 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (09:02, 15 October 2021)
 -   📖 Read chapter 1 - 18 of [Haji-Otsu.](https://anilist.co/manga/79809) (07:45, 15 October 2021)
--   📖 Read chapter 1 - 2 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (05:30, 15 October 2021)
 -   📖 Read chapter 1 - 54 of [Juujika no Rokunin](https://anilist.co/manga/116671) (04:53, 15 October 2021)
 -   📺 Watched episode 2 of [Platinum End](https://anilist.co/anime/127401) (04:02, 15 October 2021)
 -   📖 Read chapter 5 - 16 of [The Eminence in Shadow](https://anilist.co/manga/106758) (17:59, 14 October 2021)
