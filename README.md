@@ -69,8 +69,8 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 54 of [Juujika no Rokunin](https://anilist.co/manga/116671) (04:53, 15 October 2021)
 -   📺 Watched episode 2 of [Platinum End](https://anilist.co/anime/127401) (04:02, 15 October 2021)
--   📖 Read chapter 1 - 34 of [Juujika no Rokunin](https://anilist.co/manga/116671) (03:44, 15 October 2021)
 -   📖 Read chapter 1 - 9 of [Haji-Otsu.](https://anilist.co/manga/79809) (18:17, 14 October 2021)
 -   📖 Read chapter 5 - 16 of [The Eminence in Shadow](https://anilist.co/manga/106758) (17:59, 14 October 2021)
 -   📺 Plans to watch [How a Realist Hero Rebuilt the Kingdom Part 2](https://anilist.co/anime/139648) (10:29, 14 October 2021)
