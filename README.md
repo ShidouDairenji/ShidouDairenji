@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 13 - 26 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (10:40, 16 October 2021)
+-   📖 Read chapter 13 - 30 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (12:15, 16 October 2021)
 -   📺 Plans to watch [Love Lab](https://anilist.co/anime/16353) (10:26, 16 October 2021)
 -   📺 Completed [Seraph of the End: Kyuuketsuki Shahal](https://anilist.co/anime/21586) (09:02, 16 October 2021)
 -   📺 Completed [Seraph of the End: Battle in Nagoya](https://anilist.co/anime/20993) (09:01, 16 October 2021)
