@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [My Senpai is Annoying](https://anilist.co/anime/120646) (17:08, 16 October 2021)
+-   📺 Watched episode 1 - 2 of [BUILD-DIVIDE -#000000- CODE BLACK](https://anilist.co/anime/132525) (17:08, 16 October 2021)
+-   📺 Watched episode 2 of [The Faraway Paladin](https://anilist.co/anime/132473) (17:07, 16 October 2021)
 -   📖 Read chapter 17 - 21 of [The Eminence in Shadow](https://anilist.co/manga/106758) (13:43, 16 October 2021)
 -   📖 Read chapter 8 - 10 of [Yugami-kun ni wa Tomodachi ga Inai](https://anilist.co/manga/85413) (13:27, 16 October 2021)
--   📖 Read chapter 8 - 13 of [Usotsuki Satsuki Shi ga Mieru](https://anilist.co/manga/120034) (13:20, 16 October 2021)
--   📖 Read chapter 13 - 32 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (12:28, 16 October 2021)
--   📺 Plans to watch [Love Lab](https://anilist.co/anime/16353) (10:26, 16 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
