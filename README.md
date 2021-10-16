@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 8 - 9 of [Usotsuki Satsuki Shi ga Mieru](https://anilist.co/manga/120034) (13:13, 16 October 2021)
+-   📖 Read chapter 17 - 21 of [The Eminence in Shadow](https://anilist.co/manga/106758) (13:43, 16 October 2021)
+-   📖 Read chapter 8 - 10 of [Yugami-kun ni wa Tomodachi ga Inai](https://anilist.co/manga/85413) (13:27, 16 October 2021)
+-   📖 Read chapter 8 - 13 of [Usotsuki Satsuki Shi ga Mieru](https://anilist.co/manga/120034) (13:20, 16 October 2021)
 -   📖 Read chapter 13 - 32 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (12:28, 16 October 2021)
 -   📺 Plans to watch [Love Lab](https://anilist.co/anime/16353) (10:26, 16 October 2021)
--   📺 Completed [Seraph of the End: Kyuuketsuki Shahal](https://anilist.co/anime/21586) (09:02, 16 October 2021)
--   📺 Completed [Seraph of the End: Battle in Nagoya](https://anilist.co/anime/20993) (09:01, 16 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
