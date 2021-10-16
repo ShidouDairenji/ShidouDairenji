@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Seraph of the End: Kyuuketsuki Shahal](https://anilist.co/anime/21586) (09:02, 16 October 2021)
+-   📺 Completed [Seraph of the End: Battle in Nagoya](https://anilist.co/anime/20993) (09:01, 16 October 2021)
+-   📖 Read chapter 13 - 14 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (08:29, 16 October 2021)
 -   📺 Watched episode 1 of [Demon Slayer: Kimetsu no Yaiba 2](https://anilist.co/anime/129874) (05:49, 16 October 2021)
 -   📺 Watched episode 2 of [Taisho Otome Fairy Tale](https://anilist.co/anime/127412) (03:14, 16 October 2021)
--   📖 Read chapter 1 - 12 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (17:50, 15 October 2021)
--   📖 Read chapter 1 - 25 of [Haji-Otsu.](https://anilist.co/manga/79809) (10:04, 15 October 2021)
--   📖 Read chapter 1 - 54 of [Juujika no Rokunin](https://anilist.co/manga/116671) (04:53, 15 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
