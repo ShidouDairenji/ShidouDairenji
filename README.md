@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://anilist.co/anime/114232) (01:41, 17 October 2021)
+-   📺 Completed [Elfen Lied](https://anilist.co/anime/226) (01:33, 17 October 2021)
 -   📺 Completed [Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train](https://anilist.co/anime/112151) (17:50, 16 October 2021)
 -   📺 Completed [Beyblade Burst GT](https://anilist.co/anime/108853) (17:18, 16 October 2021)
 -   📺 Completed [Beyblade G Revolution](https://anilist.co/anime/1668) (17:17, 16 October 2021)
--   📺 Completed [Beyblade V-Force](https://anilist.co/anime/1669) (17:16, 16 October 2021)
--   📺 Completed [Beyblade](https://anilist.co/anime/288) (17:16, 16 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
