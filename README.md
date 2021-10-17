@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 74 - 80 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (09:42, 17 October 2021)
+-   📖 Read chapter 74 - 84 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (11:05, 17 October 2021)
 -   📖 Read chapter 70 - 73 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:01, 17 October 2021)
 -   📺 Completed [Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://anilist.co/anime/114232) (01:41, 17 October 2021)
 -   📺 Completed [Elfen Lied](https://anilist.co/anime/226) (01:33, 17 October 2021)
