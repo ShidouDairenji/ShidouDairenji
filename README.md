@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Anti-Magic Academy: The 35th Test Platoon](https://anilist.co/anime/20704) (09:39, 18 October 2021)
+-   📺 Plans to watch [Castle Town Dandelion](https://anilist.co/anime/20951) (09:37, 18 October 2021)
+-   📖 Completed [Haji-Otsu.](https://anilist.co/manga/79809) (09:30, 18 October 2021)
+-   📖 Read chapter 26 - 32 of [Haji-Otsu.](https://anilist.co/manga/79809) (09:29, 18 October 2021)
 -   📖 Read chapter 55 of [Juujika no Rokunin](https://anilist.co/manga/116671) (07:18, 18 October 2021)
--   📖 Read chapter 224 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (07:16, 18 October 2021)
--   📺 Watched episode 25 of [Black Clover](https://anilist.co/anime/97940) (07:10, 18 October 2021)
--   📖 Read chapter 87 - 102 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:07, 18 October 2021)
--   📺 Completed [Happy Sugar Life](https://anilist.co/anime/101351) (18:38, 17 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
