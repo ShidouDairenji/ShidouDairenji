@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 27 of [Black Clover](https://anilist.co/anime/97940) (15:09, 18 October 2021)
 -   📖 Read chapter 124 - 125 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (12:56, 18 October 2021)
 -   📺 Completed [Golden Time](https://anilist.co/anime/17895) (12:48, 18 October 2021)
 -   📖 Read chapter 22 - 27 of [The Eminence in Shadow](https://anilist.co/manga/106758) (12:43, 18 October 2021)
 -   📺 Plans to watch [Anti-Magic Academy: The 35th Test Platoon](https://anilist.co/anime/20704) (09:39, 18 October 2021)
--   📺 Plans to watch [Castle Town Dandelion](https://anilist.co/anime/20951) (09:37, 18 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
