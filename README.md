@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 35 - 43 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (18:29, 18 October 2021)
 -   📖 Read chapter 33 - 34 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (15:18, 18 October 2021)
 -   📺 Watched episode 27 of [Black Clover](https://anilist.co/anime/97940) (15:09, 18 October 2021)
 -   📖 Read chapter 124 - 125 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (12:56, 18 October 2021)
 -   📺 Completed [Golden Time](https://anilist.co/anime/17895) (12:48, 18 October 2021)
--   📖 Read chapter 22 - 27 of [The Eminence in Shadow](https://anilist.co/manga/106758) (12:43, 18 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
