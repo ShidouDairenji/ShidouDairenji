@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Kubikiri Cycle: The Blue Savant and the Nonsense User](https://anilist.co/anime/21803) (20:11, 19 October 2021)
 -   📺 Plans to watch [The Perfect Insider](https://anilist.co/anime/21190) (20:10, 19 October 2021)
 -   📺 Plans to watch [BABYLON](https://anilist.co/anime/101349) (20:09, 19 October 2021)
 -   📺 Watched episode 43 - 45 of [Black Clover](https://anilist.co/anime/97940) (20:07, 19 October 2021)
 -   📖 Read chapter 136 - 146 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (19:36, 19 October 2021)
--   📺 Watched episode 42 of [Black Clover](https://anilist.co/anime/97940) (18:06, 19 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
