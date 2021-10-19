@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 136 - 143 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (19:08, 19 October 2021)
 -   📺 Watched episode 42 of [Black Clover](https://anilist.co/anime/97940) (18:06, 19 October 2021)
 -   📖 Read chapter 54 of [SPY x FAMILY](https://anilist.co/manga/108556) (12:19, 19 October 2021)
 -   📖 Read chapter 133 - 135 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (11:55, 19 October 2021)
 -   📖 Read chapter 29 of [Kimi ni Aisarete Itakatta](https://anilist.co/manga/102545) (10:18, 19 October 2021)
--   📖 Read chapter 68 - 69 of [Call of the Night](https://anilist.co/manga/111233) (10:02, 19 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
