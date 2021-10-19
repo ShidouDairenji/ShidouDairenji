@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 44 - 50 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (09:07, 19 October 2021)
+-   📖 Read chapter 68 - 69 of [Call of the Night](https://anilist.co/manga/111233) (10:02, 19 October 2021)
+-   📖 Completed [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (09:13, 19 October 2021)
+-   📖 Read chapter 44 - 51 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (09:11, 19 October 2021)
 -   📺 Watched episode 3 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (07:32, 19 October 2021)
 -   📖 Read chapter 35 - 43 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (18:29, 18 October 2021)
--   📖 Read chapter 33 - 34 of [Kuzumi-kun, Can't You Read the Room?](https://anilist.co/manga/87468) (15:18, 18 October 2021)
--   📺 Watched episode 27 of [Black Clover](https://anilist.co/anime/97940) (15:09, 18 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
