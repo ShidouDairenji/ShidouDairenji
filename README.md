@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 147 - 148 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (03:24, 21 October 2021)
 -   📺 Watched episode 46 - 50 of [Black Clover](https://anilist.co/anime/97940) (17:53, 20 October 2021)
 -   📺 Watched episode 3 of [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (17:53, 20 October 2021)
 -   📖 Read chapter 1 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (17:26, 20 October 2021)
 -   📺 Plans to watch [Kubikiri Cycle: The Blue Savant and the Nonsense User](https://anilist.co/anime/21803) (20:11, 19 October 2021)
--   📺 Plans to watch [The Perfect Insider](https://anilist.co/anime/21190) (20:10, 19 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
