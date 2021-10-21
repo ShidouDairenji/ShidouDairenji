@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 51 - 63 of [Black Clover](https://anilist.co/anime/97940) (17:48, 21 October 2021)
+-   📺 Completed [the Garden of sinners Chapter 3: ever cry, never life. (Remaining Sense of Pain)](https://anilist.co/anime/3783) (17:47, 21 October 2021)
 -   📖 Read chapter 8 - 22 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (07:20, 21 October 2021)
 -   📖 Read chapter 147 - 148 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (03:24, 21 October 2021)
 -   📺 Watched episode 46 - 50 of [Black Clover](https://anilist.co/anime/97940) (17:53, 20 October 2021)
--   📺 Watched episode 3 of [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (17:53, 20 October 2021)
--   📖 Read chapter 1 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (17:26, 20 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
