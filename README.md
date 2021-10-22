@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 61 - 64 of [Ayakashi Triangle](https://anilist.co/manga/119493) (09:58, 22 October 2021)
--   📺 Watched episode 3 of [Platinum End](https://anilist.co/anime/127401) (06:11, 22 October 2021)
--   📺 Watched episode 64 - 66 of [Black Clover](https://anilist.co/anime/97940) (06:11, 22 October 2021)
--   📖 Dropped [Sword King In A Women's World](https://anilist.co/manga/116027) (06:09, 22 October 2021)
--   📖 Read chapter 80 of [Sword King In A Women's World](https://anilist.co/manga/116027) (06:09, 22 October 2021)
+-   📺 Plans to watch [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://anilist.co/anime/125367) (19:44, 22 October 2021)
+-   📺 Completed [Re:ZERO -Starting Life in Another World- OVA](https://anilist.co/anime/100049) (19:42, 22 October 2021)
+-   📺 Completed [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (19:41, 22 October 2021)
+-   📺 Watched episode 67 - 70 of [Black Clover](https://anilist.co/anime/97940) (19:39, 22 October 2021)
+-   📺 Watched episode 3 of [Taisho Otome Fairy Tale](https://anilist.co/anime/127412) (19:39, 22 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
