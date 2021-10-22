@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 51 - 63 of [Black Clover](https://anilist.co/anime/97940) (17:48, 21 October 2021)
--   📺 Completed [the Garden of sinners Chapter 3: ever cry, never life. (Remaining Sense of Pain)](https://anilist.co/anime/3783) (17:47, 21 October 2021)
--   📖 Read chapter 8 - 22 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (07:20, 21 October 2021)
--   📖 Read chapter 147 - 148 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (03:24, 21 October 2021)
--   📺 Watched episode 46 - 50 of [Black Clover](https://anilist.co/anime/97940) (17:53, 20 October 2021)
+-   📺 Watched episode 3 of [Platinum End](https://anilist.co/anime/127401) (06:11, 22 October 2021)
+-   📺 Watched episode 64 - 66 of [Black Clover](https://anilist.co/anime/97940) (06:11, 22 October 2021)
+-   📖 Dropped [Sword King In A Women's World](https://anilist.co/manga/116027) (06:09, 22 October 2021)
+-   📖 Read chapter 80 of [Sword King In A Women's World](https://anilist.co/manga/116027) (06:09, 22 October 2021)
+-   📖 Read chapter 236 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (05:44, 22 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
