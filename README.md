@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 61 - 64 of [Ayakashi Triangle](https://anilist.co/manga/119493) (09:58, 22 October 2021)
 -   📺 Watched episode 3 of [Platinum End](https://anilist.co/anime/127401) (06:11, 22 October 2021)
 -   📺 Watched episode 64 - 66 of [Black Clover](https://anilist.co/anime/97940) (06:11, 22 October 2021)
 -   📖 Dropped [Sword King In A Women's World](https://anilist.co/manga/116027) (06:09, 22 October 2021)
 -   📖 Read chapter 80 of [Sword King In A Women's World](https://anilist.co/manga/116027) (06:09, 22 October 2021)
--   📖 Read chapter 236 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (05:44, 22 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
