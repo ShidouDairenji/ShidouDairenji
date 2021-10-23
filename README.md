@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Devils’ Line: Anytime Anywhere](https://anilist.co/anime/102832) (18:57, 23 October 2021)
+-   📖 Completed [Tokyo Ghoul:re](https://anilist.co/manga/85611) (18:52, 23 October 2021)
+-   📖 Completed [Tokyo Ghoul](https://anilist.co/manga/63327) (18:51, 23 October 2021)
+-   📺 Watched episode 3 of [The Faraway Paladin](https://anilist.co/anime/132473) (18:14, 23 October 2021)
 -   📖 Read chapter 7 - 10 of [Aizawa-san Multiplies](https://anilist.co/manga/85262) (03:22, 23 October 2021)
--   📺 Plans to watch [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://anilist.co/anime/125367) (19:44, 22 October 2021)
--   📺 Completed [Re:ZERO -Starting Life in Another World- OVA](https://anilist.co/anime/100049) (19:42, 22 October 2021)
--   📺 Completed [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (19:41, 22 October 2021)
--   📺 Watched episode 67 - 70 of [Black Clover](https://anilist.co/anime/97940) (19:39, 22 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
