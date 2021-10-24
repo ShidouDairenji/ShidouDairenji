@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 - 6 of [Mortals of the Doom](https://anilist.co/manga/101419) (18:56, 24 October 2021)
+-   📖 Read chapter 2 - 3 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (18:50, 24 October 2021)
+-   📖 Read chapter 20 - 25 of [Aizawa-san Multiplies](https://anilist.co/manga/85262) (18:24, 24 October 2021)
 -   📖 Plans to read [The Great Jahy Will Not Be Defeated!](https://anilist.co/manga/100207) (17:02, 24 October 2021)
 -   📺 Watched episode 3 of [Demon Slayer: Kimetsu no Yaiba 2](https://anilist.co/anime/129874) (17:01, 24 October 2021)
--   📖 Read chapter 8 - 12 of [Megami no Café Terrace](https://anilist.co/manga/129694) (15:22, 24 October 2021)
--   📖 Read chapter 56 of [Juujika no Rokunin](https://anilist.co/manga/116671) (14:38, 24 October 2021)
--   📺 Watched episode 4 of [Mieruko-chan](https://anilist.co/anime/131083) (14:25, 24 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
