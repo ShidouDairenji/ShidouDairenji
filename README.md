@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 18 - 19 of [Aizawa-san Multiplies](https://anilist.co/manga/85262) (08:10, 24 October 2021)
--   📖 Read chapter 1 - 7 of [Megami no Café Terrace](https://anilist.co/manga/129694) (07:53, 24 October 2021)
--   📺 Completed [Devils’ Line: Anytime Anywhere](https://anilist.co/anime/102832) (18:57, 23 October 2021)
--   📖 Completed [Tokyo Ghoul:re](https://anilist.co/manga/85611) (18:52, 23 October 2021)
--   📖 Completed [Tokyo Ghoul](https://anilist.co/manga/63327) (18:51, 23 October 2021)
+-   📖 Read chapter 33 - 45 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (09:10, 24 October 2021)
+-   📖 Plans to read [Naruto](https://anilist.co/manga/30011) (08:47, 24 October 2021)
+-   📖 Completed [World's End Harem](https://anilist.co/manga/87260) (08:46, 24 October 2021)
+-   📖 Paused reading [Perfect Half](https://anilist.co/manga/87400) (08:45, 24 October 2021)
+-   📖 Read chapter 12 of [Perfect Half](https://anilist.co/manga/87400) (08:45, 24 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
