@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [The Great Jahy Will Not Be Defeated!](https://anilist.co/manga/100207) (17:02, 24 October 2021)
+-   📺 Watched episode 3 of [Demon Slayer: Kimetsu no Yaiba 2](https://anilist.co/anime/129874) (17:01, 24 October 2021)
 -   📖 Read chapter 8 - 12 of [Megami no Café Terrace](https://anilist.co/manga/129694) (15:22, 24 October 2021)
 -   📖 Read chapter 56 of [Juujika no Rokunin](https://anilist.co/manga/116671) (14:38, 24 October 2021)
 -   📺 Watched episode 4 of [Mieruko-chan](https://anilist.co/anime/131083) (14:25, 24 October 2021)
--   📺 Watched episode 3 of [BUILD-DIVIDE -#000000- CODE BLACK](https://anilist.co/anime/132525) (14:25, 24 October 2021)
--   📺 Completed [the Garden of sinners Chapter 1: Thanatos. (Overlooking View)](https://anilist.co/anime/2593) (11:36, 24 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
