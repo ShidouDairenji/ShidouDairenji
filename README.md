@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 of [Juujika no Rokunin](https://anilist.co/manga/116671) (14:38, 24 October 2021)
+-   📺 Watched episode 4 of [Mieruko-chan](https://anilist.co/anime/131083) (14:25, 24 October 2021)
+-   📺 Watched episode 3 of [BUILD-DIVIDE -#000000- CODE BLACK](https://anilist.co/anime/132525) (14:25, 24 October 2021)
 -   📺 Completed [the Garden of sinners Chapter 1: Thanatos. (Overlooking View)](https://anilist.co/anime/2593) (11:36, 24 October 2021)
 -   📺 Watched episode 3 of [My Senpai is Annoying](https://anilist.co/anime/120646) (11:35, 24 October 2021)
--   📺 Completed [Violet Evergarden](https://anilist.co/anime/21827) (09:51, 24 October 2021)
--   📖 Read chapter 33 - 52 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (09:18, 24 October 2021)
--   📖 Plans to read [Naruto](https://anilist.co/manga/30011) (08:47, 24 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
