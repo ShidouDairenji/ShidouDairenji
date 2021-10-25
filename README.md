@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Fire Force Season 2](https://anilist.co/anime/114236) (20:20, 25 October 2021)
+-   📺 Completed [Fire Force](https://anilist.co/anime/105310) (20:20, 25 October 2021)
+-   📺 Completed [Steins;Gate: Egoistic Poriomania](https://anilist.co/anime/10863) (20:19, 25 October 2021)
 -   📖 Read chapter 9 - 15 of [The Promised Neverland](https://anilist.co/manga/87423) (20:04, 25 October 2021)
 -   📺 Watched episode 4 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (19:19, 25 October 2021)
--   📖 Read chapter 27 - 33 of [Megami no Café Terrace](https://anilist.co/manga/129694) (19:07, 25 October 2021)
--   📖 Read chapter 225 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (18:27, 25 October 2021)
--   📖 Read chapter 11 of [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/manga/107603) (18:23, 25 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
