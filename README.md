@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 13 of [Megami no Café Terrace](https://anilist.co/manga/129694) (04:13, 25 October 2021)
+-   📖 Read chapter 13 - 18 of [Megami no Café Terrace](https://anilist.co/manga/129694) (04:51, 25 October 2021)
 -   📖 Read chapter 5 - 6 of [Mortals of the Doom](https://anilist.co/manga/101419) (18:56, 24 October 2021)
 -   📖 Read chapter 2 - 3 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (18:50, 24 October 2021)
 -   📖 Read chapter 20 - 25 of [Aizawa-san Multiplies](https://anilist.co/manga/85262) (18:24, 24 October 2021)
