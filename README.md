@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 27 - 33 of [Megami no Café Terrace](https://anilist.co/manga/129694) (19:07, 25 October 2021)
+-   📖 Read chapter 225 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (18:27, 25 October 2021)
+-   📖 Read chapter 11 of [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/manga/107603) (18:23, 25 October 2021)
+-   📖 Read chapter 23 of [Zom 100: Bucket List of the Dead](https://anilist.co/manga/104660) (18:22, 25 October 2021)
 -   📖 Read chapter 6 - 8 of [The Promised Neverland](https://anilist.co/manga/87423) (11:38, 25 October 2021)
--   📖 Read chapter 63 - 93 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (09:49, 25 October 2021)
--   📖 Read chapter 13 - 26 of [Megami no Café Terrace](https://anilist.co/manga/129694) (07:34, 25 October 2021)
--   📖 Read chapter 149 - 159 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:24, 25 October 2021)
--   📖 Read chapter 53 - 62 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (06:05, 25 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
