@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 - 15 of [The Promised Neverland](https://anilist.co/manga/87423) (20:04, 25 October 2021)
+-   📺 Watched episode 4 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (19:19, 25 October 2021)
 -   📖 Read chapter 27 - 33 of [Megami no Café Terrace](https://anilist.co/manga/129694) (19:07, 25 October 2021)
 -   📖 Read chapter 225 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (18:27, 25 October 2021)
 -   📖 Read chapter 11 of [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/manga/107603) (18:23, 25 October 2021)
--   📖 Read chapter 23 of [Zom 100: Bucket List of the Dead](https://anilist.co/manga/104660) (18:22, 25 October 2021)
--   📖 Read chapter 6 - 8 of [The Promised Neverland](https://anilist.co/manga/87423) (11:38, 25 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
