@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 - 8 of [The Promised Neverland](https://anilist.co/manga/87423) (11:38, 25 October 2021)
 -   📖 Read chapter 63 - 93 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (09:49, 25 October 2021)
 -   📖 Read chapter 13 - 26 of [Megami no Café Terrace](https://anilist.co/manga/129694) (07:34, 25 October 2021)
 -   📖 Read chapter 149 - 159 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (07:24, 25 October 2021)
 -   📖 Read chapter 53 - 62 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (06:05, 25 October 2021)
--   📖 Read chapter 5 - 6 of [Mortals of the Doom](https://anilist.co/manga/101419) (18:56, 24 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
