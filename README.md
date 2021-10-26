@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 - 35 of [Aizawa-san Multiplies](https://anilist.co/manga/85262) (09:07, 26 October 2021)
 -   📺 Completed [Fire Force Season 2](https://anilist.co/anime/114236) (20:20, 25 October 2021)
 -   📺 Completed [Fire Force](https://anilist.co/anime/105310) (20:20, 25 October 2021)
 -   📺 Completed [Steins;Gate: Egoistic Poriomania](https://anilist.co/anime/10863) (20:19, 25 October 2021)
 -   📖 Read chapter 9 - 15 of [The Promised Neverland](https://anilist.co/manga/87423) (20:04, 25 October 2021)
--   📺 Watched episode 4 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (19:19, 25 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
