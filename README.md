@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (04:13, 27 October 2021)
+-   📖 Read chapter 4 - 7 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (04:20, 27 October 2021)
 -   📖 Read chapter 237 - 241 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (10:06, 26 October 2021)
 -   📖 Read chapter 52 of [Record of Ragnarok](https://anilist.co/manga/107098) (09:54, 26 October 2021)
 -   📖 Read chapter 20 of [The Promised Neverland](https://anilist.co/manga/87423) (09:33, 26 October 2021)
