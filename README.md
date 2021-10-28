@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 15 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (14:35, 28 October 2021)
 -   📺 Watched episode 4 of [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (21:04, 27 October 2021)
 -   📺 Watched episode 5 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (21:04, 27 October 2021)
 -   📺 Watched episode 71 - 72 of [Black Clover](https://anilist.co/anime/97940) (21:04, 27 October 2021)
 -   📖 Read chapter 1 - 5 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (20:49, 27 October 2021)
--   📖 Read chapter 1 - 11 of [Goodnight Punpun](https://anilist.co/manga/34632) (19:17, 27 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
