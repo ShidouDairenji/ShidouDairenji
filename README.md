@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 10 of [Girl of Gold & Silver Girl](https://anilist.co/manga/85777) (08:57, 29 October 2021)
+-   📖 Read chapter 10 - 15 of [Girl of Gold & Silver Girl](https://anilist.co/manga/85777) (09:59, 29 October 2021)
 -   📖 Read chapter 1 - 9 of [Girl of Gold & Silver Girl](https://anilist.co/manga/85777) (17:30, 28 October 2021)
 -   📖 Read chapter 6 - 14 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (16:55, 28 October 2021)
 -   📖 Read chapter 8 - 15 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (14:35, 28 October 2021)
