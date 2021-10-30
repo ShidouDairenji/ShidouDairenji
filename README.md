@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Shishunki-chan no Shitsukekata](https://anilist.co/manga/108330) (08:20, 30 October 2021)
 -   📖 Read chapter 2 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (06:37, 30 October 2021)
 -   📖 Read chapter 1 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (17:45, 29 October 2021)
 -   📖 Read chapter 1 - 6 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (14:35, 29 October 2021)
 -   📖 Read chapter 1 - 9 of [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (13:35, 29 October 2021)
--   📖 Read chapter 10 - 15 of [Girl of Gold & Silver Girl](https://anilist.co/manga/85777) (09:59, 29 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
