@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 15 - 19 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (21:08, 30 October 2021)
 -   📺 Plans to watch [OneRoom](https://anilist.co/anime/97857) (18:18, 30 October 2021)
 -   📺 Watched episode 5 of [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (17:53, 30 October 2021)
 -   📺 Watched episode 4 of [Platinum End](https://anilist.co/anime/127401) (17:53, 30 October 2021)
 -   📺 Watched episode 4 of [My Senpai is Annoying](https://anilist.co/anime/120646) (17:53, 30 October 2021)
--   📺 Watched episode 4 of [BUILD-DIVIDE -#000000- CODE BLACK](https://anilist.co/anime/132525) (17:53, 30 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
