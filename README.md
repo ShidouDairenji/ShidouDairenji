@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 10 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (11:00, 30 October 2021)
+-   📖 Read chapter 1 - 5 of [Senpai, Please Let Me Have a Taste of That!](https://anilist.co/manga/98802) (12:11, 30 October 2021)
+-   📖 Read chapter 3 - 14 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (11:26, 30 October 2021)
 -   📖 Read chapter 1 of [Shishunki-chan no Shitsukekata](https://anilist.co/manga/108330) (08:20, 30 October 2021)
 -   📖 Read chapter 2 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (06:37, 30 October 2021)
 -   📖 Read chapter 1 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (17:45, 29 October 2021)
--   📖 Read chapter 1 - 6 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (14:35, 29 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
