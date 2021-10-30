@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Noragami OVA](https://anilist.co/anime/20494) (15:17, 30 October 2021)
--   📺 Completed [Noragami Aragoto OVA](https://anilist.co/anime/119941) (15:16, 30 October 2021)
--   📺 Completed [Bungo Stray Dogs 2: Walking Alone](https://anilist.co/anime/21791) (15:14, 30 October 2021)
--   📖 Read chapter 2 - 8 of [Shishunki-chan no Shitsukekata](https://anilist.co/manga/108330) (13:20, 30 October 2021)
--   📖 Read chapter 1 - 5 of [Senpai, Please Let Me Have a Taste of That!](https://anilist.co/manga/98802) (12:11, 30 October 2021)
+-   📺 Watched episode 5 of [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (17:53, 30 October 2021)
+-   📺 Watched episode 4 of [Platinum End](https://anilist.co/anime/127401) (17:53, 30 October 2021)
+-   📺 Watched episode 4 of [My Senpai is Annoying](https://anilist.co/anime/120646) (17:53, 30 October 2021)
+-   📺 Watched episode 4 of [BUILD-DIVIDE -#000000- CODE BLACK](https://anilist.co/anime/132525) (17:53, 30 October 2021)
+-   📺 Watched episode 4 of [The Faraway Paladin](https://anilist.co/anime/132473) (17:52, 30 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
