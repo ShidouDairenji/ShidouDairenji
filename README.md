@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 7 of [Shishunki-chan no Shitsukekata](https://anilist.co/manga/108330) (13:14, 30 October 2021)
+-   📖 Read chapter 2 - 8 of [Shishunki-chan no Shitsukekata](https://anilist.co/manga/108330) (13:20, 30 October 2021)
 -   📖 Read chapter 1 - 5 of [Senpai, Please Let Me Have a Taste of That!](https://anilist.co/manga/98802) (12:11, 30 October 2021)
 -   📖 Read chapter 3 - 14 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (11:26, 30 October 2021)
 -   📖 Read chapter 1 of [Shishunki-chan no Shitsukekata](https://anilist.co/manga/108330) (08:20, 30 October 2021)
