@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 25 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (12:24, 31 October 2021)
 -   📖 Read chapter 1 - 8 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (10:25, 31 October 2021)
 -   📖 Read chapter 3 - 4 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (10:11, 31 October 2021)
 -   📖 Read chapter 15 - 19 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (09:08, 31 October 2021)
 -   📖 Read chapter 10 - 13 of [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (08:57, 31 October 2021)
--   📖 Read chapter 15 - 21 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (21:15, 30 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
