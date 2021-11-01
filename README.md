@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 - 32 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (10:11, 01 November 2021)
 -   📖 Read chapter 25 - 30 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (08:02, 01 November 2021)
 -   📖 Read chapter 34 of [Megami no Café Terrace](https://anilist.co/manga/129694) (07:45, 01 November 2021)
 -   📖 Read chapter 16 - 17 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (07:30, 01 November 2021)
 -   📖 Read chapter 57 of [Juujika no Rokunin](https://anilist.co/manga/116671) (07:22, 01 November 2021)
--   📖 Read chapter 16 - 18 of [Shishunki-chan no Shitsukekata](https://anilist.co/manga/108330) (07:20, 01 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
