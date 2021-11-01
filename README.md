@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 226 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (13:05, 01 November 2021)
+-   📖 Read chapter 1 - 6 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (12:59, 01 November 2021)
 -   📺 Watched episode 3 of [Demon Slayer: Kimetsu no Yaiba 2](https://anilist.co/anime/129874) (11:09, 01 November 2021)
 -   📺 Watched episode 5 of [Mieruko-chan](https://anilist.co/anime/131083) (11:05, 01 November 2021)
 -   📖 Read chapter 98 - 101 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (11:00, 01 November 2021)
--   📖 Read chapter 55 of [SPY x FAMILY](https://anilist.co/manga/108556) (10:53, 01 November 2021)
--   📖 Read chapter 31 - 40 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (10:30, 01 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
