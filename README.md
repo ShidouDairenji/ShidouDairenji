@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [One-Punch Man](https://anilist.co/manga/74347) (15:10, 01 November 2021)
+-   📖 Read chapter 1 - 3 of [One-Punch Man](https://anilist.co/manga/74347) (15:13, 01 November 2021)
 -   📖 Read chapter 226 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (13:05, 01 November 2021)
 -   📖 Read chapter 1 - 6 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (12:59, 01 November 2021)
 -   📺 Watched episode 3 of [Demon Slayer: Kimetsu no Yaiba 2](https://anilist.co/anime/129874) (11:09, 01 November 2021)
