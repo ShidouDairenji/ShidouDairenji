@@ -70,10 +70,10 @@
 <!-- ANILIST_ACTIVITY:start -->
 
 -   📺 Watched episode 3 of [Demon Slayer: Kimetsu no Yaiba 2](https://anilist.co/anime/129874) (11:09, 01 November 2021)
--   📺 Watched episode 4 of [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (11:08, 01 November 2021)
--   📺 Watched episode 4 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (11:07, 01 November 2021)
--   📺 Watched episode 4 of [My Senpai is Annoying](https://anilist.co/anime/120646) (11:07, 01 November 2021)
 -   📺 Watched episode 5 of [Mieruko-chan](https://anilist.co/anime/131083) (11:05, 01 November 2021)
+-   📖 Read chapter 98 - 101 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (11:00, 01 November 2021)
+-   📖 Read chapter 55 of [SPY x FAMILY](https://anilist.co/manga/108556) (10:53, 01 November 2021)
+-   📖 Read chapter 31 - 40 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (10:30, 01 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
