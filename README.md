@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 11 of [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (18:08, 01 November 2021)
+-   📖 Read chapter 1 - 35 of [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (19:08, 01 November 2021)
 -   📖 Read chapter 1 - 3 of [One-Punch Man](https://anilist.co/manga/74347) (15:13, 01 November 2021)
 -   📖 Read chapter 226 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (13:05, 01 November 2021)
 -   📖 Read chapter 1 - 6 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (12:59, 01 November 2021)
