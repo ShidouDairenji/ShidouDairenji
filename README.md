@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 35 of [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (19:08, 01 November 2021)
+-   📖 Read chapter 16 - 18 of [Girl of Gold & Silver Girl](https://anilist.co/manga/85777) (20:08, 01 November 2021)
+-   📖 Read chapter 1 - 36 of [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (19:10, 01 November 2021)
 -   📖 Read chapter 1 - 3 of [One-Punch Man](https://anilist.co/manga/74347) (15:13, 01 November 2021)
 -   📖 Read chapter 226 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (13:05, 01 November 2021)
 -   📖 Read chapter 1 - 6 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (12:59, 01 November 2021)
--   📺 Watched episode 3 of [Demon Slayer: Kimetsu no Yaiba 2](https://anilist.co/anime/129874) (11:09, 01 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
