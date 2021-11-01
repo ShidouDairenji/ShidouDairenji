@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 17 of [Shishunki-chan no Shitsukekata](https://anilist.co/manga/108330) (07:08, 01 November 2021)
 -   📖 Read chapter 9 - 24 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (04:48, 01 November 2021)
 -   📖 Read chapter 7 - 11 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (04:05, 01 November 2021)
 -   📖 Read chapter 25 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (12:24, 31 October 2021)
 -   📖 Read chapter 1 - 8 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (10:25, 31 October 2021)
--   📖 Read chapter 3 - 4 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (10:11, 31 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
