@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 - 32 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (12:33, 02 November 2021)
 -   📖 Read chapter 26 - 27 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (12:05, 02 November 2021)
 -   📖 Read chapter 16 - 52 of [My Dress-Up Darling](https://anilist.co/manga/101583) (11:59, 02 November 2021)
 -   📖 Read chapter 41 - 44 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (11:09, 02 November 2021)
 -   📖 Read chapter 1 - 4 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:27, 02 November 2021)
--   📖 Read chapter 46 - 48 of [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (04:09, 02 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
