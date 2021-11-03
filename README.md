@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 6 - 27 of [Koi Shita no de Haishin Shite Mita](https://anilist.co/manga/112342) (14:09, 03 November 2021)
+-   📖 Read chapter 6 - 28 of [Koi Shita no de Haishin Shite Mita](https://anilist.co/manga/112342) (14:17, 03 November 2021)
 -   📖 Read chapter 210 - 224 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (18:41, 02 November 2021)
 -   📖 Read chapter 3 of [Haikyu!!](https://anilist.co/manga/65243) (14:58, 02 November 2021)
 -   📖 Read chapter 45 - 46 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (14:55, 02 November 2021)
