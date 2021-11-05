@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 44 - 79 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (10:05, 05 November 2021)
+-   📖 Read chapter 44 - 82 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (10:21, 05 November 2021)
 -   📖 Read chapter 63 - 64 of [Koi Shita no de Haishin Shite Mita](https://anilist.co/manga/112342) (08:55, 05 November 2021)
 -   📖 Read chapter 58 of [Juujika no Rokunin](https://anilist.co/manga/116671) (08:53, 05 November 2021)
 -   📖 Read chapter 6 - 28 of [Koi Shita no de Haishin Shite Mita](https://anilist.co/manga/112342) (14:17, 03 November 2021)
