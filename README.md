@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 101 - 105 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (18:07, 05 November 2021)
+-   📖 Read chapter 101 - 111 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (19:05, 05 November 2021)
 -   📺 Watched episode 5 of [Platinum End](https://anilist.co/anime/127401) (16:51, 05 November 2021)
 -   📺 Watched episode 5 of [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (16:51, 05 November 2021)
 -   📺 Watched episode 5 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (16:51, 05 November 2021)
