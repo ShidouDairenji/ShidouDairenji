@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Platinum End](https://anilist.co/anime/127401) (16:51, 05 November 2021)
+-   📺 Watched episode 5 of [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (16:51, 05 November 2021)
+-   📺 Watched episode 5 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (16:51, 05 November 2021)
 -   📖 Read chapter 70 - 72 of [Shounen no Abyss](https://anilist.co/manga/116186) (15:59, 05 November 2021)
 -   📖 Read chapter 65 - 66 of [Ayakashi Triangle](https://anilist.co/manga/119493) (15:54, 05 November 2021)
--   📖 Read chapter 43 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (15:52, 05 November 2021)
--   📖 Read chapter 98 - 100 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (15:48, 05 November 2021)
--   📖 Read chapter 44 - 82 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (10:21, 05 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
