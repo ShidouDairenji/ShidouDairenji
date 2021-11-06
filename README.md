@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 28 - 40 of [One-Punch Man](https://anilist.co/manga/74347) (09:09, 06 November 2021)
+-   📖 Read chapter 28 - 49 of [One-Punch Man](https://anilist.co/manga/74347) (10:10, 06 November 2021)
 -   📖 Read chapter 4 - 7 of [One-Punch Man](https://anilist.co/manga/74347) (05:26, 06 November 2021)
 -   📖 Read chapter 23 - 30 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (03:58, 06 November 2021)
 -   📖 Read chapter 101 - 128 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (21:05, 05 November 2021)
