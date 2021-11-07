@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [SPY×FAMILY](https://anilist.co/anime/140960) (18:50, 07 November 2021)
 -   📖 Read chapter 15 - 28 of [We're New at This](https://anilist.co/manga/104864) (17:40, 07 November 2021)
 -   📺 Plans to watch [Bungou Stray Dogs 4](https://anilist.co/anime/141249) (16:24, 07 November 2021)
 -   📖 Read chapter 34 - 35 of [Naruto](https://anilist.co/manga/30011) (16:22, 07 November 2021)
 -   📖 Read chapter 514 - 807 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (12:40, 07 November 2021)
--   📖 Read chapter 514 - 613 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (11:59, 07 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
