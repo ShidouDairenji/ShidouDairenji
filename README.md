@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 514 - 564 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (10:55, 07 November 2021)
+-   📖 Read chapter 514 - 613 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (11:59, 07 November 2021)
+-   📖 Read chapter 514 - 613 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (11:59, 07 November 2021)
 -   📖 Read chapter 13 - 23 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (10:21, 07 November 2021)
 -   📖 Read chapter 73 of [One-Punch Man](https://anilist.co/manga/74347) (09:45, 07 November 2021)
 -   📖 Read chapter 373 - 513 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (04:39, 07 November 2021)
--   📺 Completed [TONIKAWA: Over The Moon For You ~SNS~](https://anilist.co/anime/127371) (17:34, 06 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
