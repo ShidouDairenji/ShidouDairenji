@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 373 - 475 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (04:13, 07 November 2021)
+-   📖 Read chapter 373 - 513 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (04:39, 07 November 2021)
 -   📺 Completed [TONIKAWA: Over The Moon For You ~SNS~](https://anilist.co/anime/127371) (17:34, 06 November 2021)
 -   📺 Plans to watch [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (17:34, 06 November 2021)
 -   📖 Read chapter 19 of [Naruto](https://anilist.co/manga/30011) (16:49, 06 November 2021)
