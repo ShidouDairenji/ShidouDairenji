@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (20:10, 07 November 2021)
+-   📖 Read chapter 1 - 8 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (20:11, 07 November 2021)
 -   📖 Read chapter 35 of [Megami no Café Terrace](https://anilist.co/manga/129694) (19:36, 07 November 2021)
 -   📺 Plans to watch [SPY×FAMILY](https://anilist.co/anime/140960) (18:50, 07 November 2021)
 -   📖 Read chapter 15 - 28 of [We're New at This](https://anilist.co/manga/104864) (17:40, 07 November 2021)
