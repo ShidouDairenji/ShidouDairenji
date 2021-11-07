@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 15 - 23 of [We're New at This](https://anilist.co/manga/104864) (16:49, 07 November 2021)
+-   📖 Read chapter 15 - 28 of [We're New at This](https://anilist.co/manga/104864) (17:40, 07 November 2021)
 -   📺 Plans to watch [Bungou Stray Dogs 4](https://anilist.co/anime/141249) (16:24, 07 November 2021)
 -   📖 Read chapter 34 - 35 of [Naruto](https://anilist.co/manga/30011) (16:22, 07 November 2021)
 -   📖 Read chapter 514 - 807 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (12:40, 07 November 2021)
