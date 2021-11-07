@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 373 - 475 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (04:13, 07 November 2021)
 -   📺 Completed [TONIKAWA: Over The Moon For You ~SNS~](https://anilist.co/anime/127371) (17:34, 06 November 2021)
 -   📺 Plans to watch [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (17:34, 06 November 2021)
 -   📖 Read chapter 19 of [Naruto](https://anilist.co/manga/30011) (16:49, 06 November 2021)
 -   📖 Read chapter 70 - 72 of [One-Punch Man](https://anilist.co/manga/74347) (16:27, 06 November 2021)
--   📖 Read chapter 160 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:40, 06 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
