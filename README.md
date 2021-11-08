@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 66 - 69 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (13:17, 08 November 2021)
+-   📖 Read chapter 66 - 71 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (13:18, 08 November 2021)
 -   📖 Read chapter 1 - 8 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (20:11, 07 November 2021)
 -   📖 Read chapter 35 of [Megami no Café Terrace](https://anilist.co/manga/129694) (19:36, 07 November 2021)
 -   📺 Plans to watch [SPY×FAMILY](https://anilist.co/anime/140960) (18:50, 07 November 2021)
