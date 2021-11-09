@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Innocent](https://anilist.co/manga/85165) (19:37, 09 November 2021)
 -   📖 Read chapter 29 of [Scum's Wish](https://anilist.co/manga/74929) (19:06, 09 November 2021)
 -   📖 Read chapter 12 - 13 of [Scum's Wish](https://anilist.co/manga/74929) (14:40, 09 November 2021)
 -   📖 Read chapter 34 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (10:31, 09 November 2021)
 -   📺 Completed [Orange: Future](https://anilist.co/anime/97669) (09:58, 09 November 2021)
--   📺 Completed [Death Billiards](https://anilist.co/anime/14353) (09:56, 09 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
