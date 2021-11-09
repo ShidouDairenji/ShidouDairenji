@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 25 - 26 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (15:28, 08 November 2021)
--   📖 Read chapter 72 - 78 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:25, 08 November 2021)
--   📖 Read chapter 20 - 25 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (15:14, 08 November 2021)
--   📖 Read chapter 66 - 71 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (13:18, 08 November 2021)
--   📖 Read chapter 1 - 8 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (20:11, 07 November 2021)
+-   📺 Completed [Orange: Future](https://anilist.co/anime/97669) (09:58, 09 November 2021)
+-   📺 Completed [Death Billiards](https://anilist.co/anime/14353) (09:56, 09 November 2021)
+-   📺 Completed [Fate/stay night [Heaven’s Feel] III. spring song](https://anilist.co/anime/21719) (09:54, 09 November 2021)
+-   📺 Completed [Rascal Does Not Dream of a Dreaming Girl](https://anilist.co/anime/104157) (09:53, 09 November 2021)
+-   📺 Completed [Kakegurui xx](https://anilist.co/anime/100876) (09:52, 09 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
