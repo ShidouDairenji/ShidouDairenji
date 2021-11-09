@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 12 - 13 of [Scum's Wish](https://anilist.co/manga/74929) (14:40, 09 November 2021)
 -   📖 Read chapter 34 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (10:31, 09 November 2021)
 -   📺 Completed [Orange: Future](https://anilist.co/anime/97669) (09:58, 09 November 2021)
 -   📺 Completed [Death Billiards](https://anilist.co/anime/14353) (09:56, 09 November 2021)
 -   📺 Completed [Fate/stay night [Heaven’s Feel] III. spring song](https://anilist.co/anime/21719) (09:54, 09 November 2021)
--   📺 Completed [Rascal Does Not Dream of a Dreaming Girl](https://anilist.co/anime/104157) (09:53, 09 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
