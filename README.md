@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Innocent](https://anilist.co/manga/85165) (19:37, 09 November 2021)
--   📖 Read chapter 29 of [Scum's Wish](https://anilist.co/manga/74929) (19:06, 09 November 2021)
--   📖 Read chapter 12 - 13 of [Scum's Wish](https://anilist.co/manga/74929) (14:40, 09 November 2021)
--   📖 Read chapter 34 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (10:31, 09 November 2021)
--   📺 Completed [Orange: Future](https://anilist.co/anime/97669) (09:58, 09 November 2021)
+-   📺 Watched episode 1 of [SCHOOL-LIVE!](https://anilist.co/anime/20754) (17:29, 10 November 2021)
+-   📖 Read chapter 44 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (17:22, 10 November 2021)
+-   📖 Completed [Scum's Wish](https://anilist.co/manga/74929) (17:18, 10 November 2021)
+-   📖 Read chapter 26 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (17:17, 10 November 2021)
+-   📖 Read chapter 200 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (17:17, 10 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
