@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 808 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (05:09, 11 November 2021)
+-   📖 Read chapter 59 of [Juujika no Rokunin](https://anilist.co/manga/116671) (05:09, 11 November 2021)
+-   📖 Read chapter 13 - 17 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (05:01, 11 November 2021)
 -   📺 Watched episode 1 of [SCHOOL-LIVE!](https://anilist.co/anime/20754) (17:29, 10 November 2021)
 -   📖 Read chapter 44 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (17:22, 10 November 2021)
--   📖 Completed [Scum's Wish](https://anilist.co/manga/74929) (17:18, 10 November 2021)
--   📖 Read chapter 26 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (17:17, 10 November 2021)
--   📖 Read chapter 200 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (17:17, 10 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
