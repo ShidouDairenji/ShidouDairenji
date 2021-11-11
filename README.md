@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 10 of [Killer in Love](https://anilist.co/manga/128163) (10:11, 11 November 2021)
+-   📖 Read chapter 1 - 20 of [Killer in Love](https://anilist.co/manga/128163) (10:26, 11 November 2021)
 -   📖 Read chapter 13 - 20 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (06:13, 11 November 2021)
 -   📖 Read chapter 808 - 815 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (05:12, 11 November 2021)
 -   📖 Read chapter 59 of [Juujika no Rokunin](https://anilist.co/manga/116671) (05:09, 11 November 2021)
