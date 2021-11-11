@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [SCHOOL-LIVE!](https://anilist.co/anime/20754) (15:33, 11 November 2021)
--   📖 Read chapter 1 - 20 of [Killer in Love](https://anilist.co/manga/128163) (10:26, 11 November 2021)
--   📖 Read chapter 13 - 20 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (06:13, 11 November 2021)
--   📖 Read chapter 808 - 815 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (05:12, 11 November 2021)
--   📖 Read chapter 59 of [Juujika no Rokunin](https://anilist.co/manga/116671) (05:09, 11 November 2021)
+-   📖 Read chapter 322 - 324 of [Komi Can't Communicate](https://anilist.co/manga/97852) (20:09, 11 November 2021)
+-   📖 Read chapter 11 - 16 of [Senpai, Please Let Me Have a Taste of That!](https://anilist.co/manga/98802) (20:01, 11 November 2021)
+-   📺 Completed [ReLIFE: Final Arc](https://anilist.co/anime/98635) (19:32, 11 November 2021)
+-   📺 Completed [Love, Chunibyo & Other Delusions: Take on Me](https://anilist.co/anime/98762) (19:28, 11 November 2021)
+-   📺 Completed [A Silent Voice](https://anilist.co/anime/20954) (19:25, 11 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
