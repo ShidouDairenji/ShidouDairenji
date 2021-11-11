@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Jujutsu Kaisen 0](https://anilist.co/manga/105469) (20:14, 11 November 2021)
 -   📖 Read chapter 322 - 324 of [Komi Can't Communicate](https://anilist.co/manga/97852) (20:09, 11 November 2021)
 -   📖 Read chapter 11 - 16 of [Senpai, Please Let Me Have a Taste of That!](https://anilist.co/manga/98802) (20:01, 11 November 2021)
 -   📺 Completed [ReLIFE: Final Arc](https://anilist.co/anime/98635) (19:32, 11 November 2021)
 -   📺 Completed [Love, Chunibyo & Other Delusions: Take on Me](https://anilist.co/anime/98762) (19:28, 11 November 2021)
--   📺 Completed [A Silent Voice](https://anilist.co/anime/20954) (19:25, 11 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
