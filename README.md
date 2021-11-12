@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 17 of [Senpai, Please Let Me Have a Taste of That!](https://anilist.co/manga/98802) (15:05, 12 November 2021)
+-   📖 Read chapter 22 of [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (15:43, 12 November 2021)
+-   📖 Read chapter 17 - 26 of [Senpai, Please Let Me Have a Taste of That!](https://anilist.co/manga/98802) (15:41, 12 November 2021)
 -   📖 Read chapter 24 - 25 of [Usotsuki Satsuki Shi ga Mieru](https://anilist.co/manga/120034) (12:56, 12 November 2021)
 -   📖 Read chapter 14 - 21 of [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (09:56, 12 November 2021)
 -   📖 Completed [Jujutsu Kaisen 0](https://anilist.co/manga/105469) (20:14, 11 November 2021)
--   📖 Read chapter 322 - 324 of [Komi Can't Communicate](https://anilist.co/manga/97852) (20:09, 11 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
