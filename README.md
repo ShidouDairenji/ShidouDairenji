@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 30 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (17:37, 12 November 2021)
 -   📖 Read chapter 30 - 32 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (16:53, 12 November 2021)
 -   📖 Read chapter 22 of [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (15:43, 12 November 2021)
 -   📖 Read chapter 17 - 26 of [Senpai, Please Let Me Have a Taste of That!](https://anilist.co/manga/98802) (15:41, 12 November 2021)
 -   📖 Read chapter 24 - 25 of [Usotsuki Satsuki Shi ga Mieru](https://anilist.co/manga/120034) (12:56, 12 November 2021)
--   📖 Read chapter 14 - 21 of [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (09:56, 12 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
