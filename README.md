@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 - 51 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (04:07, 13 November 2021)
 -   📖 Read chapter 33 - 43 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (20:19, 12 November 2021)
 -   📖 Read chapter 23 of [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (19:51, 12 November 2021)
 -   📖 Read chapter 30 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (17:37, 12 November 2021)
 -   📖 Read chapter 30 - 32 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (16:53, 12 November 2021)
--   📖 Read chapter 22 of [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (15:43, 12 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
