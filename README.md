@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 - 32 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (19:06, 13 November 2021)
 -   📖 Read chapter 27 - 34 of [Usotsuki Satsuki Shi ga Mieru](https://anilist.co/manga/120034) (14:13, 13 November 2021)
 -   📖 Read chapter 44 - 51 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (04:07, 13 November 2021)
 -   📖 Read chapter 33 - 43 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (20:19, 12 November 2021)
 -   📖 Read chapter 23 of [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (19:51, 12 November 2021)
--   📖 Read chapter 30 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (17:37, 12 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
