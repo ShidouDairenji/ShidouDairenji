@@ -69,8 +69,8 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 205 - 224 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (20:09, 13 November 2021)
--   📖 Read chapter 26 - 35 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (19:14, 13 November 2021)
+-   📖 Read chapter 26 - 51 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (20:59, 13 November 2021)
+-   📖 Read chapter 205 - 231 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (20:21, 13 November 2021)
 -   📖 Read chapter 27 - 34 of [Usotsuki Satsuki Shi ga Mieru](https://anilist.co/manga/120034) (14:13, 13 November 2021)
 -   📖 Read chapter 44 - 51 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (04:07, 13 November 2021)
 -   📖 Read chapter 33 - 43 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (20:19, 12 November 2021)
