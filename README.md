@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 27 - 30 of [Usotsuki Satsuki Shi ga Mieru](https://anilist.co/manga/120034) (14:08, 13 November 2021)
+-   📖 Read chapter 27 - 34 of [Usotsuki Satsuki Shi ga Mieru](https://anilist.co/manga/120034) (14:13, 13 November 2021)
 -   📖 Read chapter 44 - 51 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (04:07, 13 November 2021)
 -   📖 Read chapter 33 - 43 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (20:19, 12 November 2021)
 -   📖 Read chapter 23 of [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (19:51, 12 November 2021)
