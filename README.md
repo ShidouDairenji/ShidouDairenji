@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [When Will Ayumu Make His Move?](https://anilist.co/manga/108105) (18:10, 14 November 2021)
+-   📖 Read chapter 11 - 12 of [Yokai Girls](https://anilist.co/manga/85369) (18:03, 14 November 2021)
 -   📺 Watched episode 4 of [Talentless Nana](https://anilist.co/anime/117343) (15:21, 14 November 2021)
 -   📺 Watched episode 3 of [SCHOOL-LIVE!](https://anilist.co/anime/20754) (12:55, 14 November 2021)
 -   📖 Read chapter 1 - 10 of [Yokai Girls](https://anilist.co/manga/85369) (12:32, 14 November 2021)
--   📖 Read chapter 30 - 40 of [We're New at This](https://anilist.co/manga/104864) (09:54, 14 November 2021)
--   📖 Read chapter 12 - 23 of [Goodnight Punpun](https://anilist.co/manga/34632) (04:49, 14 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
