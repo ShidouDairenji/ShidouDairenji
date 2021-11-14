@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Yokai Girls](https://anilist.co/manga/85369) (10:07, 14 November 2021)
+-   📖 Read chapter 1 - 4 of [Yokai Girls](https://anilist.co/manga/85369) (10:14, 14 November 2021)
 -   📖 Read chapter 30 - 40 of [We're New at This](https://anilist.co/manga/104864) (09:54, 14 November 2021)
 -   📖 Read chapter 12 - 23 of [Goodnight Punpun](https://anilist.co/manga/34632) (04:49, 14 November 2021)
 -   📖 Read chapter 232 - 259 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (04:24, 14 November 2021)
