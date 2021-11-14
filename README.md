@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Yokai Girls](https://anilist.co/manga/85369) (10:07, 14 November 2021)
+-   📖 Read chapter 30 - 40 of [We're New at This](https://anilist.co/manga/104864) (09:54, 14 November 2021)
 -   📖 Read chapter 12 - 23 of [Goodnight Punpun](https://anilist.co/manga/34632) (04:49, 14 November 2021)
 -   📖 Read chapter 232 - 259 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (04:24, 14 November 2021)
 -   📖 Read chapter 35 of [Usotsuki Satsuki Shi ga Mieru](https://anilist.co/manga/120034) (03:29, 14 November 2021)
--   📖 Read chapter 26 - 51 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (20:59, 13 November 2021)
--   📖 Read chapter 205 - 231 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (20:21, 13 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
