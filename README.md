@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 53 - 62 of [My Dress-Up Darling](https://anilist.co/manga/101583) (14:05, 15 November 2021)
+-   📖 Read chapter 53 - 63 of [My Dress-Up Darling](https://anilist.co/manga/101583) (14:11, 15 November 2021)
 -   📖 Completed [Ashigei Shoujo Komura-san](https://anilist.co/manga/105896) (19:15, 14 November 2021)
 -   📖 Read chapter 40 - 57 of [Ashigei Shoujo Komura-san](https://anilist.co/manga/105896) (19:15, 14 November 2021)
 -   📖 Read chapter 11 - 18 of [Yokai Girls](https://anilist.co/manga/85369) (18:56, 14 November 2021)
