@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 - 62 of [My Dress-Up Darling](https://anilist.co/manga/101583) (14:05, 15 November 2021)
 -   📖 Completed [Ashigei Shoujo Komura-san](https://anilist.co/manga/105896) (19:15, 14 November 2021)
 -   📖 Read chapter 40 - 57 of [Ashigei Shoujo Komura-san](https://anilist.co/manga/105896) (19:15, 14 November 2021)
 -   📖 Read chapter 11 - 18 of [Yokai Girls](https://anilist.co/manga/85369) (18:56, 14 November 2021)
 -   📖 Read chapter 1 - 18 of [When Will Ayumu Make His Move?](https://anilist.co/manga/108105) (18:42, 14 November 2021)
--   📺 Watched episode 4 of [Talentless Nana](https://anilist.co/anime/117343) (15:21, 14 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
