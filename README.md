@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 228 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (07:49, 16 November 2021)
 -   📖 Read chapter 74 of [Shounen no Abyss](https://anilist.co/manga/116186) (06:23, 16 November 2021)
 -   📖 Read chapter 53 - 63 of [My Dress-Up Darling](https://anilist.co/manga/101583) (14:11, 15 November 2021)
 -   📖 Completed [Ashigei Shoujo Komura-san](https://anilist.co/manga/105896) (19:15, 14 November 2021)
 -   📖 Read chapter 40 - 57 of [Ashigei Shoujo Komura-san](https://anilist.co/manga/105896) (19:15, 14 November 2021)
--   📖 Read chapter 11 - 18 of [Yokai Girls](https://anilist.co/manga/85369) (18:56, 14 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
