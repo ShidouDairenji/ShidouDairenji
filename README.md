@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 5 - 6 of [No Matter What You Say, Furi-san is Scary!](https://anilist.co/manga/106660) (06:38, 17 November 2021)
+-   📖 Read chapter 5 - 9 of [No Matter What You Say, Furi-san is Scary!](https://anilist.co/manga/106660) (07:37, 17 November 2021)
 -   📖 Read chapter 19 - 35 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (13:22, 16 November 2021)
 -   📖 Read chapter 816 - 897 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (08:37, 16 November 2021)
 -   📖 Read chapter 228 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (07:49, 16 November 2021)
