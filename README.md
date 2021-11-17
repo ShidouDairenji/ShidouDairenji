@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 52 - 55 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (19:08, 17 November 2021)
 -   📖 Read chapter 35 - 43 of [Blue Flag](https://anilist.co/manga/98334) (14:48, 17 November 2021)
 -   📖 Read chapter 10 - 34 of [Blue Flag](https://anilist.co/manga/98334) (11:49, 17 November 2021)
 -   📖 Read chapter 5 - 9 of [No Matter What You Say, Furi-san is Scary!](https://anilist.co/manga/106660) (07:37, 17 November 2021)
 -   📖 Read chapter 19 - 35 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (13:22, 16 November 2021)
--   📖 Read chapter 816 - 897 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (08:37, 16 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
