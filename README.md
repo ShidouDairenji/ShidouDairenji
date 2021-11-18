@@ -69,8 +69,8 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 260 - 291 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:55, 18 November 2021)
 -   📖 Read chapter 19 - 22 of [When Will Ayumu Make His Move?](https://anilist.co/manga/108105) (06:04, 18 November 2021)
--   📖 Read chapter 260 - 281 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (06:00, 18 November 2021)
 -   📖 Read chapter 52 - 57 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (19:14, 17 November 2021)
 -   📖 Read chapter 35 - 43 of [Blue Flag](https://anilist.co/manga/98334) (14:48, 17 November 2021)
 -   📖 Read chapter 10 - 34 of [Blue Flag](https://anilist.co/manga/98334) (11:49, 17 November 2021)
