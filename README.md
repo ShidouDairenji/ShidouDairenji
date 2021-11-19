@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 52 - 56 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (04:46, 19 November 2021)
+-   📖 Read chapter 10 - 11 of [No Matter What You Say, Furi-san is Scary!](https://anilist.co/manga/106660) (04:28, 19 November 2021)
 -   📖 Read chapter 48 - 60 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (03:34, 19 November 2021)
 -   📖 Read chapter 305 - 309 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (18:59, 18 November 2021)
 -   📖 Read chapter 60 of [Juujika no Rokunin](https://anilist.co/manga/116671) (18:45, 18 November 2021)
--   📖 Read chapter 36 - 37 of [Megami no Café Terrace](https://anilist.co/manga/129694) (18:36, 18 November 2021)
--   📖 Read chapter 79 - 81 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (18:27, 18 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
