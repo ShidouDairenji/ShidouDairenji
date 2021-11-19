@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 - 46 of [Blue Flag](https://anilist.co/manga/98334) (14:08, 19 November 2021)
 -   📺 Plans to watch [The Relative Worlds](https://anilist.co/anime/104562) (09:28, 19 November 2021)
 -   📺 Plans to watch [HELLO WORLD](https://anilist.co/anime/106240) (09:25, 19 November 2021)
 -   📺 Completed [Tokyo Revengers](https://anilist.co/anime/120120) (09:24, 19 November 2021)
 -   📖 Plans to read [Dead Mount Death Play](https://anilist.co/manga/100868) (09:13, 19 November 2021)
--   📺 Plans to watch [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298) (09:04, 19 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
