@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Relative Worlds](https://anilist.co/anime/104562) (09:28, 19 November 2021)
+-   📺 Plans to watch [HELLO WORLD](https://anilist.co/anime/106240) (09:25, 19 November 2021)
+-   📺 Completed [Tokyo Revengers](https://anilist.co/anime/120120) (09:24, 19 November 2021)
+-   📖 Plans to read [Dead Mount Death Play](https://anilist.co/manga/100868) (09:13, 19 November 2021)
 -   📺 Plans to watch [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298) (09:04, 19 November 2021)
--   📺 Watched episode 1 - 2 of [The Day I Became a God](https://anilist.co/anime/118419) (08:42, 19 November 2021)
--   📖 Read chapter 52 - 56 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (04:46, 19 November 2021)
--   📖 Read chapter 10 - 11 of [No Matter What You Say, Furi-san is Scary!](https://anilist.co/manga/106660) (04:28, 19 November 2021)
--   📖 Read chapter 48 - 60 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (03:34, 19 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
