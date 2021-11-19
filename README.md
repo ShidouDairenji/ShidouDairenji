@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 44 - 46 of [Blue Flag](https://anilist.co/manga/98334) (14:08, 19 November 2021)
+-   📖 Read chapter 44 - 51 of [Blue Flag](https://anilist.co/manga/98334) (14:29, 19 November 2021)
 -   📺 Plans to watch [The Relative Worlds](https://anilist.co/anime/104562) (09:28, 19 November 2021)
 -   📺 Plans to watch [HELLO WORLD](https://anilist.co/anime/106240) (09:25, 19 November 2021)
 -   📺 Completed [Tokyo Revengers](https://anilist.co/anime/120120) (09:24, 19 November 2021)
