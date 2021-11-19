@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 61 - 72 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (17:57, 19 November 2021)
+-   📖 Read chapter 898 - 923 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (17:33, 19 November 2021)
 -   📖 Read chapter 44 - 51 of [Blue Flag](https://anilist.co/manga/98334) (14:29, 19 November 2021)
 -   📺 Plans to watch [The Relative Worlds](https://anilist.co/anime/104562) (09:28, 19 November 2021)
 -   📺 Plans to watch [HELLO WORLD](https://anilist.co/anime/106240) (09:25, 19 November 2021)
--   📺 Completed [Tokyo Revengers](https://anilist.co/anime/120120) (09:24, 19 November 2021)
--   📖 Plans to read [Dead Mount Death Play](https://anilist.co/manga/100868) (09:13, 19 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
