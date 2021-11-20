@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 4 of [Tomodachi Toshite Daisuki](https://anilist.co/manga/115357) (11:49, 20 November 2021)
+-   📖 Read chapter 64 of [My Dress-Up Darling](https://anilist.co/manga/101583) (11:20, 20 November 2021)
 -   📖 Read chapter 229 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (10:46, 20 November 2021)
 -   📖 Completed [Blue Flag](https://anilist.co/manga/98334) (09:18, 20 November 2021)
 -   📖 Read chapter 52 - 54 of [Blue Flag](https://anilist.co/manga/98334) (07:45, 20 November 2021)
--   📖 Read chapter 80 - 92 of [One-Punch Man](https://anilist.co/manga/74347) (03:54, 20 November 2021)
--   📖 Read chapter 74 - 79 of [One-Punch Man](https://anilist.co/manga/74347) (18:45, 19 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
