@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 924 - 925 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (16:11, 20 November 2021)
+-   📖 Read chapter 49 - 53 of [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (16:10, 20 November 2021)
+-   📖 Read chapter 1 - 2 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (15:57, 20 November 2021)
+-   📖 Read chapter 1 of [Until Your Bones Rot](https://anilist.co/manga/97713) (15:27, 20 November 2021)
 -   📖 Read chapter 1 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (13:06, 20 November 2021)
--   📖 Read chapter 1 - 9 of [Tomodachi Toshite Daisuki](https://anilist.co/manga/115357) (12:52, 20 November 2021)
--   📖 Read chapter 64 of [My Dress-Up Darling](https://anilist.co/manga/101583) (11:20, 20 November 2021)
--   📖 Read chapter 229 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (10:46, 20 November 2021)
--   📖 Completed [Blue Flag](https://anilist.co/manga/98334) (09:18, 20 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
