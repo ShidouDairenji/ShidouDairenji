@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Sun-Ken Rock](https://anilist.co/manga/38848) (16:24, 20 November 2021)
 -   📖 Read chapter 924 - 925 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (16:11, 20 November 2021)
 -   📖 Read chapter 49 - 53 of [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (16:10, 20 November 2021)
 -   📖 Read chapter 1 - 2 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (15:57, 20 November 2021)
 -   📖 Read chapter 1 of [Until Your Bones Rot](https://anilist.co/manga/97713) (15:27, 20 November 2021)
--   📖 Read chapter 1 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (13:06, 20 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
