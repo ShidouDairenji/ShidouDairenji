@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 6 of [Until Your Bones Rot](https://anilist.co/manga/97713) (19:08, 20 November 2021)
+-   📖 Completed [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (20:02, 20 November 2021)
+-   📖 Read chapter 926 - 953 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (19:58, 20 November 2021)
+-   📖 Read chapter 2 - 39 of [Until Your Bones Rot](https://anilist.co/manga/97713) (19:47, 20 November 2021)
 -   📖 Read chapter 1 - 2 of [Sun-Ken Rock](https://anilist.co/manga/38848) (16:24, 20 November 2021)
 -   📖 Read chapter 924 - 925 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (16:11, 20 November 2021)
--   📖 Read chapter 49 - 53 of [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (16:10, 20 November 2021)
--   📖 Read chapter 1 - 2 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (15:57, 20 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
