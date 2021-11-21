@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (10:47, 21 November 2021)
+-   📖 Read chapter 2 - 5 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (12:00, 21 November 2021)
 -   📖 Completed [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (20:02, 20 November 2021)
 -   📖 Read chapter 926 - 953 of [Tomo-chan is a Girl!](https://anilist.co/manga/86300) (19:58, 20 November 2021)
 -   📖 Read chapter 2 - 39 of [Until Your Bones Rot](https://anilist.co/manga/97713) (19:47, 20 November 2021)
