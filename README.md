@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 98 of [One-Punch Man](https://anilist.co/manga/74347) (00:44, 22 November 2021)
 -   📖 Read chapter 1 - 3 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (18:13, 21 November 2021)
 -   📖 Read chapter 93 - 95 of [One-Punch Man](https://anilist.co/manga/74347) (16:30, 21 November 2021)
 -   📖 Read chapter 40 - 41 of [Until Your Bones Rot](https://anilist.co/manga/97713) (15:56, 21 November 2021)
 -   📖 Read chapter 73 - 75 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (13:48, 21 November 2021)
--   📖 Read chapter 57 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (13:17, 21 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
