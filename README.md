@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 310 - 312 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (17:02, 22 November 2021)
+-   📖 Read chapter 310 - 319 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (17:47, 22 November 2021)
 -   📖 Read chapter 13 - 15 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (15:04, 22 November 2021)
 -   📖 Read chapter 1 - 4 of [【Oshi no Ko】](https://anilist.co/manga/117195) (13:28, 22 November 2021)
 -   📖 Read chapter 99 - 109 of [One-Punch Man](https://anilist.co/manga/74347) (13:11, 22 November 2021)
