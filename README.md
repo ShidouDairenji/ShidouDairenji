@@ -69,9 +69,9 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 4 of [【Oshi no Ko】](https://anilist.co/manga/117195) (13:28, 22 November 2021)
 -   📖 Read chapter 99 - 109 of [One-Punch Man](https://anilist.co/manga/74347) (13:11, 22 November 2021)
 -   📖 Read chapter 12 of [No Matter What You Say, Furi-san is Scary!](https://anilist.co/manga/106660) (12:44, 22 November 2021)
--   📖 Read chapter 1 - 2 of [【Oshi no Ko】](https://anilist.co/manga/117195) (12:31, 22 November 2021)
 -   📖 Read chapter 6 - 12 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (12:21, 22 November 2021)
 -   📖 Read chapter 3 - 4 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (11:14, 22 November 2021)
 
