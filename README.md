@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 99 - 103 of [One-Punch Man](https://anilist.co/manga/74347) (11:07, 22 November 2021)
+-   📖 Read chapter 6 - 10 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (12:17, 22 November 2021)
+-   📖 Read chapter 3 - 4 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (11:14, 22 November 2021)
+-   📖 Read chapter 99 - 104 of [One-Punch Man](https://anilist.co/manga/74347) (11:11, 22 November 2021)
 -   📖 Read chapter 98 of [One-Punch Man](https://anilist.co/manga/74347) (00:44, 22 November 2021)
 -   📖 Read chapter 1 - 3 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (18:13, 21 November 2021)
--   📖 Read chapter 93 - 95 of [One-Punch Man](https://anilist.co/manga/74347) (16:30, 21 November 2021)
--   📖 Read chapter 40 - 41 of [Until Your Bones Rot](https://anilist.co/manga/97713) (15:56, 21 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
