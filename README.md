@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 47 - 51 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (14:09, 23 November 2021)
+-   📖 Read chapter 47 - 59 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (14:29, 23 November 2021)
 -   📖 Read chapter 110 - 112 of [One-Punch Man](https://anilist.co/manga/74347) (13:40, 23 November 2021)
 -   📖 Read chapter 310 - 319 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (17:47, 22 November 2021)
 -   📖 Read chapter 13 - 15 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (15:04, 22 November 2021)
