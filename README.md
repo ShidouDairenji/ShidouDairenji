@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 60 - 64 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (09:09, 24 November 2021)
+-   📖 Read chapter 60 - 67 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (09:17, 24 November 2021)
 -   📖 Read chapter 60 - 62 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (09:04, 24 November 2021)
 -   📖 Read chapter 320 - 322 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (08:58, 24 November 2021)
 -   📖 Read chapter 56 of [SPY x FAMILY](https://anilist.co/manga/108556) (08:52, 24 November 2021)
