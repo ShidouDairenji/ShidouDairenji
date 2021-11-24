@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 47 - 59 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (14:29, 23 November 2021)
--   📖 Read chapter 110 - 112 of [One-Punch Man](https://anilist.co/manga/74347) (13:40, 23 November 2021)
--   📖 Read chapter 310 - 319 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (17:47, 22 November 2021)
--   📖 Read chapter 13 - 15 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (15:04, 22 November 2021)
--   📖 Read chapter 1 - 4 of [【Oshi no Ko】](https://anilist.co/manga/117195) (13:28, 22 November 2021)
+-   📖 Read chapter 60 - 64 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (09:09, 24 November 2021)
+-   📖 Read chapter 60 - 62 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (09:04, 24 November 2021)
+-   📖 Read chapter 320 - 322 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (08:58, 24 November 2021)
+-   📖 Read chapter 56 of [SPY x FAMILY](https://anilist.co/manga/108556) (08:52, 24 November 2021)
+-   📖 Read chapter 19 - 26 of [Yokai Girls](https://anilist.co/manga/85369) (08:50, 24 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
