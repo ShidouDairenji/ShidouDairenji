@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 42 - 52 of [Until Your Bones Rot](https://anilist.co/manga/97713) (13:33, 25 November 2021)
+-   📖 Read chapter 42 - 64 of [Until Your Bones Rot](https://anilist.co/manga/97713) (14:53, 25 November 2021)
 -   📖 Read chapter 131 - 149 of [One-Punch Man](https://anilist.co/manga/74347) (13:12, 25 November 2021)
 -   📖 Read chapter 13 of [Mawangi Doeneun Jung 2-ya](https://anilist.co/manga/109861) (12:26, 25 November 2021)
 -   📖 Completed [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (11:59, 25 November 2021)
