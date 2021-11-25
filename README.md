@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 32 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (18:08, 24 November 2021)
--   📖 Read chapter 1 of [The Horizon](https://anilist.co/manga/100568) (13:07, 24 November 2021)
--   📖 Read chapter 129 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (12:59, 24 November 2021)
--   📖 Read chapter 44 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (12:54, 24 November 2021)
--   📖 Read chapter 77 - 79 of [The Way of the Househusband](https://anilist.co/manga/101233) (12:51, 24 November 2021)
+-   📖 Completed [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (11:59, 25 November 2021)
+-   📖 Read chapter 76 - 77 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (11:59, 25 November 2021)
+-   📖 Read chapter 18 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (11:34, 25 November 2021)
+-   📖 Read chapter 38 of [Megami no Café Terrace](https://anilist.co/manga/129694) (11:21, 25 November 2021)
+-   📖 Read chapter 75 of [Shounen no Abyss](https://anilist.co/manga/116186) (11:19, 25 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
