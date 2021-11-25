@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 131 - 149 of [One-Punch Man](https://anilist.co/manga/74347) (13:12, 25 November 2021)
+-   📖 Read chapter 13 of [Mawangi Doeneun Jung 2-ya](https://anilist.co/manga/109861) (12:26, 25 November 2021)
 -   📖 Completed [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (11:59, 25 November 2021)
 -   📖 Read chapter 76 - 77 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (11:59, 25 November 2021)
 -   📖 Read chapter 18 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (11:34, 25 November 2021)
--   📖 Read chapter 38 of [Megami no Café Terrace](https://anilist.co/manga/129694) (11:21, 25 November 2021)
--   📖 Read chapter 75 of [Shounen no Abyss](https://anilist.co/manga/116186) (11:19, 25 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
