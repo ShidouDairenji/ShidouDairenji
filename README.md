@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 33 - 34 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (16:03, 26 November 2021)
+-   📖 Read chapter 33 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (16:02, 26 November 2021)
 -   📖 Read chapter 23 - 28 of [When Will Ayumu Make His Move?](https://anilist.co/manga/108105) (13:07, 26 November 2021)
 -   📖 Read chapter 5 of [【Oshi no Ko】](https://anilist.co/manga/117195) (12:27, 26 November 2021)
 -   📖 Read chapter 3 of [Sun-Ken Rock](https://anilist.co/manga/38848) (12:24, 26 November 2021)
--   📖 Read chapter 67 - 69 of [Ayakashi Triangle](https://anilist.co/manga/119493) (12:20, 26 November 2021)
--   📖 Completed [Until Your Bones Rot](https://anilist.co/manga/97713) (10:38, 26 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
