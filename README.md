@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 5 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (18:06, 27 November 2021)
+-   📖 Completed [Tomodachi Toshite Daisuki](https://anilist.co/manga/115357) (18:04, 27 November 2021)
+-   📖 Read chapter 14 - 15 of [Tomodachi Toshite Daisuki](https://anilist.co/manga/115357) (18:00, 27 November 2021)
 -   📖 Read chapter 151 of [One-Punch Man](https://anilist.co/manga/74347) (16:37, 27 November 2021)
 -   📖 Read chapter 230 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (16:29, 27 November 2021)
--   📖 Read chapter 61 of [Juujika no Rokunin](https://anilist.co/manga/116671) (16:26, 27 November 2021)
--   📖 Read chapter 33 - 34 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (16:03, 26 November 2021)
--   📖 Read chapter 33 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (16:02, 26 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
