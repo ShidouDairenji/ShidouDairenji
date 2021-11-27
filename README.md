@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 151 of [One-Punch Man](https://anilist.co/manga/74347) (16:37, 27 November 2021)
+-   📖 Read chapter 230 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (16:29, 27 November 2021)
+-   📖 Read chapter 61 of [Juujika no Rokunin](https://anilist.co/manga/116671) (16:26, 27 November 2021)
 -   📖 Read chapter 33 - 34 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (16:03, 26 November 2021)
 -   📖 Read chapter 33 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (16:02, 26 November 2021)
--   📖 Read chapter 23 - 28 of [When Will Ayumu Make His Move?](https://anilist.co/manga/108105) (13:07, 26 November 2021)
--   📖 Read chapter 5 of [【Oshi no Ko】](https://anilist.co/manga/117195) (12:27, 26 November 2021)
--   📖 Read chapter 3 of [Sun-Ken Rock](https://anilist.co/manga/38848) (12:24, 26 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
