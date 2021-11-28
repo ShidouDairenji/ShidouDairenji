@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 324 - 330 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:11, 28 November 2021)
+-   📖 Read chapter 27 of [Yokai Girls](https://anilist.co/manga/85369) (11:06, 28 November 2021)
+-   📖 Read chapter 324 - 332 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:14, 28 November 2021)
 -   📖 Read chapter 4 - 5 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (18:06, 27 November 2021)
 -   📖 Completed [Tomodachi Toshite Daisuki](https://anilist.co/manga/115357) (18:04, 27 November 2021)
 -   📖 Read chapter 14 - 15 of [Tomodachi Toshite Daisuki](https://anilist.co/manga/115357) (18:00, 27 November 2021)
--   📖 Read chapter 151 of [One-Punch Man](https://anilist.co/manga/74347) (16:37, 27 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
