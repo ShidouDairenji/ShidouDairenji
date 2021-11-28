@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 333 - 335 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (18:10, 28 November 2021)
+-   📖 Read chapter 1 of [My Hero Academia](https://anilist.co/manga/85486) (19:06, 28 November 2021)
+-   📖 Read chapter 333 - 342 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (18:21, 28 November 2021)
 -   📖 Read chapter 2 - 3 of [The Horizon](https://anilist.co/manga/100568) (17:48, 28 November 2021)
 -   📖 Read chapter 58 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (16:52, 28 November 2021)
 -   📖 Read chapter 21 - 22 of [The Promised Neverland](https://anilist.co/manga/87423) (16:29, 28 November 2021)
--   📖 Read chapter 27 - 100 of [Yokai Girls](https://anilist.co/manga/85369) (16:22, 28 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
