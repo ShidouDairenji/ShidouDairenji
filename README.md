@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 27 of [Yokai Girls](https://anilist.co/manga/85369) (11:06, 28 November 2021)
+-   📖 Read chapter 27 - 53 of [Yokai Girls](https://anilist.co/manga/85369) (12:09, 28 November 2021)
 -   📖 Read chapter 324 - 332 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:14, 28 November 2021)
 -   📖 Read chapter 4 - 5 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (18:06, 27 November 2021)
 -   📖 Completed [Tomodachi Toshite Daisuki](https://anilist.co/manga/115357) (18:04, 27 November 2021)
