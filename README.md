@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 5 of [The Horizon](https://anilist.co/manga/100568) (12:16, 29 November 2021)
+-   📖 Read chapter 4 - 16 of [The Horizon](https://anilist.co/manga/100568) (12:33, 29 November 2021)
 -   📖 Read chapter 325 - 326 of [Komi Can't Communicate](https://anilist.co/manga/97852) (19:13, 28 November 2021)
 -   📖 Read chapter 1 of [My Hero Academia](https://anilist.co/manga/85486) (19:06, 28 November 2021)
 -   📖 Read chapter 333 - 342 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (18:21, 28 November 2021)
