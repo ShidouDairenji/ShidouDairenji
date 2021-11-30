@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 327 of [Komi Can't Communicate](https://anilist.co/manga/97852) (10:09, 30 November 2021)
+-   📖 Read chapter 23 - 24 of [The Promised Neverland](https://anilist.co/manga/87423) (10:07, 30 November 2021)
+-   📖 Read chapter 34 of [The Eminence in Shadow](https://anilist.co/manga/106758) (09:59, 30 November 2021)
+-   📖 Read chapter 349 - 359 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (09:48, 30 November 2021)
 -   📖 Read chapter 343 - 348 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (13:31, 29 November 2021)
--   📖 Read chapter 4 - 16 of [The Horizon](https://anilist.co/manga/100568) (12:33, 29 November 2021)
--   📖 Read chapter 325 - 326 of [Komi Can't Communicate](https://anilist.co/manga/97852) (19:13, 28 November 2021)
--   📖 Read chapter 1 of [My Hero Academia](https://anilist.co/manga/85486) (19:06, 28 November 2021)
--   📖 Read chapter 333 - 342 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (18:21, 28 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
