@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 364 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (00:45, 01 December 2021)
 -   📖 Read chapter 349 - 363 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:56, 30 November 2021)
 -   📖 Read chapter 327 - 329 of [Komi Can't Communicate](https://anilist.co/manga/97852) (10:12, 30 November 2021)
 -   📖 Read chapter 23 - 24 of [The Promised Neverland](https://anilist.co/manga/87423) (10:07, 30 November 2021)
 -   📖 Read chapter 34 of [The Eminence in Shadow](https://anilist.co/manga/106758) (09:59, 30 November 2021)
--   📖 Read chapter 343 - 348 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (13:31, 29 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
