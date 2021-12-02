@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 45 - 56 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (00:02, 02 December 2021)
 -   📖 Read chapter 65 of [Koi Shita no de Haishin Shite Mita](https://anilist.co/manga/112342) (17:50, 01 December 2021)
 -   📖 Read chapter 31 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (17:48, 01 December 2021)
 -   📖 Read chapter 364 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (00:45, 01 December 2021)
 -   📖 Read chapter 349 - 363 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (10:56, 30 November 2021)
--   📖 Read chapter 327 - 329 of [Komi Can't Communicate](https://anilist.co/manga/97852) (10:12, 30 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
