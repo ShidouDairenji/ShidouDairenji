@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 74 - 97 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (16:52, 03 December 2021)
+-   📖 Read chapter 74 - 101 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (18:05, 03 December 2021)
 -   📖 Read chapter 57 - 73 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (13:34, 03 December 2021)
 -   📖 Read chapter 60 - 63 of [【Oshi no Ko】](https://anilist.co/manga/117195) (11:53, 03 December 2021)
 -   📖 Read chapter 39 - 46 of [【Oshi no Ko】](https://anilist.co/manga/117195) (08:05, 03 December 2021)
