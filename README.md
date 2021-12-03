@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 19 - 27 of [【Oshi no Ko】](https://anilist.co/manga/117195) (03:03, 03 December 2021)
+-   📖 Read chapter 19 - 35 of [【Oshi no Ko】](https://anilist.co/manga/117195) (05:09, 03 December 2021)
 -   📖 Plans to read [Dreamcide](https://anilist.co/manga/120475) (10:36, 02 December 2021)
 -   📖 Read chapter 6 - 18 of [【Oshi no Ko】](https://anilist.co/manga/117195) (09:55, 02 December 2021)
 -   📖 Read chapter 45 - 56 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (00:02, 02 December 2021)
