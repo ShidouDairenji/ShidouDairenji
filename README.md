@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 74 - 101 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (18:05, 03 December 2021)
--   📖 Read chapter 57 - 73 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (13:34, 03 December 2021)
--   📖 Read chapter 60 - 63 of [【Oshi no Ko】](https://anilist.co/manga/117195) (11:53, 03 December 2021)
--   📖 Read chapter 39 - 46 of [【Oshi no Ko】](https://anilist.co/manga/117195) (08:05, 03 December 2021)
--   📖 Read chapter 16 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (07:56, 03 December 2021)
+-   📖 Read chapter 76 of [Shounen no Abyss](https://anilist.co/manga/116186) (03:06, 04 December 2021)
+-   📖 Read chapter 231 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (03:03, 04 December 2021)
+-   📖 Read chapter 73 - 74 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (02:58, 04 December 2021)
+-   📖 Read chapter 62 of [Juujika no Rokunin](https://anilist.co/manga/116671) (02:56, 04 December 2021)
+-   📖 Read chapter 1 of [Ballad x Opera](https://anilist.co/manga/100040) (02:47, 04 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
