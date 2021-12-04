@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 of [Sun-Ken Rock](https://anilist.co/manga/38848) (05:54, 04 December 2021)
 -   📖 Read chapter 5 - 6 of [To Save the World, Can You Wake Up the Morning After with a Demi-Human?](https://anilist.co/manga/110012) (04:05, 04 December 2021)
 -   📖 Read chapter 76 of [Shounen no Abyss](https://anilist.co/manga/116186) (03:06, 04 December 2021)
 -   📖 Read chapter 231 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (03:03, 04 December 2021)
 -   📖 Read chapter 73 - 74 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (02:58, 04 December 2021)
--   📖 Read chapter 62 of [Juujika no Rokunin](https://anilist.co/manga/116671) (02:56, 04 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
