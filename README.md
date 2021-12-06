@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 33 - 38 of [Namae no Nai Kaibutsu: Kumo to Shoujo to Ryouki Satsujin](https://anilist.co/manga/111073) (00:38, 06 December 2021)
 -   📖 Read chapter 54 - 56 of [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (18:26, 05 December 2021)
 -   📖 Read chapter 64 of [【Oshi no Ko】](https://anilist.co/manga/117195) (18:14, 05 December 2021)
 -   📖 Read chapter 1 - 32 of [Namae no Nai Kaibutsu: Kumo to Shoujo to Ryouki Satsujin](https://anilist.co/manga/111073) (15:57, 05 December 2021)
 -   📖 Read chapter 2 - 5 of [Ballad x Opera](https://anilist.co/manga/100040) (14:05, 05 December 2021)
--   📖 Read chapter 373 - 388 of [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (09:39, 05 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
