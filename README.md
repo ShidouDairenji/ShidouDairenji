@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 - 17 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (16:00, 06 December 2021)
 -   📖 Read chapter 1 of [Mr. Mallow Blue](https://anilist.co/manga/121951) (06:52, 06 December 2021)
 -   📖 Read chapter 40 of [Namae no Nai Kaibutsu: Kumo to Shoujo to Ryouki Satsujin](https://anilist.co/manga/111073) (06:47, 06 December 2021)
 -   📖 Completed [The Horizon](https://anilist.co/manga/100568) (03:00, 06 December 2021)
 -   📖 Completed [DICE: The Cube that Changes Everything](https://anilist.co/manga/85208) (02:49, 06 December 2021)
--   📖 Read chapter 33 - 39 of [Namae no Nai Kaibutsu: Kumo to Shoujo to Ryouki Satsujin](https://anilist.co/manga/111073) (00:43, 06 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
