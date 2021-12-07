@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Koi to Utatane](https://anilist.co/manga/99625) (18:58, 07 December 2021)
 -   📖 Read chapter 101 - 105 of [Yokai Girls](https://anilist.co/manga/85369) (13:51, 07 December 2021)
 -   📖 Read chapter 61 - 76 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (13:44, 07 December 2021)
 -   📖 Read chapter 41 - 44 of [We're New at This](https://anilist.co/manga/104864) (12:56, 07 December 2021)
 -   📖 Read chapter 9 - 17 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (16:00, 06 December 2021)
--   📖 Read chapter 1 of [Mr. Mallow Blue](https://anilist.co/manga/121951) (06:52, 06 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
