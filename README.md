@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 97 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (16:14, 08 December 2021)
+-   📖 Read chapter 97 - 105 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (16:36, 08 December 2021)
 -   📖 Reread chapter 5 - 12 of [Chainsaw Man](https://anilist.co/manga/105778) (10:58, 08 December 2021)
 -   📖 Read chapter 5 - 7 of [Sun-Ken Rock](https://anilist.co/manga/38848) (10:20, 08 December 2021)
 -   📖 Read chapter 102 - 106 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (10:12, 08 December 2021)
