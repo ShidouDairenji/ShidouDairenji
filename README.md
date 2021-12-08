@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 77 - 80 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (07:54, 08 December 2021)
+-   📖 Read chapter 2 - 3 of [Koi to Utatane](https://anilist.co/manga/99625) (09:04, 08 December 2021)
+-   📖 Read chapter 77 - 96 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (09:02, 08 December 2021)
 -   📖 Reread chapter 1 - 4 of [Chainsaw Man](https://anilist.co/manga/105778) (05:24, 08 December 2021)
 -   📖 Read chapter 1 of [Koi to Utatane](https://anilist.co/manga/99625) (18:58, 07 December 2021)
 -   📖 Read chapter 101 - 105 of [Yokai Girls](https://anilist.co/manga/85369) (13:51, 07 December 2021)
--   📖 Read chapter 61 - 76 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (13:44, 07 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
