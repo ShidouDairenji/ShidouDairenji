@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 97 - 105 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (16:36, 08 December 2021)
--   📖 Reread chapter 5 - 12 of [Chainsaw Man](https://anilist.co/manga/105778) (10:58, 08 December 2021)
--   📖 Read chapter 5 - 7 of [Sun-Ken Rock](https://anilist.co/manga/38848) (10:20, 08 December 2021)
--   📖 Read chapter 102 - 106 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (10:12, 08 December 2021)
--   📖 Read chapter 2 - 3 of [Koi to Utatane](https://anilist.co/manga/99625) (09:04, 08 December 2021)
+-   📖 Read chapter 59 of [Eromanga Sensei](https://anilist.co/manga/85471) (18:12, 08 December 2021)
+-   📖 Read chapter 8 - 10 of [Sun-Ken Rock](https://anilist.co/manga/38848) (18:11, 08 December 2021)
+-   📖 Reread chapter 13 - 21 of [Chainsaw Man](https://anilist.co/manga/105778) (17:57, 08 December 2021)
+-   📖 Read chapter 1 - 3 of [The Legendary Hero Is Dead!](https://anilist.co/manga/85952) (17:29, 08 December 2021)
+-   📖 Read chapter 11 of [Yugami-kun ni wa Tomodachi ga Inai](https://anilist.co/manga/85413) (17:23, 08 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
