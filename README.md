@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 6 of [Koi to Utatane](https://anilist.co/manga/99625) (07:11, 09 December 2021)
 -   📖 Reread chapter 32 - 40 of [Chainsaw Man](https://anilist.co/manga/105778) (05:13, 09 December 2021)
 -   📖 Reread chapter 22 - 31 of [Chainsaw Man](https://anilist.co/manga/105778) (00:59, 09 December 2021)
 -   📖 Read chapter 70 - 75 of [Call of the Night](https://anilist.co/manga/111233) (00:41, 09 December 2021)
 -   📖 Read chapter 1 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (18:30, 08 December 2021)
--   📖 Read chapter 330 - 331 of [Komi Can't Communicate](https://anilist.co/manga/97852) (18:19, 08 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
