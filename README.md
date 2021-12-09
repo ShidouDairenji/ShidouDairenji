@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 122 - 127 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (15:45, 09 December 2021)
 -   📖 Read chapter 110 - 121 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (09:55, 09 December 2021)
 -   📖 Read chapter 106 - 109 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (07:33, 09 December 2021)
 -   📖 Read chapter 4 - 8 of [Koi to Utatane](https://anilist.co/manga/99625) (07:13, 09 December 2021)
 -   📖 Reread chapter 32 - 40 of [Chainsaw Man](https://anilist.co/manga/105778) (05:13, 09 December 2021)
--   📖 Reread chapter 22 - 31 of [Chainsaw Man](https://anilist.co/manga/105778) (00:59, 09 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
