@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 11 of [Sun-Ken Rock](https://anilist.co/manga/38848) (17:14, 09 December 2021)
+-   📖 Read chapter 12 of [Yugami-kun ni wa Tomodachi ga Inai](https://anilist.co/manga/85413) (17:08, 09 December 2021)
+-   📖 Reread chapter 41 - 42 of [Chainsaw Man](https://anilist.co/manga/105778) (17:06, 09 December 2021)
 -   📖 Read chapter 122 - 127 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (15:45, 09 December 2021)
 -   📖 Read chapter 110 - 121 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (09:55, 09 December 2021)
--   📖 Read chapter 106 - 109 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (07:33, 09 December 2021)
--   📖 Read chapter 4 - 8 of [Koi to Utatane](https://anilist.co/manga/99625) (07:13, 09 December 2021)
--   📖 Reread chapter 32 - 40 of [Chainsaw Man](https://anilist.co/manga/105778) (05:13, 09 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
