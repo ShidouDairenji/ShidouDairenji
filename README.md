@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Reread chapter 32 - 39 of [Chainsaw Man](https://anilist.co/manga/105778) (05:09, 09 December 2021)
+-   📖 Reread chapter 32 - 40 of [Chainsaw Man](https://anilist.co/manga/105778) (05:13, 09 December 2021)
 -   📖 Reread chapter 22 - 31 of [Chainsaw Man](https://anilist.co/manga/105778) (00:59, 09 December 2021)
 -   📖 Read chapter 70 - 75 of [Call of the Night](https://anilist.co/manga/111233) (00:41, 09 December 2021)
 -   📖 Read chapter 1 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (18:30, 08 December 2021)
