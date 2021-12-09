@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 70 - 73 of [Call of the Night](https://anilist.co/manga/111233) (00:37, 09 December 2021)
 -   📖 Read chapter 1 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (18:30, 08 December 2021)
 -   📖 Read chapter 330 - 331 of [Komi Can't Communicate](https://anilist.co/manga/97852) (18:19, 08 December 2021)
 -   📖 Read chapter 59 of [Eromanga Sensei](https://anilist.co/manga/85471) (18:12, 08 December 2021)
 -   📖 Read chapter 8 - 10 of [Sun-Ken Rock](https://anilist.co/manga/38848) (18:11, 08 December 2021)
--   📖 Reread chapter 13 - 21 of [Chainsaw Man](https://anilist.co/manga/105778) (17:57, 08 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
