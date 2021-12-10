@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Reread chapter 50 of [Chainsaw Man](https://anilist.co/manga/105778) (00:38, 10 December 2021)
 -   📖 Reread chapter 41 - 49 of [Chainsaw Man](https://anilist.co/manga/105778) (17:59, 09 December 2021)
 -   📖 Read chapter 11 - 17 of [Sun-Ken Rock](https://anilist.co/manga/38848) (17:44, 09 December 2021)
 -   📖 Read chapter 70 - 71 of [Ayakashi Triangle](https://anilist.co/manga/119493) (17:29, 09 December 2021)
 -   📖 Read chapter 12 of [Yugami-kun ni wa Tomodachi ga Inai](https://anilist.co/manga/85413) (17:08, 09 December 2021)
--   📖 Read chapter 122 - 127 of [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (15:45, 09 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
