@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Reread chapter 61 - 67 of [Chainsaw Man](https://anilist.co/manga/105778) (05:10, 10 December 2021)
+-   📖 Reread chapter 61 - 71 of [Chainsaw Man](https://anilist.co/manga/105778) (05:19, 10 December 2021)
 -   📖 Read chapter 18 - 22 of [Sun-Ken Rock](https://anilist.co/manga/38848) (01:19, 10 December 2021)
 -   📖 Reread chapter 50 - 60 of [Chainsaw Man](https://anilist.co/manga/105778) (00:59, 10 December 2021)
 -   📖 Reread chapter 41 - 49 of [Chainsaw Man](https://anilist.co/manga/105778) (17:59, 09 December 2021)
