@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Reread chapter 61 - 71 of [Chainsaw Man](https://anilist.co/manga/105778) (05:19, 10 December 2021)
+-   📖 Reread chapter 61 - 77 of [Chainsaw Man](https://anilist.co/manga/105778) (07:10, 10 December 2021)
+-   📖 Plans to read [The Great Cleric](https://anilist.co/manga/110380) (06:56, 10 December 2021)
+-   📖 Completed [Hell’s Paradise: Jigokuraku](https://anilist.co/manga/100994) (06:53, 10 December 2021)
 -   📖 Read chapter 18 - 22 of [Sun-Ken Rock](https://anilist.co/manga/38848) (01:19, 10 December 2021)
 -   📖 Reread chapter 50 - 60 of [Chainsaw Man](https://anilist.co/manga/105778) (00:59, 10 December 2021)
--   📖 Reread chapter 41 - 49 of [Chainsaw Man](https://anilist.co/manga/105778) (17:59, 09 December 2021)
--   📖 Read chapter 11 - 17 of [Sun-Ken Rock](https://anilist.co/manga/38848) (17:44, 09 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
