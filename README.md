@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Reread chapter 1 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (11:09, 11 December 2021)
 -   📖 Reread chapter 84 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (10:03, 11 December 2021)
 -   📖 Read chapter 80 - 81 of [The Way of the Househusband](https://anilist.co/manga/101233) (09:18, 11 December 2021)
 -   📖 Read chapter 39 of [Megami no Café Terrace](https://anilist.co/manga/129694) (13:12, 10 December 2021)
 -   📖 Read chapter 1 - 21 of [Don't Blush, Sekime-san!](https://anilist.co/manga/127778) (10:29, 10 December 2021)
--   📖 Reread chapter 61 - 83 of [Chainsaw Man](https://anilist.co/manga/105778) (07:18, 10 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
