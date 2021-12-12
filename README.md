@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Reread chapter 26 - 75 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (10:01, 12 December 2021)
+-   📖 Completed [Yokai Girls](https://anilist.co/manga/85369) (10:57, 12 December 2021)
+-   📖 Reread chapter 26 - 77 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (10:19, 12 December 2021)
 -   📖 Read chapter 22 - 27 of [Don't Blush, Sekime-san!](https://anilist.co/manga/127778) (02:33, 12 December 2021)
 -   📖 Reread chapter 19 - 25 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (16:39, 11 December 2021)
 -   📖 Reread chapter 1 - 18 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (13:23, 11 December 2021)
--   📖 Reread chapter 84 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (10:03, 11 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
