@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Reread chapter 91 - 94 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (18:42, 12 December 2021)
+-   📖 Read chapter 72 of [Ayakashi Triangle](https://anilist.co/manga/119493) (18:28, 12 December 2021)
 -   📖 Read chapter 57 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:08, 12 December 2021)
 -   📖 Read chapter 107 of [Houkago no Goumon Shoujo](https://anilist.co/manga/104263) (18:04, 12 December 2021)
 -   📖 Read chapter 65 of [【Oshi no Ko】](https://anilist.co/manga/117195) (18:02, 12 December 2021)
--   📖 Read chapter 77 of [Shounen no Abyss](https://anilist.co/manga/116186) (18:00, 12 December 2021)
--   📖 Read chapter 232 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (17:56, 12 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
