@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Reread chapter 106 - 109 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (09:11, 13 December 2021)
+-   📖 Reread chapter 106 - 110 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (09:19, 13 December 2021)
 -   📖 Read chapter 1 of [Miyamoto-san Maji de Yamete Kudasai](https://anilist.co/manga/94161) (08:41, 13 December 2021)
 -   📖 Reread chapter 100 - 105 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (06:45, 13 December 2021)
 -   📖 Reread chapter 95 - 99 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (04:02, 13 December 2021)
