@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Reread chapter 106 - 109 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (09:11, 13 December 2021)
+-   📖 Read chapter 1 of [Miyamoto-san Maji de Yamete Kudasai](https://anilist.co/manga/94161) (08:41, 13 December 2021)
 -   📖 Reread chapter 100 - 105 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (06:45, 13 December 2021)
 -   📖 Reread chapter 95 - 99 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (04:02, 13 December 2021)
 -   📖 Reread chapter 91 - 94 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (18:42, 12 December 2021)
--   📖 Read chapter 72 of [Ayakashi Triangle](https://anilist.co/manga/119493) (18:28, 12 December 2021)
--   📖 Read chapter 57 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:08, 12 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
