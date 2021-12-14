@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 24 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (14:03, 14 December 2021)
+-   📖 Read chapter 3 - 38 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (14:31, 14 December 2021)
 -   📖 Read chapter 2 - 3 of [Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga](https://anilist.co/manga/100843) (13:58, 14 December 2021)
 -   📖 Read chapter 1 - 2 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (10:45, 14 December 2021)
 -   📖 Read chapter 1 of [Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga](https://anilist.co/manga/100843) (10:28, 14 December 2021)
