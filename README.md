@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (10:45, 14 December 2021)
+-   📖 Read chapter 1 of [Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga](https://anilist.co/manga/100843) (10:28, 14 December 2021)
 -   📖 Read chapter 23 - 25 of [Sun-Ken Rock](https://anilist.co/manga/38848) (10:09, 14 December 2021)
 -   📖 Reread chapter 113 - 126 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (09:59, 14 December 2021)
 -   📖 Reread chapter 111 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (12:19, 13 December 2021)
--   📖 Reread chapter 106 - 110 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (09:19, 13 December 2021)
--   📖 Read chapter 1 of [Miyamoto-san Maji de Yamete Kudasai](https://anilist.co/manga/94161) (08:41, 13 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
