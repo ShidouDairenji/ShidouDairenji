@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 - 46 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (23:10, 14 December 2021)
+-   📖 Read chapter 1 - 14 of [Mizuki-senpai’s Love Fortune-Telling](https://anilist.co/manga/121241) (23:00, 14 December 2021)
 -   📖 Read chapter 4 - 17 of [Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga](https://anilist.co/manga/100843) (18:27, 14 December 2021)
 -   📖 Read chapter 39 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (18:18, 14 December 2021)
 -   📖 Read chapter 63 of [Juujika no Rokunin](https://anilist.co/manga/116671) (17:20, 14 December 2021)
--   📖 Read chapter 3 - 38 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (14:31, 14 December 2021)
--   📖 Read chapter 2 - 3 of [Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga](https://anilist.co/manga/100843) (13:58, 14 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
