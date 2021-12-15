@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 48 - 49 of [My Hero Academia](https://anilist.co/manga/85486) (15:11, 15 December 2021)
+-   📖 Read chapter 45 - 47 of [We're New at This](https://anilist.co/manga/104864) (15:25, 15 December 2021)
+-   📖 Read chapter 60 - 61 of [Eromanga Sensei](https://anilist.co/manga/85471) (15:17, 15 December 2021)
+-   📖 Read chapter 48 - 50 of [My Hero Academia](https://anilist.co/manga/85486) (15:14, 15 December 2021)
 -   📖 Read chapter 332 of [Komi Can't Communicate](https://anilist.co/manga/97852) (13:45, 15 December 2021)
 -   📖 Read chapter 76 - 79 of [Call of the Night](https://anilist.co/manga/111233) (13:19, 15 December 2021)
--   📖 Read chapter 65 of [My Dress-Up Darling](https://anilist.co/manga/101583) (13:10, 15 December 2021)
--   📖 Read chapter 24 - 30 of [Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga](https://anilist.co/manga/100843) (13:08, 15 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
