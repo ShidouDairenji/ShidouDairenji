@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 17 - 22 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (16:57, 15 December 2021)
+-   📖 Read chapter 42 - 44 of [When Will Ayumu Make His Move?](https://anilist.co/manga/108105) (16:40, 15 December 2021)
 -   📖 Read chapter 45 - 47 of [We're New at This](https://anilist.co/manga/104864) (15:25, 15 December 2021)
 -   📖 Read chapter 60 - 61 of [Eromanga Sensei](https://anilist.co/manga/85471) (15:17, 15 December 2021)
 -   📖 Read chapter 48 - 50 of [My Hero Academia](https://anilist.co/manga/85486) (15:14, 15 December 2021)
--   📖 Read chapter 332 of [Komi Can't Communicate](https://anilist.co/manga/97852) (13:45, 15 December 2021)
--   📖 Read chapter 76 - 79 of [Call of the Night](https://anilist.co/manga/111233) (13:19, 15 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
