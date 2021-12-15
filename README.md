@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 76 - 78 of [Call of the Night](https://anilist.co/manga/111233) (13:18, 15 December 2021)
+-   📖 Read chapter 65 of [My Dress-Up Darling](https://anilist.co/manga/101583) (13:10, 15 December 2021)
+-   📖 Read chapter 24 - 30 of [Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga](https://anilist.co/manga/100843) (13:08, 15 December 2021)
+-   📖 Read chapter 3 - 47 of [My Hero Academia](https://anilist.co/manga/85486) (12:59, 15 December 2021)
 -   📖 Read chapter 3 - 44 of [My Hero Academia](https://anilist.co/manga/85486) (11:05, 15 December 2021)
--   📖 Read chapter 3 - 44 of [My Hero Academia](https://anilist.co/manga/85486) (11:05, 15 December 2021)
--   📖 Read chapter 2 of [My Hero Academia](https://anilist.co/manga/85486) (03:21, 15 December 2021)
--   📖 Read chapter 18 - 23 of [Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga](https://anilist.co/manga/100843) (02:00, 15 December 2021)
--   📖 Read chapter 28 - 33 of [Don't Blush, Sekime-san!](https://anilist.co/manga/127778) (00:52, 15 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
