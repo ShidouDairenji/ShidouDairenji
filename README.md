@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 31 of [My Hero Academia](https://anilist.co/manga/85486) (10:12, 15 December 2021)
+-   📖 Read chapter 3 - 44 of [My Hero Academia](https://anilist.co/manga/85486) (11:05, 15 December 2021)
+-   📖 Read chapter 3 - 44 of [My Hero Academia](https://anilist.co/manga/85486) (11:05, 15 December 2021)
 -   📖 Read chapter 2 of [My Hero Academia](https://anilist.co/manga/85486) (03:21, 15 December 2021)
 -   📖 Read chapter 18 - 23 of [Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga](https://anilist.co/manga/100843) (02:00, 15 December 2021)
 -   📖 Read chapter 28 - 33 of [Don't Blush, Sekime-san!](https://anilist.co/manga/127778) (00:52, 15 December 2021)
--   📖 Read chapter 40 - 65 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (00:43, 15 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
