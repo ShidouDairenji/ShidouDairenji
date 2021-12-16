@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 23 - 32 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (11:08, 16 December 2021)
 -   📖 Read chapter 1 of [Shingeki no Eroko-san: Hen na Oneesan wa Danshikousei to Nakayoku Naritai](https://anilist.co/manga/116180) (09:53, 16 December 2021)
 -   📖 Read chapter 25 of [The Promised Neverland](https://anilist.co/manga/87423) (09:46, 16 December 2021)
 -   📖 Read chapter 17 - 22 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (16:57, 15 December 2021)
 -   📖 Read chapter 42 - 44 of [When Will Ayumu Make His Move?](https://anilist.co/manga/108105) (16:40, 15 December 2021)
--   📖 Read chapter 45 - 47 of [We're New at This](https://anilist.co/manga/104864) (15:25, 15 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
