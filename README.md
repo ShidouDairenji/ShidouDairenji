@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (16:31, 18 December 2021)
 -   📖 Read chapter 57 - 58 of [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (12:34, 18 December 2021)
 -   📖 Read chapter 78 of [Shounen no Abyss](https://anilist.co/manga/116186) (12:17, 18 December 2021)
 -   📖 Read chapter 8 of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e √Horikita](https://anilist.co/manga/101185) (08:35, 18 December 2021)
 -   📖 Read chapter 77 of [How NOT to Summon a Demon Lord](https://anilist.co/manga/86338) (08:08, 18 December 2021)
--   📖 Read chapter 66 - 67 of [My Hero Academia](https://anilist.co/manga/85486) (17:42, 17 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
