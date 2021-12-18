@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e √Horikita](https://anilist.co/manga/101185) (08:35, 18 December 2021)
 -   📖 Read chapter 77 of [How NOT to Summon a Demon Lord](https://anilist.co/manga/86338) (08:08, 18 December 2021)
 -   📖 Read chapter 66 - 67 of [My Hero Academia](https://anilist.co/manga/85486) (17:42, 17 December 2021)
 -   📖 Read chapter 74 - 76 of [How NOT to Summon a Demon Lord](https://anilist.co/manga/86338) (17:32, 17 December 2021)
 -   📖 Read chapter 61 - 65 of [My Hero Academia](https://anilist.co/manga/85486) (14:23, 17 December 2021)
--   📺 Plans to watch [Joker Game](https://anilist.co/anime/21291) (07:53, 17 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
