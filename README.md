@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 6 of [Dandadan](https://anilist.co/manga/132029) (08:39, 19 December 2021)
+-   📖 Read chapter 2 - 21 of [Dandadan](https://anilist.co/manga/132029) (10:40, 19 December 2021)
 -   📖 Read chapter 19 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (07:56, 19 December 2021)
 -   📖 Read chapter 82 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (07:53, 19 December 2021)
 -   📖 Read chapter 1 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (16:31, 18 December 2021)
