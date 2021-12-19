@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 73 of [Ayakashi Triangle](https://anilist.co/manga/119493) (18:20, 19 December 2021)
 -   📖 Read chapter 3 - 7 of [Shingeki no Eroko-san: Hen na Oneesan wa Danshikousei to Nakayoku Naritai](https://anilist.co/manga/116180) (13:53, 19 December 2021)
 -   📖 Read chapter 2 - 36 of [Dandadan](https://anilist.co/manga/132029) (13:14, 19 December 2021)
 -   📖 Read chapter 2 - 31 of [Dandadan](https://anilist.co/manga/132029) (13:07, 19 December 2021)
 -   📖 Read chapter 19 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (07:56, 19 December 2021)
--   📖 Read chapter 82 of [Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat](https://anilist.co/manga/85843) (07:53, 19 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
