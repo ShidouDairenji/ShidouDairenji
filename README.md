@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 - 58 of [Sun-Ken Rock](https://anilist.co/manga/38848) (14:07, 20 December 2021)
 -   📖 Read chapter 1 of [Toshiue Elite Onna Kishi ga Boku no Mae de dake Kawaii](https://anilist.co/manga/113636) (07:54, 20 December 2021)
 -   📖 Read chapter 2 - 8 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (23:49, 19 December 2021)
 -   📖 Read chapter 73 of [Ayakashi Triangle](https://anilist.co/manga/119493) (18:20, 19 December 2021)
 -   📖 Read chapter 3 - 7 of [Shingeki no Eroko-san: Hen na Oneesan wa Danshikousei to Nakayoku Naritai](https://anilist.co/manga/116180) (13:53, 19 December 2021)
--   📖 Read chapter 2 - 36 of [Dandadan](https://anilist.co/manga/132029) (13:14, 19 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
