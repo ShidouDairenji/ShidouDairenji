@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 - 11 of [Shingeki no Eroko-san: Hen na Oneesan wa Danshikousei to Nakayoku Naritai](https://anilist.co/manga/116180) (15:04, 22 December 2021)
+-   📖 Read chapter 26 - 29 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (14:56, 22 December 2021)
 -   📖 Read chapter 19 - 25 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (09:44, 22 December 2021)
 -   📖 Read chapter 16 - 24 of [Kao ni denai Kashiwada-san to Kao ni deru Ota-kun](https://anilist.co/manga/102907) (06:08, 22 December 2021)
 -   📖 Read chapter 9 - 18 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (04:36, 22 December 2021)
--   📖 Read chapter 37 of [Dandadan](https://anilist.co/manga/132029) (11:24, 21 December 2021)
--   📖 Read chapter 66 of [My Dress-Up Darling](https://anilist.co/manga/101583) (11:20, 21 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
