@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 71 - 78 of [My Hero Academia](https://anilist.co/manga/85486) (08:13, 23 December 2021)
+-   📖 Read chapter 71 - 89 of [My Hero Academia](https://anilist.co/manga/85486) (09:06, 23 December 2021)
 -   📖 Read chapter 66 - 77 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (07:55, 23 December 2021)
 -   📖 Read chapter 9 - 11 of [Shingeki no Eroko-san: Hen na Oneesan wa Danshikousei to Nakayoku Naritai](https://anilist.co/manga/116180) (15:04, 22 December 2021)
 -   📖 Read chapter 26 - 29 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (14:56, 22 December 2021)
