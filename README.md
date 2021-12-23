@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 24 of [Gantz](https://anilist.co/manga/30564) (17:48, 23 December 2021)
+-   📖 Read chapter 16 - 17 of [Shingeki no Eroko-san: Hen na Oneesan wa Danshikousei to Nakayoku Naritai](https://anilist.co/manga/116180) (17:35, 23 December 2021)
 -   📖 Read chapter 1 - 13 of [Gantz](https://anilist.co/manga/30564) (12:23, 23 December 2021)
 -   📖 Read chapter 12 - 15 of [Shingeki no Eroko-san: Hen na Oneesan wa Danshikousei to Nakayoku Naritai](https://anilist.co/manga/116180) (09:40, 23 December 2021)
 -   📖 Read chapter 71 - 89 of [My Hero Academia](https://anilist.co/manga/85486) (09:06, 23 December 2021)
--   📖 Read chapter 66 - 77 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (07:55, 23 December 2021)
--   📖 Read chapter 9 - 11 of [Shingeki no Eroko-san: Hen na Oneesan wa Danshikousei to Nakayoku Naritai](https://anilist.co/manga/116180) (15:04, 22 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
