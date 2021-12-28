@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [All You Need Is Kill](https://anilist.co/manga/85215) (07:09, 28 December 2021)
+-   📖 Read chapter 1 - 13 of [All You Need Is Kill](https://anilist.co/manga/85215) (07:25, 28 December 2021)
 -   📖 Read chapter 1 - 2 of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/manga/114015) (06:12, 28 December 2021)
 -   📖 Read chapter 64 of [Juujika no Rokunin](https://anilist.co/manga/116671) (23:22, 27 December 2021)
 -   📖 Read chapter 67 of [My Dress-Up Darling](https://anilist.co/manga/101583) (23:21, 27 December 2021)
