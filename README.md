@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [My Little Monster](https://anilist.co/manga/43702) (15:21, 28 December 2021)
 -   📖 Read chapter 1 - 13 of [All You Need Is Kill](https://anilist.co/manga/85215) (07:25, 28 December 2021)
 -   📖 Read chapter 1 - 2 of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/manga/114015) (06:12, 28 December 2021)
 -   📖 Read chapter 64 of [Juujika no Rokunin](https://anilist.co/manga/116671) (23:22, 27 December 2021)
 -   📖 Read chapter 67 of [My Dress-Up Darling](https://anilist.co/manga/101583) (23:21, 27 December 2021)
--   📖 Read chapter 38 of [Dandadan](https://anilist.co/manga/132029) (23:18, 27 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
