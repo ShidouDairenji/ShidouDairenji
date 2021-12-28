@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 64 of [Juujika no Rokunin](https://anilist.co/manga/116671) (23:22, 27 December 2021)
+-   📖 Read chapter 67 of [My Dress-Up Darling](https://anilist.co/manga/101583) (23:21, 27 December 2021)
+-   📖 Read chapter 38 of [Dandadan](https://anilist.co/manga/132029) (23:18, 27 December 2021)
+-   📖 Read chapter 79 of [Shounen no Abyss](https://anilist.co/manga/116186) (23:14, 27 December 2021)
 -   📖 Read chapter 66 of [【Oshi no Ko】](https://anilist.co/manga/117195) (04:53, 25 December 2021)
--   📖 Read chapter 72 - 74 of [DEAD Tube](https://anilist.co/manga/85671) (04:52, 25 December 2021)
--   📖 Read chapter 40 of [Megami no Café Terrace](https://anilist.co/manga/129694) (16:43, 24 December 2021)
--   📖 Read chapter 233 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (16:41, 24 December 2021)
--   📖 Read chapter 14 - 24 of [Gantz](https://anilist.co/manga/30564) (17:48, 23 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
