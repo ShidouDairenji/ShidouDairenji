@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 15 of [My Little Monster](https://anilist.co/manga/43702) (18:11, 30 December 2021)
 -   📖 Read chapter 75 of [DEAD Tube](https://anilist.co/manga/85671) (15:12, 30 December 2021)
 -   📖 Read chapter 66 of [Koi Shita no de Haishin Shite Mita](https://anilist.co/manga/112342) (15:02, 30 December 2021)
 -   📖 Read chapter 25 - 26 of [Kao ni denai Kashiwada-san to Kao ni deru Ota-kun](https://anilist.co/manga/102907) (11:38, 30 December 2021)
 -   📖 Read chapter 13 - 14 of [My Little Monster](https://anilist.co/manga/43702) (07:12, 30 December 2021)
--   📖 Read chapter 1 - 2 of [Italia-jin no Onnanoko ga Isourou Suru Koto ni Natta](https://anilist.co/manga/127893) (03:56, 30 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
