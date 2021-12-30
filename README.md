@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Italia-jin no Onnanoko ga Isourou Suru Koto ni Natta](https://anilist.co/manga/127893) (03:56, 30 December 2021)
 -   📖 Read chapter 74 - 76 of [Sun-Ken Rock](https://anilist.co/manga/38848) (18:40, 29 December 2021)
 -   📖 Read chapter 67 - 84 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (18:31, 29 December 2021)
 -   📖 Read chapter 1 - 6 of [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (17:43, 29 December 2021)
 -   📖 Read chapter 10 - 12 of [My Little Monster](https://anilist.co/manga/43702) (17:35, 29 December 2021)
--   📖 Read chapter 8 - 9 of [My Little Monster](https://anilist.co/manga/43702) (08:19, 29 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
