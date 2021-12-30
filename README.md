@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 13 of [My Little Monster](https://anilist.co/manga/43702) (07:03, 30 December 2021)
+-   📖 Read chapter 13 - 14 of [My Little Monster](https://anilist.co/manga/43702) (07:12, 30 December 2021)
 -   📖 Read chapter 1 - 2 of [Italia-jin no Onnanoko ga Isourou Suru Koto ni Natta](https://anilist.co/manga/127893) (03:56, 30 December 2021)
 -   📖 Read chapter 74 - 76 of [Sun-Ken Rock](https://anilist.co/manga/38848) (18:40, 29 December 2021)
 -   📖 Read chapter 67 - 84 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (18:31, 29 December 2021)
