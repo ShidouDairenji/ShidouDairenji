@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Choujin X](https://anilist.co/manga/126693) (18:09, 01 January 2022)
 -   📖 Read chapter 78 - 84 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (16:21, 01 January 2022)
 -   📖 Read chapter 35 - 36 of [Kao ni denai Kashiwada-san to Kao ni deru Ota-kun](https://anilist.co/manga/102907) (16:17, 01 January 2022)
 -   📖 Read chapter 85 - 95 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (11:02, 01 January 2022)
 -   📖 Read chapter 30 - 34 of [Kao ni denai Kashiwada-san to Kao ni deru Ota-kun](https://anilist.co/manga/102907) (10:04, 01 January 2022)
--   📖 Read chapter 35 - 41 of [Gantz](https://anilist.co/manga/30564) (06:09, 01 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
