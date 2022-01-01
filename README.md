@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 30 - 34 of [Kao ni denai Kashiwada-san to Kao ni deru Ota-kun](https://anilist.co/manga/102907) (10:04, 01 January 2022)
 -   📖 Read chapter 35 - 41 of [Gantz](https://anilist.co/manga/30564) (06:09, 01 January 2022)
 -   📖 Read chapter 17 - 20 of [My Little Monster](https://anilist.co/manga/43702) (18:59, 31 December 2021)
 -   📖 Read chapter 27 - 29 of [Kao ni denai Kashiwada-san to Kao ni deru Ota-kun](https://anilist.co/manga/102907) (15:58, 31 December 2021)
 -   📖 Read chapter 25 - 34 of [Gantz](https://anilist.co/manga/30564) (11:36, 31 December 2021)
--   📖 Read chapter 15 - 16 of [My Little Monster](https://anilist.co/manga/43702) (18:17, 30 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
