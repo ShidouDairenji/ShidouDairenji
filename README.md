@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 30 - 34 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (19:06, 01 January 2022)
+-   📖 Read chapter 30 - 36 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (19:13, 01 January 2022)
 -   📖 Read chapter 32 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (18:35, 01 January 2022)
 -   📖 Read chapter 75 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (18:32, 01 January 2022)
 -   📖 Read chapter 1 - 8 of [Choujin X](https://anilist.co/manga/126693) (18:25, 01 January 2022)
