@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 24 of [My Little Monster](https://anilist.co/manga/43702) (07:08, 02 January 2022)
+-   📖 Read chapter 24 - 27 of [My Little Monster](https://anilist.co/manga/43702) (07:21, 02 January 2022)
 -   📖 Read chapter 23 of [My Little Monster](https://anilist.co/manga/43702) (04:50, 02 January 2022)
 -   📖 Read chapter 30 - 36 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (19:13, 01 January 2022)
 -   📖 Read chapter 32 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (18:35, 01 January 2022)
