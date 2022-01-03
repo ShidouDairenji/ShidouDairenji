@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 124 - 125 of [Sun-Ken Rock](https://anilist.co/manga/38848) (19:07, 03 January 2022)
+-   📖 Read chapter 124 - 129 of [Sun-Ken Rock](https://anilist.co/manga/38848) (19:20, 03 January 2022)
 -   📖 Read chapter 94 - 114 of [Sun-Ken Rock](https://anilist.co/manga/38848) (15:05, 03 January 2022)
 -   📖 Read chapter 1 - 15 of [Doutei Zetsumetsu Rettou](https://anilist.co/manga/108699) (14:12, 03 January 2022)
 -   📖 Read chapter 1 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (12:35, 03 January 2022)
