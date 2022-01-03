@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 124 - 125 of [Sun-Ken Rock](https://anilist.co/manga/38848) (19:07, 03 January 2022)
 -   📖 Read chapter 94 - 114 of [Sun-Ken Rock](https://anilist.co/manga/38848) (15:05, 03 January 2022)
 -   📖 Read chapter 1 - 15 of [Doutei Zetsumetsu Rettou](https://anilist.co/manga/108699) (14:12, 03 January 2022)
 -   📖 Read chapter 1 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (12:35, 03 January 2022)
 -   📖 Read chapter 78 - 93 of [Sun-Ken Rock](https://anilist.co/manga/38848) (06:55, 03 January 2022)
--   📖 Read chapter 68 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:49, 03 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
