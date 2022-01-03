@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Doutei Zetsumetsu Rettou](https://anilist.co/manga/108699) (12:50, 03 January 2022)
+-   📖 Read chapter 1 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (12:35, 03 January 2022)
 -   📖 Read chapter 78 - 93 of [Sun-Ken Rock](https://anilist.co/manga/38848) (06:55, 03 January 2022)
 -   📖 Read chapter 68 of [My Dress-Up Darling](https://anilist.co/manga/101583) (05:49, 03 January 2022)
 -   📖 Read chapter 24 - 27 of [My Little Monster](https://anilist.co/manga/43702) (07:21, 02 January 2022)
--   📖 Read chapter 23 of [My Little Monster](https://anilist.co/manga/43702) (04:50, 02 January 2022)
--   📖 Read chapter 30 - 36 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (19:13, 01 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
