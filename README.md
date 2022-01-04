@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 41 of [Megami no Café Terrace](https://anilist.co/manga/129694) (20:25, 04 January 2022)
+-   📖 Read chapter 74 of [Ayakashi Triangle](https://anilist.co/manga/119493) (20:23, 04 January 2022)
+-   📖 Read chapter 39 of [Dandadan](https://anilist.co/manga/132029) (20:18, 04 January 2022)
 -   📖 Read chapter 124 - 129 of [Sun-Ken Rock](https://anilist.co/manga/38848) (19:20, 03 January 2022)
 -   📖 Read chapter 94 - 114 of [Sun-Ken Rock](https://anilist.co/manga/38848) (15:05, 03 January 2022)
--   📖 Read chapter 1 - 15 of [Doutei Zetsumetsu Rettou](https://anilist.co/manga/108699) (14:12, 03 January 2022)
--   📖 Read chapter 1 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (12:35, 03 January 2022)
--   📖 Read chapter 78 - 93 of [Sun-Ken Rock](https://anilist.co/manga/38848) (06:55, 03 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
