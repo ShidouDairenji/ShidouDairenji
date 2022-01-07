@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 90 - 99 of [My Hero Academia](https://anilist.co/manga/85486) (09:54, 07 January 2022)
+-   📖 Read chapter 16 - 21 of [Doutei Zetsumetsu Rettou](https://anilist.co/manga/108699) (09:24, 07 January 2022)
 -   📖 Read chapter 142 - 171 of [Sun-Ken Rock](https://anilist.co/manga/38848) (15:55, 06 January 2022)
 -   📖 Read chapter 130 - 141 of [Sun-Ken Rock](https://anilist.co/manga/38848) (07:45, 05 January 2022)
 -   📖 Read chapter 41 of [Megami no Café Terrace](https://anilist.co/manga/129694) (20:25, 04 January 2022)
--   📖 Read chapter 74 of [Ayakashi Triangle](https://anilist.co/manga/119493) (20:23, 04 January 2022)
--   📖 Read chapter 39 of [Dandadan](https://anilist.co/manga/132029) (20:18, 04 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
