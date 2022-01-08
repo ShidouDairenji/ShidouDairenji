@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 65 of [Juujika no Rokunin](https://anilist.co/manga/116671) (18:47, 08 January 2022)
 -   📖 Completed [Sun-Ken Rock](https://anilist.co/manga/38848) (11:55, 08 January 2022)
 -   📖 Read chapter 1 - 11 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (08:50, 08 January 2022)
 -   📖 Read chapter 90 - 99 of [My Hero Academia](https://anilist.co/manga/85486) (09:54, 07 January 2022)
 -   📖 Read chapter 16 - 21 of [Doutei Zetsumetsu Rettou](https://anilist.co/manga/108699) (09:24, 07 January 2022)
--   📖 Read chapter 142 - 171 of [Sun-Ken Rock](https://anilist.co/manga/38848) (15:55, 06 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
