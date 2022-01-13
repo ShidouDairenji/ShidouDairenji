@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (03:04, 13 January 2022)
 -   📖 Read chapter 5 - 7 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (17:30, 12 January 2022)
 -   📖 Read chapter 16 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (11:06, 12 January 2022)
 -   📖 Read chapter 2 - 4 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (03:03, 12 January 2022)
 -   📖 Read chapter 11 - 19 of [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (02:31, 12 January 2022)
--   📖 Read chapter 35 - 38 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (02:06, 12 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
