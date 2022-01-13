@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 8 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (03:04, 13 January 2022)
+-   📖 Read chapter 8 - 13 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (04:12, 13 January 2022)
 -   📖 Read chapter 5 - 7 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (17:30, 12 January 2022)
 -   📖 Read chapter 16 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (11:06, 12 January 2022)
 -   📖 Read chapter 2 - 4 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (03:03, 12 January 2022)
