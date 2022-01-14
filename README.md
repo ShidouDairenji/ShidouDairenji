@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 43 of [My Little Monster](https://anilist.co/manga/43702) (07:40, 14 January 2022)
 -   📖 Read chapter 80 of [Shounen no Abyss](https://anilist.co/manga/116186) (02:08, 14 January 2022)
 -   📖 Read chapter 34 of [My Little Monster](https://anilist.co/manga/43702) (06:39, 13 January 2022)
 -   📖 Read chapter 8 - 15 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (04:17, 13 January 2022)
 -   📖 Read chapter 5 - 7 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (17:30, 12 January 2022)
--   📖 Read chapter 16 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (11:06, 12 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
