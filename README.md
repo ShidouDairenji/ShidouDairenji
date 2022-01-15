@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 19 - 21 of [My Neighbor Seki](https://anilist.co/manga/58091) (17:18, 15 January 2022)
 -   📖 Read chapter 19 of [Toshiue Elite Onna Kishi ga Boku no Mae de dake Kawaii](https://anilist.co/manga/113636) (13:49, 15 January 2022)
 -   📖 Read chapter 42 - 50 of [Gantz](https://anilist.co/manga/30564) (17:17, 14 January 2022)
 -   📖 Read chapter 43 of [My Little Monster](https://anilist.co/manga/43702) (07:40, 14 January 2022)
 -   📖 Read chapter 80 of [Shounen no Abyss](https://anilist.co/manga/116186) (02:08, 14 January 2022)
--   📖 Read chapter 34 of [My Little Monster](https://anilist.co/manga/43702) (06:39, 13 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
