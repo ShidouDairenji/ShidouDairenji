@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 10 - 25 of [Mortals of the Doom](https://anilist.co/manga/101419) (06:12, 19 January 2022)
+-   📖 Read chapter 10 - 30 of [Mortals of the Doom](https://anilist.co/manga/101419) (06:16, 19 January 2022)
 -   📖 Read chapter 76 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (06:00, 19 January 2022)
 -   📖 Read chapter 40 of [Dandadan](https://anilist.co/manga/132029) (10:56, 18 January 2022)
 -   📖 Read chapter 19 - 23 of [Girl of Gold & Silver Girl](https://anilist.co/manga/85777) (16:42, 17 January 2022)
