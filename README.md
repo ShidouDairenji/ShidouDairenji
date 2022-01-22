@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 7 - 10 of [To Save the World, Can You Wake Up the Morning After with a Demi-Human?](https://anilist.co/manga/110012) (16:08, 22 January 2022)
+-   📖 Read chapter 38 - 43 of [Goodnight Punpun](https://anilist.co/manga/34632) (16:43, 22 January 2022)
+-   📖 Read chapter 7 - 15 of [To Save the World, Can You Wake Up the Morning After with a Demi-Human?](https://anilist.co/manga/110012) (16:26, 22 January 2022)
 -   📖 Read chapter 33 - 34 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (15:53, 22 January 2022)
 -   📖 Read chapter 16 - 20 of [Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin](https://anilist.co/manga/99775) (15:24, 22 January 2022)
 -   📖 Read chapter 12 - 15 of [Choujin X](https://anilist.co/manga/126693) (14:39, 22 January 2022)
--   📖 Read chapter 40 - 42 of [My Wife is the Student Council President!](https://anilist.co/manga/79967) (05:42, 22 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
