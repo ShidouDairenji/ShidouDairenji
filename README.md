@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 18 of [Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin](https://anilist.co/manga/99775) (15:04, 22 January 2022)
+-   📖 Read chapter 12 - 15 of [Choujin X](https://anilist.co/manga/126693) (14:39, 22 January 2022)
 -   📖 Read chapter 40 - 42 of [My Wife is the Student Council President!](https://anilist.co/manga/79967) (05:42, 22 January 2022)
 -   📖 Read chapter 82 - 84 of [The Way of the Househusband](https://anilist.co/manga/101233) (05:27, 22 January 2022)
 -   📖 Read chapter 30 of [Kimi ni Aisarete Itakatta](https://anilist.co/manga/102545) (05:14, 22 January 2022)
--   📖 Read chapter 101 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (05:12, 22 January 2022)
--   📖 Read chapter 34 - 35 of [Don't Blush, Sekime-san!](https://anilist.co/manga/127778) (05:11, 22 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
