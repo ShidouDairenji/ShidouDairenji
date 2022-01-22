@@ -69,7 +69,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 38 of [My Neighbor Seki](https://anilist.co/manga/58091) (23:08, 21 January 2022)
+-   📖 Read chapter 38 - 42 of [My Neighbor Seki](https://anilist.co/manga/58091) (23:35, 21 January 2022)
 -   📖 Read chapter 22 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (16:26, 21 January 2022)
 -   📖 Read chapter 67 of [[Oshi no Ko]](https://anilist.co/manga/117195) (11:42, 19 January 2022)
 -   📖 Read chapter 41 of [Dandadan](https://anilist.co/manga/132029) (11:39, 19 January 2022)
