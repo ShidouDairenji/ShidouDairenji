@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 20 of [Toshiue Elite Onna Kishi ga Boku no Mae de dake Kawaii](https://anilist.co/manga/113636) (05:06, 22 January 2022)
--   📖 Read chapter 29 - 37 of [Goodnight Punpun](https://anilist.co/manga/34632) (04:41, 22 January 2022)
--   📖 Read chapter 1 - 2 of [Ekijin no Carte](https://anilist.co/manga/126081) (04:15, 22 January 2022)
--   📖 Read chapter 38 - 42 of [My Neighbor Seki](https://anilist.co/manga/58091) (23:35, 21 January 2022)
--   📖 Read chapter 22 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (16:26, 21 January 2022)
+-   📖 Read chapter 40 - 42 of [My Wife is the Student Council President!](https://anilist.co/manga/79967) (05:42, 22 January 2022)
+-   📖 Read chapter 82 - 84 of [The Way of the Househusband](https://anilist.co/manga/101233) (05:27, 22 January 2022)
+-   📖 Read chapter 30 of [Kimi ni Aisarete Itakatta](https://anilist.co/manga/102545) (05:14, 22 January 2022)
+-   📖 Read chapter 101 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (05:12, 22 January 2022)
+-   📖 Read chapter 34 - 35 of [Don't Blush, Sekime-san!](https://anilist.co/manga/127778) (05:11, 22 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
