@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 116 - 117 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (18:43, 23 January 2022)
+-   📖 Read chapter 15 of [Mizuki-senpai’s Love Fortune-Telling](https://anilist.co/manga/121241) (18:38, 23 January 2022)
+-   📖 Read chapter 4 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (18:36, 23 January 2022)
+-   📖 Read chapter 39 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (18:33, 23 January 2022)
 -   📖 Read chapter 38 - 43 of [Goodnight Punpun](https://anilist.co/manga/34632) (16:43, 22 January 2022)
--   📖 Read chapter 7 - 15 of [To Save the World, Can You Wake Up the Morning After with a Demi-Human?](https://anilist.co/manga/110012) (16:26, 22 January 2022)
--   📖 Read chapter 33 - 34 of [Please Put Them On, Takamine-san!](https://anilist.co/manga/107559) (15:53, 22 January 2022)
--   📖 Read chapter 16 - 20 of [Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin](https://anilist.co/manga/99775) (15:24, 22 January 2022)
--   📖 Read chapter 12 - 15 of [Choujin X](https://anilist.co/manga/126693) (14:39, 22 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
