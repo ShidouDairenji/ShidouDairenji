@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 76 of [DEAD Tube](https://anilist.co/manga/85671) (16:35, 24 January 2022)
+-   📖 Read chapter 27 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (16:35, 24 January 2022)
+-   📖 Read chapter 69 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:32, 24 January 2022)
 -   📖 Read chapter 81 of [Shounen no Abyss](https://anilist.co/manga/116186) (15:47, 24 January 2022)
 -   📖 Read chapter 66 - 67 of [Juujika no Rokunin](https://anilist.co/manga/116671) (15:45, 24 January 2022)
--   📖 Read chapter 68 of [[Oshi no Ko]](https://anilist.co/manga/117195) (15:44, 24 January 2022)
--   📖 Read chapter 85 - 86 of [The Way of the Househusband](https://anilist.co/manga/101233) (15:42, 24 January 2022)
--   📖 Read chapter 42 - 43 of [Megami no Café Terrace](https://anilist.co/manga/129694) (15:40, 24 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
