@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 116 - 117 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (18:43, 23 January 2022)
--   📖 Read chapter 15 of [Mizuki-senpai’s Love Fortune-Telling](https://anilist.co/manga/121241) (18:38, 23 January 2022)
--   📖 Read chapter 4 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (18:36, 23 January 2022)
--   📖 Read chapter 39 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (18:33, 23 January 2022)
--   📖 Read chapter 38 - 43 of [Goodnight Punpun](https://anilist.co/manga/34632) (16:43, 22 January 2022)
+-   📖 Read chapter 81 of [Shounen no Abyss](https://anilist.co/manga/116186) (15:47, 24 January 2022)
+-   📖 Read chapter 66 - 67 of [Juujika no Rokunin](https://anilist.co/manga/116671) (15:45, 24 January 2022)
+-   📖 Read chapter 68 of [[Oshi no Ko]](https://anilist.co/manga/117195) (15:44, 24 January 2022)
+-   📖 Read chapter 85 - 86 of [The Way of the Househusband](https://anilist.co/manga/101233) (15:42, 24 January 2022)
+-   📖 Read chapter 42 - 43 of [Megami no Café Terrace](https://anilist.co/manga/129694) (15:40, 24 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
