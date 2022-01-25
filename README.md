@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Delusional Love](https://anilist.co/manga/86632) (08:28, 25 January 2022)
+-   📖 Read chapter 6 of [Ballad x Opera](https://anilist.co/manga/100040) (08:22, 25 January 2022)
 -   📖 Read chapter 76 of [DEAD Tube](https://anilist.co/manga/85671) (16:35, 24 January 2022)
 -   📖 Read chapter 27 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (16:35, 24 January 2022)
 -   📖 Read chapter 69 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:32, 24 January 2022)
--   📖 Read chapter 81 of [Shounen no Abyss](https://anilist.co/manga/116186) (15:47, 24 January 2022)
--   📖 Read chapter 66 - 67 of [Juujika no Rokunin](https://anilist.co/manga/116671) (15:45, 24 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
