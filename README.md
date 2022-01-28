@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 67 of [Koi Shita no de Haishin Shite Mita](https://anilist.co/manga/112342) (16:24, 28 January 2022)
+-   📖 Read chapter 33 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (16:23, 28 January 2022)
+-   📖 Read chapter 69 of [[Oshi no Ko]](https://anilist.co/manga/117195) (16:21, 28 January 2022)
+-   📖 Read chapter 44 of [Megami no Café Terrace](https://anilist.co/manga/129694) (16:16, 28 January 2022)
 -   📖 Read chapter 237 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (16:13, 28 January 2022)
--   📖 Read chapter 1 - 2 of [Delusional Love](https://anilist.co/manga/86632) (08:28, 25 January 2022)
--   📖 Read chapter 6 of [Ballad x Opera](https://anilist.co/manga/100040) (08:22, 25 January 2022)
--   📖 Read chapter 76 of [DEAD Tube](https://anilist.co/manga/85671) (16:35, 24 January 2022)
--   📖 Read chapter 27 of [CANDY AND CIGARETTES](https://anilist.co/manga/99404) (16:35, 24 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
