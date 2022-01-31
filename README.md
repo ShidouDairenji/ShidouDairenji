@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 68 of [Juujika no Rokunin](https://anilist.co/manga/116671) (15:01, 31 January 2022)
+-   📖 Read chapter 77 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (14:59, 31 January 2022)
+-   📖 Read chapter 23 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (14:41, 31 January 2022)
 -   📖 Read chapter 78 - 79 of [How NOT to Summon a Demon Lord](https://anilist.co/manga/86338) (08:29, 31 January 2022)
 -   📖 Read chapter 6 - 11 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (08:23, 31 January 2022)
--   📖 Read chapter 28 - 50 of [Girl of Gold & Silver Girl](https://anilist.co/manga/85777) (14:47, 30 January 2022)
--   📖 Read chapter 1 of [The Elder Sister-Like One](https://anilist.co/manga/87234) (13:15, 30 January 2022)
--   📖 Read chapter 35 of [Maou to Ore no Hangyakuki](https://anilist.co/manga/113224) (14:14, 29 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
