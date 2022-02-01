@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 77 of [Ayakashi Triangle](https://anilist.co/manga/119493) (18:26, 01 February 2022)
+-   📖 Read chapter 45 - 47 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (18:25, 01 February 2022)
 -   📖 Completed [Bakemonogatari](https://anilist.co/manga/101311) (00:02, 01 February 2022)
 -   📖 Completed [Koimonogatari: Love Tale](https://anilist.co/manga/143726) (00:01, 01 February 2022)
 -   📖 Reread [Chainsaw Man](https://anilist.co/manga/105778) (00:00, 01 February 2022)
--   📖 Completed [Kizumonogatari: Wound Tale](https://anilist.co/manga/143701) (00:00, 01 February 2022)
--   📖 Read chapter 41 of [Bakemonogatari: Monster Tale](https://anilist.co/manga/44893) (23:59, 31 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
