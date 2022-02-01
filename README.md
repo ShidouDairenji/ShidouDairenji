@@ -20,7 +20,7 @@
 
 ## **Connect with me**
 <p align="left">
-<a href="https://stackoverflow.com/users/16135246/shidou-dairenji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shidou-dairenji" height="40" width="50" </a> <a href="https://t.me/Hum0ur_Being" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Hum0ur_Being" height="50" width="60"</a>
+<a href="https://stackoverflow.com/users/16135246/shidou-dairenji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shidou-dairenji" height="40" width="50" </a> <a href="https://t.me/Hum0ur_Being" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Hum0ur_Being" height="50" width="60"</a> <a href="https://twitter.com/s_zeroth" target="blank"><img align="center" src="https://github.com/ShidouDairenji/ShidouDairenji/blob/main/assests/twitter-circle.png" alt="shidou.zeroth@gmail.com" height="50" width="50"</a> <a href="https://www.reddit.com/user/DarkGreyLife" target="blank"><img align="center" src="https://github.com/ShidouDairenji/ShidouDairenji/blob/main/assests/reddit-circle.png" alt="shidou.zeroth@gmail.com" height="50" width="50"</a> <a href="mailto:shidou.zeroth@gmail.com?subject=Hey there Shidou&" target="blank"><img align="center" src="https://github.com/ShidouDairenji/ShidouDairenji/blob/main/assests/gmail.png" alt="shidou.zeroth@gmail.com" height="50" width="60"</a>
 </p>
 
 ## **Languages and Tools**
