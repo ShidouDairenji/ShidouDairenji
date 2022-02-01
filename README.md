@@ -80,11 +80,11 @@
 </details>
 
 
- ## <img src = https://media.tenor.com/images/48ea3cc3a4365e637c37b5fe4f312de7/tenor.gif width = 30> **Vibing to songs on Spotify**
+ ## <img src = https://media.tenor.com/images/48ea3cc3a4365e637c37b5fe4f312de7/tenor.gif width = 30> **Stalk my Profile**
 
 
-![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)
-
+![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5)     
+  [![Discord Presence](https://lanyard.cnrad.dev/api/754325575816052757?borderRadius=30px&idleMessage=Probably%20AFK...)](https://discord.com/users/754325575816052757)
 
 
 <img src = https://media.tenor.com/images/d1b53d8835e48385117d86281d4681cc/tenor.gif width = 150 align = "right">
