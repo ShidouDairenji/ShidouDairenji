@@ -69,11 +69,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 68 of [Juujika no Rokunin](https://anilist.co/manga/116671) (15:01, 31 January 2022)
--   📖 Read chapter 77 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (14:59, 31 January 2022)
--   📖 Read chapter 23 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (14:41, 31 January 2022)
--   📖 Read chapter 78 - 79 of [How NOT to Summon a Demon Lord](https://anilist.co/manga/86338) (08:29, 31 January 2022)
--   📖 Read chapter 6 - 11 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (08:23, 31 January 2022)
+-   📖 Completed [Bakemonogatari](https://anilist.co/manga/101311) (00:02, 01 February 2022)
+-   📖 Completed [Koimonogatari: Love Tale](https://anilist.co/manga/143726) (00:01, 01 February 2022)
+-   📖 Reread [Chainsaw Man](https://anilist.co/manga/105778) (00:00, 01 February 2022)
+-   📖 Completed [Kizumonogatari: Wound Tale](https://anilist.co/manga/143701) (00:00, 01 February 2022)
+-   📖 Read chapter 41 of [Bakemonogatari: Monster Tale](https://anilist.co/manga/44893) (23:59, 31 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
