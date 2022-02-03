@@ -86,8 +86,8 @@
  ## <img src = https://media.tenor.com/images/48ea3cc3a4365e637c37b5fe4f312de7/tenor.gif width = 30> **Stalk me here**
 
 
-![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qi65z59nzvoaolvks8876vxbr&count=5) <br/>   
-![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=s_zeroth&show_retweet=on&show_reply=on)
+   
+![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=s_zeroth&show_retweet=on&show_reply=on) <br/>
 ![Discord Presence](https://lanyard.cnrad.dev/api/754325575816052757?borderRadius=20px&idleMessage=Probably%20AFK...) 
 
 <img src = https://media.tenor.com/images/d1b53d8835e48385117d86281d4681cc/tenor.gif width = 150 align = "right">
