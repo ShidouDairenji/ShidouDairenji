@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 of [Record of Ragnarok](https://anilist.co/manga/107098) (16:12, 04 February 2022)
+-   📖 Read chapter 21 of [Toshiue Elite Onna Kishi ga Boku no Mae de dake Kawaii](https://anilist.co/manga/113636) (16:01, 04 February 2022)
+-   📖 Read chapter 71 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:00, 04 February 2022)
 -   📖 Read chapter 42 of [Dandadan](https://anilist.co/manga/132029) (03:31, 02 February 2022)
 -   📖 Read chapter 118 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (03:29, 02 February 2022)
--   📖 Read chapter 70 of [My Dress-Up Darling](https://anilist.co/manga/101583) (03:26, 02 February 2022)
--   📖 Read chapter 77 of [Ayakashi Triangle](https://anilist.co/manga/119493) (18:26, 01 February 2022)
--   📖 Read chapter 45 - 47 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (18:25, 01 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
