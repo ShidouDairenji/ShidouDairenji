@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 24 - 29 of [Lust Geass](https://anilist.co/manga/104502) (10:09, 05 February 2022)
 -   📖 Read chapter 1 - 23 of [Lust Geass](https://anilist.co/manga/104502) (19:51, 04 February 2022)
 -   📖 Read chapter 82 of [Shounen no Abyss](https://anilist.co/manga/116186) (16:18, 04 February 2022)
 -   📖 Read chapter 57 - 58 of [Record of Ragnarok](https://anilist.co/manga/107098) (16:16, 04 February 2022)
 -   📖 Read chapter 21 of [Toshiue Elite Onna Kishi ga Boku no Mae de dake Kawaii](https://anilist.co/manga/113636) (16:01, 04 February 2022)
--   📖 Read chapter 71 of [My Dress-Up Darling](https://anilist.co/manga/101583) (16:00, 04 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
