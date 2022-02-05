@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (20:05, 05 February 2022)
+-   📖 Read chapter 3 - 12 of [Delusional Love](https://anilist.co/manga/86632) (20:04, 05 February 2022)
+-   📖 Read chapter 45 of [Megami no Café Terrace](https://anilist.co/manga/129694) (19:36, 05 February 2022)
+-   📖 Read chapter 70 of [[Oshi no Ko]](https://anilist.co/manga/117195) (19:33, 05 February 2022)
 -   📖 Read chapter 24 - 41 of [Lust Geass](https://anilist.co/manga/104502) (10:47, 05 February 2022)
--   📖 Read chapter 1 - 23 of [Lust Geass](https://anilist.co/manga/104502) (19:51, 04 February 2022)
--   📖 Read chapter 82 of [Shounen no Abyss](https://anilist.co/manga/116186) (16:18, 04 February 2022)
--   📖 Read chapter 57 - 58 of [Record of Ragnarok](https://anilist.co/manga/107098) (16:16, 04 February 2022)
--   📖 Read chapter 21 of [Toshiue Elite Onna Kishi ga Boku no Mae de dake Kawaii](https://anilist.co/manga/113636) (16:01, 04 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
