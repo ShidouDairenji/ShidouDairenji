@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 of [Lust Geass](https://anilist.co/manga/104502) (12:56, 07 February 2022)
+-   📖 Read chapter 238 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (12:43, 07 February 2022)
+-   📖 Read chapter 24 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (12:41, 07 February 2022)
 -   📖 Read chapter 43 - 45 of [My Wife is the Student Council President!](https://anilist.co/manga/79967) (19:29, 06 February 2022)
 -   📖 Read chapter 50 - 52 of [Goodnight Punpun](https://anilist.co/manga/34632) (11:40, 06 February 2022)
--   📖 Read chapter 40 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (20:05, 05 February 2022)
--   📖 Read chapter 3 - 12 of [Delusional Love](https://anilist.co/manga/86632) (20:04, 05 February 2022)
--   📖 Read chapter 45 of [Megami no Café Terrace](https://anilist.co/manga/129694) (19:36, 05 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
