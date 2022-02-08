@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 28 - 32 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (14:50, 08 February 2022)
 -   📖 Read chapter 11 - 27 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (11:37, 08 February 2022)
 -   📖 Read chapter 1 - 10 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (21:10, 07 February 2022)
 -   📖 Read chapter 1 - 4 of [Goblin Slayer](https://anilist.co/manga/87321) (20:13, 07 February 2022)
 -   📖 Read chapter 59 of [SPY x FAMILY](https://anilist.co/manga/108556) (13:57, 07 February 2022)
--   📖 Read chapter 69 of [Juujika no Rokunin](https://anilist.co/manga/116671) (13:51, 07 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
