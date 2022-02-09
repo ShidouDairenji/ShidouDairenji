@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 33 - 39 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (12:12, 09 February 2022)
+-   📖 Read chapter 33 - 47 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (12:42, 09 February 2022)
 -   📖 Dropped [JK Haru is a Sex Worker in Another World](https://anilist.co/manga/110175) (01:42, 09 February 2022)
 -   📖 Read chapter 1 - 8 of [JK Haru is a Sex Worker in Another World](https://anilist.co/manga/110175) (01:41, 09 February 2022)
 -   📖 Read chapter 28 - 32 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (14:50, 08 February 2022)
