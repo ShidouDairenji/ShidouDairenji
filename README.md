@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 10 - 14 of [Goblin Slayer](https://anilist.co/manga/87321) (11:46, 10 February 2022)
+-   📖 Read chapter 10 - 18 of [Goblin Slayer](https://anilist.co/manga/87321) (12:44, 10 February 2022)
 -   📖 Read chapter 43 of [Dandadan](https://anilist.co/manga/132029) (13:25, 09 February 2022)
 -   📖 Read chapter 33 - 47 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (12:42, 09 February 2022)
 -   📖 Dropped [JK Haru is a Sex Worker in Another World](https://anilist.co/manga/110175) (01:42, 09 February 2022)
