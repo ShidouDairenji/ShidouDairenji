@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 25 - 43 of [Goblin Slayer](https://anilist.co/manga/87321) (13:09, 11 February 2022)
+-   📖 Read chapter 25 - 46 of [Goblin Slayer](https://anilist.co/manga/87321) (14:00, 11 February 2022)
 -   📖 Read chapter 22 - 24 of [Goblin Slayer](https://anilist.co/manga/87321) (22:50, 10 February 2022)
 -   📖 Read chapter 87 of [The Way of the Househusband](https://anilist.co/manga/101233) (17:26, 10 February 2022)
 -   📖 Read chapter 70 of [Juujika no Rokunin](https://anilist.co/manga/116671) (16:57, 10 February 2022)
