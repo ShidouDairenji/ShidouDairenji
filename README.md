@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 48 - 66 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (14:03, 12 February 2022)
+-   📖 Read chapter 48 - 87 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (15:08, 12 February 2022)
 -   📖 Read chapter 47 - 58 of [Goblin Slayer](https://anilist.co/manga/87321) (16:37, 11 February 2022)
 -   📖 Read chapter 25 - 46 of [Goblin Slayer](https://anilist.co/manga/87321) (14:00, 11 February 2022)
 -   📖 Read chapter 22 - 24 of [Goblin Slayer](https://anilist.co/manga/87321) (22:50, 10 February 2022)
