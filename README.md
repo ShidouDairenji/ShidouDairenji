@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 13 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (12:10, 13 February 2022)
 -   📖 Read chapter 43 - 60 of [My Neighbor Seki](https://anilist.co/manga/58091) (10:48, 13 February 2022)
 -   📖 Read chapter 88 - 101 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (20:20, 12 February 2022)
 -   📖 Read chapter 48 - 87 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (15:08, 12 February 2022)
 -   📖 Read chapter 47 - 58 of [Goblin Slayer](https://anilist.co/manga/87321) (16:37, 11 February 2022)
--   📖 Read chapter 25 - 46 of [Goblin Slayer](https://anilist.co/manga/87321) (14:00, 11 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
