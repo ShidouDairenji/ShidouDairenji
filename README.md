@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 79 of [Ayakashi Triangle](https://anilist.co/manga/119493) (22:37, 13 February 2022)
 -   📖 Read chapter 1 - 3 of [Honey Trap Shared House](https://anilist.co/manga/141322) (19:37, 13 February 2022)
 -   📖 Read chapter 1 - 13 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (12:10, 13 February 2022)
 -   📖 Read chapter 43 - 60 of [My Neighbor Seki](https://anilist.co/manga/58091) (10:48, 13 February 2022)
 -   📖 Read chapter 88 - 101 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (20:20, 12 February 2022)
--   📖 Read chapter 48 - 87 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (15:08, 12 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
