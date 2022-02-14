@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 79 of [Ayakashi Triangle](https://anilist.co/manga/119493) (22:37, 13 February 2022)
--   📖 Read chapter 1 - 3 of [Honey Trap Shared House](https://anilist.co/manga/141322) (19:37, 13 February 2022)
--   📖 Read chapter 1 - 13 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (12:10, 13 February 2022)
--   📖 Read chapter 43 - 60 of [My Neighbor Seki](https://anilist.co/manga/58091) (10:48, 13 February 2022)
--   📖 Read chapter 88 - 101 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (20:20, 12 February 2022)
+-   📖 Read chapter 48 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (10:09, 14 February 2022)
+-   📖 Read chapter 239 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (10:05, 14 February 2022)
+-   📖 Read chapter 46 of [Megami no Café Terrace](https://anilist.co/manga/129694) (10:03, 14 February 2022)
+-   📖 Read chapter 83 of [Shounen no Abyss](https://anilist.co/manga/116186) (10:00, 14 February 2022)
+-   📖 Read chapter 78 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (09:58, 14 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
