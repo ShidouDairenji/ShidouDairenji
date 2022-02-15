@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 15 - 16 of [Monster Musume](https://anilist.co/manga/66213) (14:08, 15 February 2022)
+-   📖 Read chapter 15 - 19 of [Monster Musume](https://anilist.co/manga/66213) (15:09, 15 February 2022)
 -   📖 Read chapter 12 - 14 of [Monster Musume](https://anilist.co/manga/66213) (03:23, 15 February 2022)
 -   📖 Read chapter 1 - 11 of [Monster Musume](https://anilist.co/manga/66213) (14:24, 14 February 2022)
 -   📖 Read chapter 48 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (10:09, 14 February 2022)
