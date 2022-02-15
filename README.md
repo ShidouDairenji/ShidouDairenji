@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 12 - 14 of [Monster Musume](https://anilist.co/manga/66213) (03:23, 15 February 2022)
 -   📖 Read chapter 1 - 11 of [Monster Musume](https://anilist.co/manga/66213) (14:24, 14 February 2022)
 -   📖 Read chapter 48 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (10:09, 14 February 2022)
 -   📖 Read chapter 239 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (10:05, 14 February 2022)
 -   📖 Read chapter 46 of [Megami no Café Terrace](https://anilist.co/manga/129694) (10:03, 14 February 2022)
--   📖 Read chapter 83 of [Shounen no Abyss](https://anilist.co/manga/116186) (10:00, 14 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
