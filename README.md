@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 26 - 27 of [Monster Musume](https://anilist.co/manga/66213) (13:35, 17 February 2022)
+-   📖 Read chapter 26 - 29 of [Monster Musume](https://anilist.co/manga/66213) (14:18, 17 February 2022)
 -   📖 Read chapter 23 - 25 of [Monster Musume](https://anilist.co/manga/66213) (10:58, 17 February 2022)
 -   📖 Read chapter 41 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (05:31, 17 February 2022)
 -   📖 Reread chapter 130 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (05:13, 17 February 2022)
