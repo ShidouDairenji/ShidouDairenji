@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 35 of [Monster Musume](https://anilist.co/manga/66213) (03:06, 18 February 2022)
+-   📖 Read chapter 35 - 37 of [Monster Musume](https://anilist.co/manga/66213) (03:16, 18 February 2022)
 -   📖 Read chapter 30 - 34 of [Monster Musume](https://anilist.co/manga/66213) (16:36, 17 February 2022)
 -   📖 Read chapter 26 - 29 of [Monster Musume](https://anilist.co/manga/66213) (14:18, 17 February 2022)
 -   📖 Read chapter 23 - 25 of [Monster Musume](https://anilist.co/manga/66213) (10:58, 17 February 2022)
