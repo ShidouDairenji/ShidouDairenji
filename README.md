@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 19 - 22 of [Shibito no Koe wo Kiku ga Yoi](https://anilist.co/manga/88234) (13:46, 19 February 2022)
+-   📖 Read chapter 43 of [Monster Musume](https://anilist.co/manga/66213) (13:30, 19 February 2022)
 -   📖 Read chapter 77 of [DEAD Tube](https://anilist.co/manga/85671) (13:08, 19 February 2022)
 -   📖 Read chapter 18 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (09:55, 19 February 2022)
 -   📖 Read chapter 42 of [Monster Musume](https://anilist.co/manga/66213) (09:49, 19 February 2022)
--   📖 Read chapter 14 - 17 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (07:22, 19 February 2022)
--   📖 Read chapter 40 - 41 of [Monster Musume](https://anilist.co/manga/66213) (06:30, 19 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
