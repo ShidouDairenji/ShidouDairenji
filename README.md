@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 77 of [DEAD Tube](https://anilist.co/manga/85671) (13:08, 19 February 2022)
 -   📖 Read chapter 18 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (09:55, 19 February 2022)
 -   📖 Read chapter 42 of [Monster Musume](https://anilist.co/manga/66213) (09:49, 19 February 2022)
 -   📖 Read chapter 14 - 17 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (07:22, 19 February 2022)
 -   📖 Read chapter 40 - 41 of [Monster Musume](https://anilist.co/manga/66213) (06:30, 19 February 2022)
--   📖 Read chapter 38 - 39 of [Monster Musume](https://anilist.co/manga/66213) (00:32, 19 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
