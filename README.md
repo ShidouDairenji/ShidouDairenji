@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 84 of [Shounen no Abyss](https://anilist.co/manga/116186) (18:25, 21 February 2022)
+-   📖 Read chapter 71 of [[Oshi no Ko]](https://anilist.co/manga/117195) (18:23, 21 February 2022)
+-   📖 Read chapter 60 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:20, 21 February 2022)
 -   📖 Read chapter 24 - 25 of [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (18:10, 21 February 2022)
 -   📖 Read chapter 67 of [Goblin Slayer](https://anilist.co/manga/87321) (18:05, 21 February 2022)
--   📖 Read chapter 25 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (09:14, 21 February 2022)
--   📖 Read chapter 72 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:02, 21 February 2022)
--   📖 Read chapter 80 of [Ayakashi Triangle](https://anilist.co/manga/119493) (09:00, 21 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
