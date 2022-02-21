@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 25 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (09:14, 21 February 2022)
 -   📖 Read chapter 72 of [My Dress-Up Darling](https://anilist.co/manga/101583) (09:02, 21 February 2022)
 -   📖 Read chapter 80 of [Ayakashi Triangle](https://anilist.co/manga/119493) (09:00, 21 February 2022)
 -   📖 Read chapter 240 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (08:57, 21 February 2022)
 -   📖 Read chapter 1 of [Ashita, Watashi wa Dareka no Kanojo](https://anilist.co/manga/109275) (08:55, 21 February 2022)
--   📖 Read chapter 19 - 22 of [Shibito no Koe wo Kiku ga Yoi](https://anilist.co/manga/88234) (13:46, 19 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
