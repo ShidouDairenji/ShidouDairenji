@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 - 7 of [Even If You Slit My Mouth](https://anilist.co/manga/125624) (16:41, 22 February 2022)
 -   📖 Read chapter 45 of [Dandadan](https://anilist.co/manga/132029) (08:57, 22 February 2022)
 -   📖 Read chapter 84 of [Shounen no Abyss](https://anilist.co/manga/116186) (18:25, 21 February 2022)
 -   📖 Read chapter 71 of [[Oshi no Ko]](https://anilist.co/manga/117195) (18:23, 21 February 2022)
 -   📖 Read chapter 60 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:20, 21 February 2022)
--   📖 Read chapter 24 - 25 of [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (18:10, 21 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
