@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 - 55 of [Goodnight Punpun](https://anilist.co/manga/34632) (13:57, 23 February 2022)
+-   📖 Read chapter 1 - 2 of [Tokage no Ou](https://anilist.co/manga/67543) (13:39, 23 February 2022)
 -   📖 Read chapter 118 - 121 of [My Hero Academia](https://anilist.co/manga/85486) (12:05, 23 February 2022)
 -   📖 Read chapter 23 - 27 of [Killer in Love](https://anilist.co/manga/128163) (11:26, 23 February 2022)
 -   📖 Read chapter 21 - 22 of [Killer in Love](https://anilist.co/manga/128163) (17:17, 22 February 2022)
--   📖 Read chapter 71 of [Juujika no Rokunin](https://anilist.co/manga/116671) (17:14, 22 February 2022)
--   📖 Read chapter 5 - 7 of [Even If You Slit My Mouth](https://anilist.co/manga/125624) (16:41, 22 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
