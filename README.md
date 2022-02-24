@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 82 - 85 of [Goodnight Punpun](https://anilist.co/manga/34632) (16:04, 24 February 2022)
 -   📖 Plans to read [Orokamonogatari](https://anilist.co/manga/96019) (14:37, 24 February 2022)
 -   📖 Completed [Zoku Owarimonogatari: End Tale (Cont.)](https://anilist.co/manga/143749) (14:37, 24 February 2022)
 -   📖 Completed [Owarimonogatari: End Tale](https://anilist.co/manga/143747) (14:36, 24 February 2022)
 -   📖 Completed [Koyomimonogatari: Calendar Tale](https://anilist.co/manga/143743) (14:35, 24 February 2022)
--   📖 Completed [Tsukimonogatari: Possession Tale](https://anilist.co/manga/74227) (14:35, 24 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
