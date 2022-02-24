@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 65 - 67 of [Goodnight Punpun](https://anilist.co/manga/34632) (02:59, 24 February 2022)
+-   📖 Read chapter 65 - 68 of [Goodnight Punpun](https://anilist.co/manga/34632) (04:05, 24 February 2022)
 -   📖 Read chapter 60 - 64 of [Goodnight Punpun](https://anilist.co/manga/34632) (17:24, 23 February 2022)
 -   📖 Read chapter 53 - 59 of [Goodnight Punpun](https://anilist.co/manga/34632) (14:21, 23 February 2022)
 -   📖 Read chapter 1 - 2 of [Tokage no Ou](https://anilist.co/manga/67543) (13:39, 23 February 2022)
