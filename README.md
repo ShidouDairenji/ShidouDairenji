@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 51 - 52 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (03:06, 25 February 2022)
+-   📖 Read chapter 72 of [Juujika no Rokunin](https://anilist.co/manga/116671) (02:59, 25 February 2022)
 -   📖 Read chapter 82 - 85 of [Goodnight Punpun](https://anilist.co/manga/34632) (16:04, 24 February 2022)
 -   📖 Plans to read [Orokamonogatari](https://anilist.co/manga/96019) (14:37, 24 February 2022)
 -   📖 Completed [Zoku Owarimonogatari: End Tale (Cont.)](https://anilist.co/manga/143749) (14:37, 24 February 2022)
--   📖 Completed [Owarimonogatari: End Tale](https://anilist.co/manga/143747) (14:36, 24 February 2022)
--   📖 Completed [Koyomimonogatari: Calendar Tale](https://anilist.co/manga/143743) (14:35, 24 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
