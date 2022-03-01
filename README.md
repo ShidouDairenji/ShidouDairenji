@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 48 of [Megami no Café Terrace](https://anilist.co/manga/129694) (11:04, 27 February 2022)
--   📖 Read chapter 241 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (11:02, 27 February 2022)
--   📖 Read chapter 49 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (11:00, 27 February 2022)
--   📖 Read chapter 3 of [Nukitashi: Nukige Mitai na Shima ni Tsunderu Watashi wa Dou Surya Ii desu ka?](https://anilist.co/manga/140334) (13:27, 26 February 2022)
--   📖 Completed [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (13:46, 25 February 2022)
+-   📖 Read chapter 34 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (09:59, 01 March 2022)
+-   📖 Read chapter 5 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (09:58, 01 March 2022)
+-   📖 Read chapter 46 of [Dandadan](https://anilist.co/manga/132029) (09:55, 01 March 2022)
+-   📖 Read chapter 42 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (09:54, 01 March 2022)
+-   📖 Read chapter 68 of [Goblin Slayer](https://anilist.co/manga/87321) (09:53, 01 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
