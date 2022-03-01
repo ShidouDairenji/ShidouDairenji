@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 - 46 of [Monster Musume](https://anilist.co/manga/66213) (15:20, 01 March 2022)
 -   📖 Read chapter 34 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (09:59, 01 March 2022)
 -   📖 Read chapter 5 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (09:58, 01 March 2022)
 -   📖 Read chapter 46 of [Dandadan](https://anilist.co/manga/132029) (09:55, 01 March 2022)
 -   📖 Read chapter 42 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (09:54, 01 March 2022)
--   📖 Read chapter 68 of [Goblin Slayer](https://anilist.co/manga/87321) (09:53, 01 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
