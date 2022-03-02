@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 12 - 13 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (09:06, 02 March 2022)
 -   📖 Read chapter 5 - 11 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (05:52, 02 March 2022)
 -   📖 Read chapter 1 - 4 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (19:23, 01 March 2022)
 -   📖 Read chapter 44 - 46 of [Monster Musume](https://anilist.co/manga/66213) (15:20, 01 March 2022)
 -   📖 Read chapter 34 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (09:59, 01 March 2022)
--   📖 Read chapter 5 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (09:58, 01 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
