@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (18:12, 03 March 2022)
 -   📖 Read chapter 14 - 15 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (13:07, 02 March 2022)
 -   📖 Read chapter 12 - 13 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (09:06, 02 March 2022)
 -   📖 Read chapter 5 - 11 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (05:52, 02 March 2022)
 -   📖 Read chapter 1 - 4 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (19:23, 01 March 2022)
--   📖 Read chapter 44 - 46 of [Monster Musume](https://anilist.co/manga/66213) (15:20, 01 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
