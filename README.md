@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 96 of [My Dearest Self With Malice Aforethought](https://anilist.co/manga/106867) (13:35, 04 March 2022)
+-   📖 Read chapter 81 of [How NOT to Summon a Demon Lord](https://anilist.co/manga/86338) (13:33, 04 March 2022)
+-   📖 Read chapter 79 of [Chained Soldier](https://anilist.co/manga/106064) (13:23, 04 March 2022)
 -   📖 Read chapter 18 - 20 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (02:55, 04 March 2022)
 -   📖 Read chapter 16 - 17 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (18:32, 03 March 2022)
--   📖 Read chapter 14 - 15 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (13:07, 02 March 2022)
--   📖 Read chapter 12 - 13 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (09:06, 02 March 2022)
--   📖 Read chapter 5 - 11 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (05:52, 02 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
