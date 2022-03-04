@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 18 - 20 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (02:55, 04 March 2022)
 -   📖 Read chapter 16 - 17 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (18:32, 03 March 2022)
 -   📖 Read chapter 14 - 15 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (13:07, 02 March 2022)
 -   📖 Read chapter 12 - 13 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (09:06, 02 March 2022)
 -   📖 Read chapter 5 - 11 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (05:52, 02 March 2022)
--   📖 Read chapter 1 - 4 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (19:23, 01 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
