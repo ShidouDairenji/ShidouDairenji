@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 82 of [Ayakashi Triangle](https://anilist.co/manga/119493) (03:09, 08 March 2022)
+-   📖 Read chapter 23 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (02:50, 08 March 2022)
 -   📖 Read chapter 26 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (18:18, 06 March 2022)
 -   📖 Read chapter 73 of [Juujika no Rokunin](https://anilist.co/manga/116671) (18:14, 06 March 2022)
 -   📖 Read chapter 85 of [Shounen no Abyss](https://anilist.co/manga/116186) (18:13, 06 March 2022)
--   📖 Read chapter 4 of [Honey Trap Shared House](https://anilist.co/manga/141322) (11:17, 06 March 2022)
--   📖 Read chapter 22 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (13:59, 05 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
