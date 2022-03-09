@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 78 of [DEAD Tube](https://anilist.co/manga/85671) (16:38, 09 March 2022)
+-   📖 Read chapter 20 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (16:24, 09 March 2022)
 -   📖 Read chapter 82 of [Ayakashi Triangle](https://anilist.co/manga/119493) (03:09, 08 March 2022)
 -   📖 Read chapter 23 of [Magical Girl Apocalypse](https://anilist.co/manga/70175) (02:50, 08 March 2022)
 -   📖 Read chapter 26 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (18:18, 06 March 2022)
--   📖 Read chapter 73 of [Juujika no Rokunin](https://anilist.co/manga/116671) (18:14, 06 March 2022)
--   📖 Read chapter 85 of [Shounen no Abyss](https://anilist.co/manga/116186) (18:13, 06 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
