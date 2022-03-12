@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 89 of [The Way of the Househusband](https://anilist.co/manga/101233) (23:44, 11 March 2022)
 -   📖 Read chapter 49 of [Megami no Café Terrace](https://anilist.co/manga/129694) (15:57, 11 March 2022)
 -   📖 Read chapter 86 of [Shounen no Abyss](https://anilist.co/manga/116186) (15:54, 11 March 2022)
 -   📖 Read chapter 78 of [DEAD Tube](https://anilist.co/manga/85671) (16:38, 09 March 2022)
 -   📖 Read chapter 20 of [Teihen Ryoushu no Kanchigai Eiyuutan: Heimin ni Yasashiku Shite tara, Itsuno Manika Kuni to Sensou ni Natteita Ken](https://anilist.co/manga/130048) (16:24, 09 March 2022)
--   📖 Read chapter 82 of [Ayakashi Triangle](https://anilist.co/manga/119493) (03:09, 08 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
