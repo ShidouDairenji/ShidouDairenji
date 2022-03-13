@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 32 of [The Flowers of Evil](https://anilist.co/manga/54705) (13:14, 13 March 2022)
+-   📖 Read chapter 1 - 42 of [The Flowers of Evil](https://anilist.co/manga/54705) (13:42, 13 March 2022)
 -   📖 Read chapter 1 - 29 of [Uragirareta S-Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomo ni Dorei dake no Harem Guild wo Tsukuru](https://anilist.co/manga/119327) (10:59, 13 March 2022)
 -   📖 Read chapter 50 of [Megami no Café Terrace](https://anilist.co/manga/129694) (09:43, 13 March 2022)
 -   📖 Read chapter 1 of [Tsuihou Sareta Onimotsu Tamer, Sekai Yuiitsu no Necromancer ni Kakusei Suru: The Tale of the Necromancer.](https://anilist.co/manga/138960) (05:44, 12 March 2022)
