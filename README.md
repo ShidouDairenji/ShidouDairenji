@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 20 of [Doukyonin ga Konoyo no Mon Janai](https://anilist.co/manga/125584) (00:00, 15 March 2022)
+-   📖 Read chapter 27 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (23:45, 14 March 2022)
+-   📖 Read chapter 83 of [Ayakashi Triangle](https://anilist.co/manga/119493) (23:42, 14 March 2022)
+-   📖 Read chapter 30 of [Uragirareta S-Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomo ni Dorei dake no Harem Guild wo Tsukuru](https://anilist.co/manga/119327) (23:32, 14 March 2022)
 -   📖 Read chapter 80 of [Chained Soldier](https://anilist.co/manga/106064) (03:50, 14 March 2022)
--   📖 Reread chapter 131 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (03:47, 14 March 2022)
--   📖 Read chapter 1 - 57 of [The Flowers of Evil](https://anilist.co/manga/54705) (14:51, 13 March 2022)
--   📖 Read chapter 1 - 29 of [Uragirareta S-Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomo ni Dorei dake no Harem Guild wo Tsukuru](https://anilist.co/manga/119327) (10:59, 13 March 2022)
--   📖 Read chapter 50 of [Megami no Café Terrace](https://anilist.co/manga/129694) (09:43, 13 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
