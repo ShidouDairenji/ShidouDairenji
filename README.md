@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 47 - 48 of [Dandadan](https://anilist.co/manga/132029) (12:03, 15 March 2022)
+-   📖 Read chapter 74 of [Juujika no Rokunin](https://anilist.co/manga/116671) (12:00, 15 March 2022)
+-   📖 Read chapter 43 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (11:59, 15 March 2022)
 -   📖 Completed [Wazamonogatari](https://anilist.co/manga/143762) (09:19, 15 March 2022)
 -   📖 Completed [Nademonogatari](https://anilist.co/manga/143763) (09:19, 15 March 2022)
--   📖 Completed [Musubimonogatari](https://anilist.co/manga/143764) (09:19, 15 March 2022)
--   📖 Completed [Orokamonogatari](https://anilist.co/manga/96019) (09:18, 15 March 2022)
--   📖 Reread chapter 132 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (09:17, 15 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
