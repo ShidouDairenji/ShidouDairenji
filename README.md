@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 16 of [A Girl on the Shore](https://anilist.co/manga/47353) (13:18, 15 March 2022)
+-   📖 Read chapter 1 - 20 of [A Girl on the Shore](https://anilist.co/manga/47353) (13:26, 15 March 2022)
 -   📖 Read chapter 47 - 48 of [Dandadan](https://anilist.co/manga/132029) (12:03, 15 March 2022)
 -   📖 Read chapter 74 of [Juujika no Rokunin](https://anilist.co/manga/116671) (12:00, 15 March 2022)
 -   📖 Read chapter 43 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (11:59, 15 March 2022)
