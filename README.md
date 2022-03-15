@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [takt op.Destiny](https://anilist.co/anime/131565) (09:11, 15 March 2022)
--   📺 Completed [Amagi Brilliant Park](https://anilist.co/anime/20602) (09:10, 15 March 2022)
--   📖 Read chapter 1 - 20 of [Doukyonin ga Konoyo no Mon Janai](https://anilist.co/manga/125584) (00:00, 15 March 2022)
--   📖 Read chapter 27 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (23:45, 14 March 2022)
--   📖 Read chapter 83 of [Ayakashi Triangle](https://anilist.co/manga/119493) (23:42, 14 March 2022)
+-   📖 Completed [Wazamonogatari](https://anilist.co/manga/143762) (09:19, 15 March 2022)
+-   📖 Completed [Nademonogatari](https://anilist.co/manga/143763) (09:19, 15 March 2022)
+-   📖 Completed [Musubimonogatari](https://anilist.co/manga/143764) (09:19, 15 March 2022)
+-   📖 Completed [Orokamonogatari](https://anilist.co/manga/96019) (09:18, 15 March 2022)
+-   📖 Reread chapter 132 of [Monthly Girls' Nozaki-kun](https://anilist.co/manga/59211) (09:17, 15 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
