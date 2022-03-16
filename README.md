@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 29 - 30 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (14:19, 16 March 2022)
 -   📖 Read chapter 23 - 28 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (06:29, 16 March 2022)
 -   📖 Read chapter 19 - 22 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (16:35, 15 March 2022)
 -   📖 Completed [A Girl on the Shore](https://anilist.co/manga/47353) (16:09, 15 March 2022)
 -   📖 Read chapter 1 - 20 of [A Girl on the Shore](https://anilist.co/manga/47353) (13:26, 15 March 2022)
--   📖 Read chapter 47 - 48 of [Dandadan](https://anilist.co/manga/132029) (12:03, 15 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
