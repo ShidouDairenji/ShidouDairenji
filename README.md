@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 29 - 30 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (14:19, 16 March 2022)
--   📖 Read chapter 23 - 28 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (06:29, 16 March 2022)
--   📖 Read chapter 19 - 22 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (16:35, 15 March 2022)
--   📖 Completed [A Girl on the Shore](https://anilist.co/manga/47353) (16:09, 15 March 2022)
--   📖 Read chapter 1 - 20 of [A Girl on the Shore](https://anilist.co/manga/47353) (13:26, 15 March 2022)
+-   📖 Read chapter 8 of [Even If You Slit My Mouth](https://anilist.co/manga/125624) (14:17, 17 March 2022)
+-   📖 Read chapter 119 - 120 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (13:45, 17 March 2022)
+-   📖 Read chapter 75 of [Juujika no Rokunin](https://anilist.co/manga/116671) (13:42, 17 March 2022)
+-   📖 Read chapter 31 of [Uragirareta S-Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomo ni Dorei dake no Harem Guild wo Tsukuru](https://anilist.co/manga/119327) (13:40, 17 March 2022)
+-   📖 Read chapter 242 - 243 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (13:36, 17 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
