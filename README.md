@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 73 of [My Dress-Up Darling](https://anilist.co/manga/101583) (21:51, 18 March 2022)
+-   📖 Read chapter 84 of [Ayakashi Triangle](https://anilist.co/manga/119493) (21:48, 18 March 2022)
+-   📖 Read chapter 244 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (21:45, 18 March 2022)
 -   📖 Read chapter 8 of [Even If You Slit My Mouth](https://anilist.co/manga/125624) (14:17, 17 March 2022)
 -   📖 Read chapter 119 - 120 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (13:45, 17 March 2022)
--   📖 Read chapter 75 of [Juujika no Rokunin](https://anilist.co/manga/116671) (13:42, 17 March 2022)
--   📖 Read chapter 31 of [Uragirareta S-Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomo ni Dorei dake no Harem Guild wo Tsukuru](https://anilist.co/manga/119327) (13:40, 17 March 2022)
--   📖 Read chapter 242 - 243 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (13:36, 17 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
