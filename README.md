@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 14 of [Ragna Crimson](https://anilist.co/manga/99065) (11:59, 19 March 2022)
+-   📖 Read chapter 1 - 17 of [Ragna Crimson](https://anilist.co/manga/99065) (14:05, 19 March 2022)
 -   📖 Read chapter 1 - 3 of [Ragna Crimson](https://anilist.co/manga/99065) (08:38, 19 March 2022)
 -   📖 Plans to read [Solanin](https://anilist.co/manga/33731) (05:33, 19 March 2022)
 -   📖 Plans to read [Downfall](https://anilist.co/manga/98674) (05:33, 19 March 2022)
