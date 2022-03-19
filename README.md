@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Solanin](https://anilist.co/manga/33731) (05:33, 19 March 2022)
+-   📖 Plans to read [Downfall](https://anilist.co/manga/98674) (05:33, 19 March 2022)
+-   📖 Plans to read [Sekai no Owari to Yoake Mae](https://anilist.co/manga/45355) (05:32, 19 March 2022)
+-   📖 Dropped [Perfect Half](https://anilist.co/manga/87400) (05:30, 19 March 2022)
 -   📖 Read chapter 73 of [My Dress-Up Darling](https://anilist.co/manga/101583) (21:51, 18 March 2022)
--   📖 Read chapter 84 of [Ayakashi Triangle](https://anilist.co/manga/119493) (21:48, 18 March 2022)
--   📖 Read chapter 244 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (21:45, 18 March 2022)
--   📖 Read chapter 8 of [Even If You Slit My Mouth](https://anilist.co/manga/125624) (14:17, 17 March 2022)
--   📖 Read chapter 119 - 120 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (13:45, 17 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
