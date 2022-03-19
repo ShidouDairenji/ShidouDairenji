@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 5 of [Ragna Crimson](https://anilist.co/manga/99065) (08:55, 19 March 2022)
+-   📖 Read chapter 1 - 3 of [Ragna Crimson](https://anilist.co/manga/99065) (08:38, 19 March 2022)
 -   📖 Plans to read [Solanin](https://anilist.co/manga/33731) (05:33, 19 March 2022)
 -   📖 Plans to read [Downfall](https://anilist.co/manga/98674) (05:33, 19 March 2022)
 -   📖 Plans to read [Sekai no Owari to Yoake Mae](https://anilist.co/manga/45355) (05:32, 19 March 2022)
--   📖 Dropped [Perfect Half](https://anilist.co/manga/87400) (05:30, 19 March 2022)
--   📖 Read chapter 73 of [My Dress-Up Darling](https://anilist.co/manga/101583) (21:51, 18 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
