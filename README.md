@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 30 - 38 of [Ragna Crimson](https://anilist.co/manga/99065) (10:10, 20 March 2022)
+-   📖 Plans to read [Inu to Kuzu](https://anilist.co/manga/135930) (11:04, 20 March 2022)
+-   📺 Plans to watch [Ragna Crimson](https://anilist.co/anime/146493) (11:01, 20 March 2022)
+-   📺 Watched episode 11 of [My Dress-Up Darling](https://anilist.co/anime/132405) (11:01, 20 March 2022)
+-   📖 Read chapter 30 - 42 of [Ragna Crimson](https://anilist.co/manga/99065) (10:46, 20 March 2022)
 -   📖 Read chapter 26 - 29 of [Ragna Crimson](https://anilist.co/manga/99065) (05:36, 20 March 2022)
--   📖 Read chapter 1 - 25 of [Ragna Crimson](https://anilist.co/manga/99065) (16:26, 19 March 2022)
--   📖 Read chapter 1 - 3 of [Ragna Crimson](https://anilist.co/manga/99065) (08:38, 19 March 2022)
--   📖 Plans to read [Solanin](https://anilist.co/manga/33731) (05:33, 19 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
