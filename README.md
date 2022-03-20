@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 47 of [Ragna Crimson](https://anilist.co/manga/99065) (16:11, 20 March 2022)
+-   📺 Plans to watch [Black Clover Movie](https://anilist.co/anime/131680) (15:45, 20 March 2022)
+-   📺 Watched episode 73 - 81 of [Black Clover](https://anilist.co/anime/97940) (15:44, 20 March 2022)
 -   📖 Read chapter 43 - 46 of [Ragna Crimson](https://anilist.co/manga/99065) (13:11, 20 March 2022)
 -   📖 Plans to read [Inu to Kuzu](https://anilist.co/manga/135930) (11:04, 20 March 2022)
--   📺 Plans to watch [Ragna Crimson](https://anilist.co/anime/146493) (11:01, 20 March 2022)
--   📺 Watched episode 11 of [My Dress-Up Darling](https://anilist.co/anime/132405) (11:01, 20 March 2022)
--   📖 Read chapter 30 - 42 of [Ragna Crimson](https://anilist.co/manga/99065) (10:46, 20 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
