@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 7 of [Tokage no Ou](https://anilist.co/manga/67543) (14:10, 21 March 2022)
+-   📖 Read chapter 3 - 11 of [Tokage no Ou](https://anilist.co/manga/67543) (14:16, 21 March 2022)
 -   📖 Completed [All You Need Is Kill](https://anilist.co/manga/85215) (10:48, 21 March 2022)
 -   📖 Read chapter 51 of [Ragna Crimson](https://anilist.co/manga/99065) (10:40, 21 March 2022)
 -   📖 Read chapter 47 - 50 of [Ragna Crimson](https://anilist.co/manga/99065) (16:25, 20 March 2022)
