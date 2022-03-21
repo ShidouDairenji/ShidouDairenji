@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 7 of [Tokage no Ou](https://anilist.co/manga/67543) (14:10, 21 March 2022)
 -   📖 Completed [All You Need Is Kill](https://anilist.co/manga/85215) (10:48, 21 March 2022)
 -   📖 Read chapter 51 of [Ragna Crimson](https://anilist.co/manga/99065) (10:40, 21 March 2022)
 -   📖 Read chapter 47 - 50 of [Ragna Crimson](https://anilist.co/manga/99065) (16:25, 20 March 2022)
 -   📺 Plans to watch [Black Clover Movie](https://anilist.co/anime/131680) (15:45, 20 March 2022)
--   📺 Watched episode 73 - 81 of [Black Clover](https://anilist.co/anime/97940) (15:44, 20 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
