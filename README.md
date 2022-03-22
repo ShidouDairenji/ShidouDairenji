@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Aizawa-san Multiplies](https://anilist.co/manga/85262) (15:16, 22 March 2022)
+-   📖 Completed [My Little Monster](https://anilist.co/manga/43702) (15:15, 22 March 2022)
+-   📖 Completed [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (15:14, 22 March 2022)
 -   📖 Read chapter 37 - 59 of [Kao ni denai Kashiwada-san to Kao ni deru Ota-kun](https://anilist.co/manga/102907) (08:38, 22 March 2022)
 -   📖 Read chapter 51 of [Megami no Café Terrace](https://anilist.co/manga/129694) (07:18, 22 March 2022)
--   📖 Read chapter 49 of [Dandadan](https://anilist.co/manga/132029) (07:16, 22 March 2022)
--   📖 Read chapter 87 of [Shounen no Abyss](https://anilist.co/manga/116186) (07:14, 22 March 2022)
--   📖 Read chapter 1 of [Zheng Li Mian Ju](https://anilist.co/manga/134151) (07:10, 22 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
