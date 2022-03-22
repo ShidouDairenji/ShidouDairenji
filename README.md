@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Zheng Li Mian Ju](https://anilist.co/manga/134151) (07:10, 22 March 2022)
+-   📖 Read chapter 68 - 73 of [Monster Musume](https://anilist.co/manga/66213) (07:05, 22 March 2022)
 -   📖 Read chapter 1 - 2 of [Hen na Chishiki ni Kuwashii Kanojo Takayukashiki Souko-san](https://anilist.co/manga/104612) (06:01, 22 March 2022)
 -   📖 Read chapter 51 - 67 of [Monster Musume](https://anilist.co/manga/66213) (04:49, 22 March 2022)
 -   📖 Read chapter 47 - 50 of [Monster Musume](https://anilist.co/manga/66213) (15:27, 21 March 2022)
--   📖 Read chapter 3 - 11 of [Tokage no Ou](https://anilist.co/manga/67543) (14:16, 21 March 2022)
--   📖 Completed [All You Need Is Kill](https://anilist.co/manga/85215) (10:48, 21 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
