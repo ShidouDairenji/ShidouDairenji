@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 37 - 48 of [Kao ni denai Kashiwada-san to Kao ni deru Ota-kun](https://anilist.co/manga/102907) (08:14, 22 March 2022)
+-   📖 Read chapter 37 - 59 of [Kao ni denai Kashiwada-san to Kao ni deru Ota-kun](https://anilist.co/manga/102907) (08:38, 22 March 2022)
 -   📖 Read chapter 51 of [Megami no Café Terrace](https://anilist.co/manga/129694) (07:18, 22 March 2022)
 -   📖 Read chapter 49 of [Dandadan](https://anilist.co/manga/132029) (07:16, 22 March 2022)
 -   📖 Read chapter 87 of [Shounen no Abyss](https://anilist.co/manga/116186) (07:14, 22 March 2022)
