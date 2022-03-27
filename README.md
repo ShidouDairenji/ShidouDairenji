@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 28 - 29 of [Killer in Love](https://anilist.co/manga/128163) (16:51, 25 March 2022)
--   📖 Completed [Aizawa-san Multiplies](https://anilist.co/manga/85262) (15:16, 22 March 2022)
--   📖 Completed [My Little Monster](https://anilist.co/manga/43702) (15:15, 22 March 2022)
--   📖 Completed [Shachiku Succubus no Hanashi](https://anilist.co/manga/106688) (15:14, 22 March 2022)
--   📖 Read chapter 37 - 59 of [Kao ni denai Kashiwada-san to Kao ni deru Ota-kun](https://anilist.co/manga/102907) (08:38, 22 March 2022)
+-   📖 Read chapter 69 of [Goblin Slayer](https://anilist.co/manga/87321) (05:43, 27 March 2022)
+-   📖 Read chapter 81 of [Chained Soldier](https://anilist.co/manga/106064) (05:40, 27 March 2022)
+-   📖 Read chapter 50 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (05:38, 27 March 2022)
+-   📖 Read chapter 76 of [Juujika no Rokunin](https://anilist.co/manga/116671) (05:35, 27 March 2022)
+-   📖 Read chapter 245 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (05:34, 27 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
