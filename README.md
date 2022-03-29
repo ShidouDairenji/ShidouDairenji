@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Reread chapter 43 - 50 of [Monster Musume](https://anilist.co/manga/66213) (11:31, 29 March 2022)
+-   📖 Reread chapter 43 - 56 of [Monster Musume](https://anilist.co/manga/66213) (13:04, 29 March 2022)
 -   📖 Reread chapter 42 of [Monster Musume](https://anilist.co/manga/66213) (03:23, 29 March 2022)
 -   📺 Watched episode 89 of [Black Clover](https://anilist.co/anime/97940) (16:37, 27 March 2022)
 -   📺 Completed [My Dress-Up Darling](https://anilist.co/anime/132405) (16:35, 27 March 2022)
