@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Reread chapter 72 - 74 of [Monster Musume](https://anilist.co/manga/66213) (09:45, 30 March 2022)
+-   📖 Read chapter 50 of [Dandadan](https://anilist.co/manga/132029) (09:42, 30 March 2022)
+-   📖 Read chapter 85 of [Ayakashi Triangle](https://anilist.co/manga/119493) (09:39, 30 March 2022)
+-   📖 Read chapter 35 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (09:36, 30 March 2022)
 -   📖 Read chapter 44 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (05:24, 30 March 2022)
--   📖 Read chapter 28 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (05:24, 30 March 2022)
--   📖 Read chapter 82 of [How NOT to Summon a Demon Lord](https://anilist.co/manga/86338) (05:18, 30 March 2022)
--   📖 Reread chapter 57 - 71 of [Monster Musume](https://anilist.co/manga/66213) (20:00, 29 March 2022)
--   📖 Reread chapter 43 - 56 of [Monster Musume](https://anilist.co/manga/66213) (13:04, 29 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
