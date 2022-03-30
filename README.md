@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (05:24, 30 March 2022)
+-   📖 Read chapter 28 of [Amachin wa Jishou ♂](https://anilist.co/manga/104255) (05:24, 30 March 2022)
+-   📖 Read chapter 82 of [How NOT to Summon a Demon Lord](https://anilist.co/manga/86338) (05:18, 30 March 2022)
 -   📖 Reread chapter 57 - 71 of [Monster Musume](https://anilist.co/manga/66213) (20:00, 29 March 2022)
 -   📖 Reread chapter 43 - 56 of [Monster Musume](https://anilist.co/manga/66213) (13:04, 29 March 2022)
--   📖 Reread chapter 42 of [Monster Musume](https://anilist.co/manga/66213) (03:23, 29 March 2022)
--   📺 Watched episode 89 of [Black Clover](https://anilist.co/anime/97940) (16:37, 27 March 2022)
--   📺 Completed [My Dress-Up Darling](https://anilist.co/anime/132405) (16:35, 27 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
