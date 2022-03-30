@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 102 - 113 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (12:18, 30 March 2022)
 -   📖 Reread chapter 72 - 74 of [Monster Musume](https://anilist.co/manga/66213) (09:45, 30 March 2022)
 -   📖 Read chapter 50 of [Dandadan](https://anilist.co/manga/132029) (09:42, 30 March 2022)
 -   📖 Read chapter 85 of [Ayakashi Triangle](https://anilist.co/manga/119493) (09:39, 30 March 2022)
 -   📖 Read chapter 35 of [Hirasaka Hinako ga Ero Kawaii koto wo Ore dake ga Shitteiru.](https://anilist.co/manga/110872) (09:36, 30 March 2022)
--   📖 Read chapter 44 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (05:24, 30 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
