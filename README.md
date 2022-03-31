@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 23 - 25 of [Shibito no Koe wo Kiku ga Yoi](https://anilist.co/manga/88234) (14:11, 31 March 2022)
+-   📖 Completed [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (14:04, 31 March 2022)
 -   📖 Read chapter 31 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (11:01, 31 March 2022)
 -   📖 Read chapter 121 - 153 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (10:59, 31 March 2022)
 -   📖 Read chapter 102 - 120 of [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (12:30, 30 March 2022)
--   📖 Reread chapter 72 - 74 of [Monster Musume](https://anilist.co/manga/66213) (09:45, 30 March 2022)
--   📖 Read chapter 50 of [Dandadan](https://anilist.co/manga/132029) (09:42, 30 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
