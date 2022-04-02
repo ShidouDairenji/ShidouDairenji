@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 32 - 42 of [Shibito no Koe wo Kiku ga Yoi](https://anilist.co/manga/88234) (10:57, 02 April 2022)
 -   📖 Read chapter 32 - 46 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (15:11, 31 March 2022)
 -   📖 Read chapter 56 - 61 of [We're New at This](https://anilist.co/manga/104864) (14:36, 31 March 2022)
 -   📖 Read chapter 23 - 31 of [Shibito no Koe wo Kiku ga Yoi](https://anilist.co/manga/88234) (14:22, 31 March 2022)
 -   📖 Completed [Murenase! Seton Gakuen](https://anilist.co/manga/87382) (14:04, 31 March 2022)
--   📖 Read chapter 31 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (11:01, 31 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
