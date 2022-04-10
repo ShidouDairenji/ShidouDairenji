@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 50 - 52 of [Shibito no Koe wo Kiku ga Yoi](https://anilist.co/manga/88234) (06:09, 10 April 2022)
 -   📖 Read chapter 3 - 10 of [Hen na Chishiki ni Kuwashii Kanojo Takayukashiki Souko-san](https://anilist.co/manga/104612) (07:54, 06 April 2022)
 -   📖 Read chapter 74 of [My Dress-Up Darling](https://anilist.co/manga/101583) (13:19, 03 April 2022)
 -   📖 Read chapter 32 - 49 of [Shibito no Koe wo Kiku ga Yoi](https://anilist.co/manga/88234) (12:02, 02 April 2022)
 -   📖 Read chapter 32 - 46 of [A Couple of Cuckoos](https://anilist.co/manga/114383) (15:11, 31 March 2022)
--   📖 Read chapter 56 - 61 of [We're New at This](https://anilist.co/manga/104864) (14:36, 31 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
