@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 53 of [Ijimeru Yabai Yatsu](https://anilist.co/manga/110030) (11:35, 11 April 2022)
--   📖 Read chapter 1 - 3 of [Ijimeru Yabai Yatsu](https://anilist.co/manga/110030) (14:22, 10 April 2022)
--   📖 Read chapter 50 - 52 of [Shibito no Koe wo Kiku ga Yoi](https://anilist.co/manga/88234) (06:09, 10 April 2022)
--   📖 Read chapter 3 - 10 of [Hen na Chishiki ni Kuwashii Kanojo Takayukashiki Souko-san](https://anilist.co/manga/104612) (07:54, 06 April 2022)
--   📖 Read chapter 74 of [My Dress-Up Darling](https://anilist.co/manga/101583) (13:19, 03 April 2022)
+-   📖 Read chapter 89 - 90 of [Shounen no Abyss](https://anilist.co/manga/116186) (16:13, 11 April 2022)
+-   📖 Read chapter 45 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (16:03, 11 April 2022)
+-   📖 Read chapter 51 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (16:02, 11 April 2022)
+-   📖 Read chapter 246 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (16:00, 11 April 2022)
+-   📖 Read chapter 82 of [Chained Soldier](https://anilist.co/manga/106064) (15:56, 11 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
