@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 6 of [Ijimeru Yabai Yatsu](https://anilist.co/manga/110030) (10:11, 11 April 2022)
 -   📖 Read chapter 1 - 3 of [Ijimeru Yabai Yatsu](https://anilist.co/manga/110030) (14:22, 10 April 2022)
 -   📖 Read chapter 50 - 52 of [Shibito no Koe wo Kiku ga Yoi](https://anilist.co/manga/88234) (06:09, 10 April 2022)
 -   📖 Read chapter 3 - 10 of [Hen na Chishiki ni Kuwashii Kanojo Takayukashiki Souko-san](https://anilist.co/manga/104612) (07:54, 06 April 2022)
 -   📖 Read chapter 74 of [My Dress-Up Darling](https://anilist.co/manga/101583) (13:19, 03 April 2022)
--   📖 Read chapter 32 - 49 of [Shibito no Koe wo Kiku ga Yoi](https://anilist.co/manga/88234) (12:02, 02 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
