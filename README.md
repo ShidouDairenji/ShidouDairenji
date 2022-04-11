@@ -72,7 +72,7 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 6 of [Ijimeru Yabai Yatsu](https://anilist.co/manga/110030) (10:11, 11 April 2022)
+-   📖 Read chapter 4 - 33 of [Ijimeru Yabai Yatsu](https://anilist.co/manga/110030) (11:10, 11 April 2022)
 -   📖 Read chapter 1 - 3 of [Ijimeru Yabai Yatsu](https://anilist.co/manga/110030) (14:22, 10 April 2022)
 -   📖 Read chapter 50 - 52 of [Shibito no Koe wo Kiku ga Yoi](https://anilist.co/manga/88234) (06:09, 10 April 2022)
 -   📖 Read chapter 3 - 10 of [Hen na Chishiki ni Kuwashii Kanojo Takayukashiki Souko-san](https://anilist.co/manga/104612) (07:54, 06 April 2022)
