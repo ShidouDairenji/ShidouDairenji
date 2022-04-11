@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 52 of [Megami no Café Terrace](https://anilist.co/manga/129694) (17:56, 11 April 2022)
+-   📖 Read chapter 1 - 4 of [The Witches of Adamas](https://anilist.co/manga/104285) (17:27, 11 April 2022)
 -   📖 Read chapter 89 - 90 of [Shounen no Abyss](https://anilist.co/manga/116186) (16:13, 11 April 2022)
 -   📖 Read chapter 45 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (16:03, 11 April 2022)
 -   📖 Read chapter 51 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (16:02, 11 April 2022)
--   📖 Read chapter 246 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (16:00, 11 April 2022)
--   📖 Read chapter 82 of [Chained Soldier](https://anilist.co/manga/106064) (15:56, 11 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
