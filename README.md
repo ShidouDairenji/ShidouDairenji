@@ -72,11 +72,11 @@
   <br/>
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Ijimeru Aitsu Ga Waruinoka, Ijimerareta Boku ga Waruinoka?](https://anilist.co/manga/127169) (07:15, 18 April 2022)
 -   📺 Plans to watch [Isekai wa Smartphone to Tomo ni. 2nd Season](https://anilist.co/anime/147571) (12:20, 16 April 2022)
 -   📖 Read chapter 52 of [Megami no Café Terrace](https://anilist.co/manga/129694) (17:56, 11 April 2022)
 -   📖 Read chapter 1 - 4 of [The Witches of Adamas](https://anilist.co/manga/104285) (17:27, 11 April 2022)
 -   📖 Read chapter 89 - 90 of [Shounen no Abyss](https://anilist.co/manga/116186) (16:13, 11 April 2022)
--   📖 Read chapter 45 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (16:03, 11 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
